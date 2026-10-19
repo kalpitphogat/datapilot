@@ -31,19 +31,20 @@ question ──► NVIDIA Nemotron (Nebius Token Factory)
           Nemotron reads the result → next step … → FINAL ANSWER
                 │
                 ▼
-          answer reviewer: rejects claims about charts that weren't drawn,
-          missing requested charts, and invented currencies → model revises
+          answer reviewer: rejects numbers that don't appear in any code output
+          or web source, claims about charts that weren't drawn, missing
+          requested charts, and invented currencies → model revises
 ```
 
 ### Engineering details
 | Piece | What it does |
 |---|---|
-| `agent.py` | Reason → code → observe loop. Errors are fed back so the model self-corrects. A reply containing code is always executed before any answer is accepted, so the model can't skip the evidence. A **step budget** is shown after each step, and an **answer reviewer** checks the final answer against what actually happened before accepting it. |
+| `agent.py` | Reason → code → observe loop. Errors are fed back so the model self-corrects. A reply containing code is always executed before any answer is accepted, so the model can't skip the evidence. A **step budget** is shown after each step, and an **answer reviewer** checks the final answer against what actually happened before accepting it — including a **number grounding check** that traces every number in the answer back to code output or a web source (allowing for rounding and %, K, M scaling); numbers still untraceable after revisions are labelled ⚠️ Unverified. It's a strong filter, not a proof: a made-up number that coincidentally equals some printed value can still slip through. |
 | `sandbox.py` | Persistent namespace like a notebook kernel. **60s timeout** per step. A **guard rail** blocks system imports, file reads and credential access, so a prompt-injected dataset can't leak API keys. Figures are captured and auto-styled with readable axis labels (`4.2M`, not `1e6`). |
 | `search.py` | Tavily search exposed to the model as a Python function; sources are collected and cited. |
 | `report.py` | Self-contained HTML report export. |
 | `app.py` | Streamlit UI: live step-by-step progress, charts, sources, follow-ups. |
-| `tests/` | Offline tests with a scripted fake model: error recovery, evidence-before-answer, chart-claim review, sandbox blocking, report export. |
+| `tests/` | Offline tests with a scripted fake model: error recovery, evidence-before-answer, chart-claim review, number grounding, sandbox blocking, report export. |
 
 ## Run locally
 ```bash

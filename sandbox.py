@@ -92,7 +92,11 @@ class Sandbox:
 
         def _web_search(query: str, max_results: int = 5) -> list[dict]:
             results = web_search(query, max_results)
-            self.sources.extend(r for r in results if r.get("url") and r not in self.sources)
+            seen = {s["url"] for s in self.sources}
+            for r in results:
+                if r.get("url") and r["url"] not in seen:
+                    self.sources.append(r)
+                    seen.add(r["url"])
             return results
 
         self.namespace = {"df": df, "pd": pd, "np": np, "plt": plt, "web_search": _web_search}
