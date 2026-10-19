@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#76B900"
+
+[server]
+maxUploadSize = 50

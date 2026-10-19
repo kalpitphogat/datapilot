@@ -1,0 +1,2131 @@
+date,region,category,product,units_sold,unit_price,revenue,marketing_spend,customer_rating
+2025-01-01,West,Home & Kitchen,Bedsheet Set,5,1894.8,9474.0,4328.92,4.1
+2025-01-01,South,Books,Novel,4,375.63,1502.52,5693.38,5.0
+2025-01-01,South,Beauty,Sunscreen,2,534.46,1068.92,1232.06,4.5
+2025-01-01,South,Beauty,Sunscreen,5,481.77,2408.85,3706.22,4.3
+2025-01-01,West,Books,Novel,3,345.95,1037.85,1930.65,3.4
+2025-01-01,East,Electronics,Bluetooth Speaker,3,2214.58,6643.74,2828.6,3.3
+2025-01-01,West,Beauty,Face Serum,7,485.45,3398.15,1108.73,4.0
+2025-01-01,North,Books,Self-Help,5,368.24,1841.2,3566.56,3.4
+2025-01-02,West,Beauty,Sunscreen,4,553.43,2213.72,4217.42,4.3
+2025-01-02,West,Home & Kitchen,Mixer Grinder,5,1739.38,8696.9,615.14,4.3
+2025-01-02,North,Home & Kitchen,Mixer Grinder,6,2130.16,12780.96,3256.71,3.7
+2025-01-02,South,Home & Kitchen,Water Purifier,8,2034.93,16279.44,4499.59,4.3
+2025-01-02,East,Electronics,Smartwatch,4,2916.01,11664.04,457.16,2.8
+2025-01-03,East,Fashion,Denim Jacket,3,1168.85,3506.55,3322.0,3.6
+2025-01-03,North,Beauty,Face Serum,5,659.23,3296.15,2822.8,4.3
+2025-01-03,East,Electronics,Bluetooth Speaker,3,2874.56,8623.68,676.29,4.1
+2025-01-03,South,Fashion,Denim Jacket,1,1070.23,1070.23,1811.06,4.2
+2025-01-03,West,Electronics,Power Bank,6,2123.75,12742.5,260.63,3.6
+2025-01-04,East,Home & Kitchen,Mixer Grinder,7,1518.58,10630.06,933.17,3.8
+2025-01-04,East,Fashion,Denim Jacket,5,1272.93,6364.65,221.15,3.3
+2025-01-04,South,Home & Kitchen,Bedsheet Set,2,1867.99,3735.98,743.82,4.4
+2025-01-04,North,Electronics,Bluetooth Speaker,3,2115.49,6346.47,1034.54,3.3
+2025-01-04,East,Electronics,Earbuds,6,2181.5,13089.0,1571.44,4.8
+2025-01-04,North,Fashion,Kurta,3,1360.06,4080.18,6952.12,4.3
+2025-01-04,South,Beauty,Hair Oil,10,633.5,6335.0,4760.38,4.3
+2025-01-05,North,Home & Kitchen,Pressure Cooker,9,1823.56,16412.04,1916.25,4.2
+2025-01-05,North,Fashion,Kurta,3,1308.34,3925.02,842.02,4.6
+2025-01-05,East,Home & Kitchen,Water Purifier,7,1883.64,13185.48,2372.57,3.9
+2025-01-05,North,Home & Kitchen,Mixer Grinder,5,1524.31,7621.55,170.28,4.9
+2025-01-06,East,Fashion,Kurta,11,1368.26,15050.86,3318.36,4.1
+2025-01-06,North,Electronics,Smartwatch,5,2918.44,14592.2,1714.29,3.5
+2025-01-06,East,Home & Kitchen,Mixer Grinder,4,2085.86,8343.44,1693.18,4.5
+2025-01-06,North,Fashion,Sneakers,3,984.8,2954.4,2900.74,3.2
+2025-01-06,North,Beauty,Lipstick,5,489.64,2448.2,588.07,3.8
+2025-01-06,North,Electronics,Power Bank,8,2616.31,20930.48,6144.03,3.6
+2025-01-06,East,Fashion,Denim Jacket,1,1430.41,1430.41,366.45,3.9
+2025-01-06,East,Books,Novel,8,346.38,2771.04,3191.99,5.0
+2025-01-06,East,Beauty,Face Serum,6,556.09,3336.54,2823.22,4.0
+2025-01-07,North,Books,Novel,8,397.23,3177.84,876.58,4.5
+2025-01-07,East,Beauty,Lipstick,4,678.52,2714.08,3279.08,3.5
+2025-01-07,South,Fashion,Saree,8,965.15,7721.2,1349.53,4.6
+2025-01-07,North,Books,Self-Help,8,385.75,3086.0,4030.38,4.3
+2025-01-07,South,Home & Kitchen,Water Purifier,1,1650.28,1650.28,1084.51,3.9
+2025-01-07,North,Beauty,Hair Oil,6,567.99,3407.94,139.14,4.6
+2025-01-07,West,Fashion,Denim Jacket,8,1151.31,9210.48,3740.0,4.4
+2025-01-07,West,Books,Self-Help,1,409.84,409.84,1291.26,4.5
+2025-01-08,South,Fashion,Kurta,10,1225.49,12254.9,2885.94,4.3
+2025-01-08,East,Home & Kitchen,Water Purifier,4,1999.69,7998.76,801.38,3.9
+2025-01-09,North,Fashion,Denim Jacket,5,1072.58,5362.9,984.35,4.9
+2025-01-09,North,Fashion,Denim Jacket,4,1074.08,4296.32,2562.69,3.0
+2025-01-09,East,Fashion,Denim Jacket,4,1124.12,4496.48,1794.46,3.5
+2025-01-09,West,Home & Kitchen,Water Purifier,9,1703.07,15327.63,8953.96,3.6
+2025-01-09,South,Fashion,Saree,7,1116.16,7813.12,1166.47,4.4
+2025-01-09,North,Fashion,Saree,4,1229.51,4918.04,3065.4,4.4
+2025-01-09,East,Books,Self-Help,7,413.75,2896.25,3916.35,4.4
+2025-01-09,South,Beauty,Sunscreen,2,495.73,991.46,4833.98,3.7
+2025-01-09,South,Home & Kitchen,Water Purifier,3,1657.49,4972.47,2054.84,4.1
+2025-01-09,South,Fashion,Sneakers,1,1203.92,1203.92,2473.67,3.6
+2025-01-10,West,Home & Kitchen,Water Purifier,5,1539.51,7697.55,6531.33,4.3
+2025-01-10,East,Electronics,Earbuds,6,2853.37,17120.22,4328.85,4.3
+2025-01-10,South,Electronics,Bluetooth Speaker,8,2216.36,17730.88,1138.64,3.7
+2025-01-10,West,Books,Novel,2,381.53,763.06,3947.31,5.0
+2025-01-10,South,Books,Comics,3,351.02,1053.06,3027.5,3.5
+2025-01-10,South,Fashion,Kurta,6,984.25,5905.5,2348.76,3.6
+2025-01-11,North,Fashion,Denim Jacket,9,1342.09,12078.81,2576.11,4.3
+2025-01-11,West,Home & Kitchen,Pressure Cooker,4,1583.67,6334.68,1470.33,3.6
+2025-01-11,South,Home & Kitchen,Water Purifier,9,1587.17,14284.53,2556.8,5.0
+2025-01-11,East,Home & Kitchen,Mixer Grinder,10,1711.59,17115.9,8301.29,4.3
+2025-01-12,North,Electronics,Smartwatch,4,2045.17,8180.68,2666.18,2.9
+2025-01-12,West,Electronics,Bluetooth Speaker,6,2982.37,17894.22,2624.0,2.8
+2025-01-12,East,Electronics,Smartwatch,5,2160.31,10801.55,5768.81,3.9
+2025-01-12,North,Fashion,Saree,6,1390.14,8340.84,1174.33,3.6
+2025-01-12,South,Fashion,Kurta,6,1079.24,6475.44,1308.52,3.3
+2025-01-13,West,Fashion,Kurta,5,1017.1,5085.5,3472.55,4.3
+2025-01-13,North,Fashion,Denim Jacket,8,984.05,7872.4,5619.17,4.9
+2025-01-13,East,Electronics,Bluetooth Speaker,5,2993.37,14966.85,9844.3,3.3
+2025-01-13,West,Electronics,Smartwatch,8,2950.06,23600.48,2567.63,2.6
+2025-01-13,South,Home & Kitchen,Mixer Grinder,7,2122.23,14855.61,4212.12,5.0
+2025-01-13,East,Books,Novel,7,292.84,2049.88,3247.13,4.5
+2025-01-13,South,Electronics,Power Bank,6,2275.15,13650.9,4269.04,3.2
+2025-01-13,South,Fashion,Sneakers,9,971.15,8740.35,3163.33,3.9
+2025-01-13,East,Books,Comics,12,387.05,4644.6,4937.15,4.3
+2025-01-14,South,Home & Kitchen,Pressure Cooker,1,1682.01,1682.01,1716.14,4.4
+2025-01-14,North,Electronics,Bluetooth Speaker,4,2422.8,9691.2,2353.17,4.8
+2025-01-14,West,Beauty,Sunscreen,6,581.64,3489.84,3002.36,3.9
+2025-01-14,West,Fashion,Saree,8,984.68,7877.44,4376.96,4.5
+2025-01-14,West,Fashion,Sneakers,6,1381.95,8291.7,686.34,4.8
+2025-01-14,West,Fashion,Kurta,1,1169.43,1169.43,3245.55,4.1
+2025-01-15,North,Beauty,Sunscreen,4,601.0,2404.0,2024.38,4.2
+2025-01-15,West,Books,Novel,2,292.04,584.08,161.3,4.0
+2025-01-15,North,Electronics,Earbuds,7,2220.8,15545.6,2873.63,3.2
+2025-01-15,West,Beauty,Sunscreen,3,491.87,1475.61,569.72,3.6
+2025-01-16,North,Home & Kitchen,Mixer Grinder,1,1592.84,1592.84,4547.2,4.0
+2025-01-16,South,Books,Self-Help,4,362.01,1448.04,3884.78,3.6
+2025-01-16,South,Books,Exam Guide,2,400.44,800.88,959.62,3.9
+2025-01-16,North,Fashion,Sneakers,5,1011.55,5057.75,1154.33,3.3
+2025-01-16,South,Books,Novel,7,392.87,2750.09,6043.61,3.9
+2025-01-16,North,Beauty,Lipstick,4,557.06,2228.24,836.58,4.5
+2025-01-16,West,Electronics,Bluetooth Speaker,6,2451.05,14706.3,1019.1,4.2
+2025-01-17,West,Fashion,Kurta,8,1413.85,11310.8,4977.49,4.0
+2025-01-17,North,Beauty,Lipstick,5,591.78,2958.9,2545.5,4.2
+2025-01-17,East,Home & Kitchen,Water Purifier,3,1997.93,5993.79,710.69,3.1
+2025-01-17,North,Home & Kitchen,Mixer Grinder,4,2023.89,8095.56,521.79,4.6
+2025-01-17,West,Fashion,Saree,3,1341.48,4024.44,116.14,3.9
+2025-01-17,North,Fashion,Saree,7,1181.63,8271.41,8008.13,4.3
+2025-01-18,South,Electronics,Earbuds,8,2534.6,20276.8,4610.57,2.9
+2025-01-18,South,Beauty,Hair Oil,4,494.36,1977.44,1333.16,5.0
+2025-01-18,North,Beauty,Face Serum,3,712.5,2137.5,1839.94,4.6
+2025-01-19,East,Beauty,Sunscreen,8,573.96,4591.68,2453.24,4.8
+2025-01-19,West,Books,Exam Guide,3,308.81,926.43,3209.66,5.0
+2025-01-19,West,Fashion,Sneakers,2,990.4,1980.8,3788.37,3.9
+2025-01-19,East,Electronics,Power Bank,7,2225.93,15581.51,3029.03,3.9
+2025-01-19,East,Beauty,Lipstick,5,653.26,3266.3,2102.5,4.6
+2025-01-19,South,Books,Comics,7,289.36,2025.52,1098.03,3.5
+2025-01-19,North,Fashion,Saree,7,1266.21,8863.47,3104.77,5.0
+2025-01-20,East,Home & Kitchen,Mixer Grinder,4,1519.72,6078.88,401.59,3.5
+2025-01-20,West,Electronics,Smartwatch,6,2273.43,13640.58,3476.54,3.1
+2025-01-20,North,Fashion,Kurta,5,1353.87,6769.35,1477.85,3.9
+2025-01-20,South,Fashion,Kurta,4,1170.63,4682.52,2111.99,4.6
+2025-01-20,North,Beauty,Sunscreen,10,483.79,4837.9,452.4,3.1
+2025-01-20,South,Home & Kitchen,Pressure Cooker,8,1729.2,13833.6,3148.27,4.1
+2025-01-20,South,Beauty,Hair Oil,3,493.91,1481.73,2069.15,3.9
+2025-01-20,West,Home & Kitchen,Mixer Grinder,4,1927.95,7711.8,1469.91,3.6
+2025-01-20,West,Home & Kitchen,Mixer Grinder,4,1995.73,7982.92,1461.17,4.2
+2025-01-20,East,Beauty,Lipstick,3,674.39,2023.17,2557.41,3.8
+2025-01-21,North,Home & Kitchen,Pressure Cooker,6,1983.29,11899.74,642.99,4.8
+2025-01-21,South,Home & Kitchen,Mixer Grinder,6,1537.23,9223.38,1942.6,3.9
+2025-01-21,North,Home & Kitchen,Pressure Cooker,7,1476.39,10334.73,3181.4,4.7
+2025-01-21,East,Fashion,Kurta,10,1074.4,10744.0,2793.39,4.2
+2025-01-21,East,Books,Self-Help,12,369.35,4432.2,5517.55,5.0
+2025-01-22,West,Fashion,Kurta,2,1065.68,2131.36,495.38,3.7
+2025-01-22,West,Fashion,Saree,5,1319.86,6599.3,5713.11,4.1
+2025-01-22,East,Beauty,Face Serum,4,710.04,2840.16,2861.68,4.0
+2025-01-22,East,Electronics,Power Bank,3,2888.06,8664.18,159.51,3.1
+2025-01-22,North,Fashion,Denim Jacket,5,1017.65,5088.25,2287.19,3.9
+2025-01-22,East,Electronics,Bluetooth Speaker,11,2796.57,30762.27,5380.23,3.5
+2025-01-22,South,Electronics,Bluetooth Speaker,5,2688.9,13444.5,3614.9,3.1
+2025-01-22,North,Electronics,Smartwatch,6,2682.59,16095.54,1556.83,2.9
+2025-01-23,West,Books,Comics,9,352.2,3169.8,1944.84,3.0
+2025-01-23,North,Home & Kitchen,Water Purifier,4,1440.41,5761.64,4082.35,4.3
+2025-01-23,South,Books,Self-Help,4,369.82,1479.28,1920.84,4.0
+2025-01-23,East,Fashion,Denim Jacket,5,1239.57,6197.85,2498.91,4.5
+2025-01-24,West,Fashion,Kurta,6,1050.58,6303.48,3391.92,3.5
+2025-01-24,South,Beauty,Sunscreen,1,555.93,555.93,266.01,3.9
+2025-01-24,South,Books,Comics,3,364.92,1094.76,4040.48,4.5
+2025-01-24,South,Books,Novel,4,301.01,1204.04,6354.19,4.6
+2025-01-24,West,Books,Exam Guide,4,286.43,1145.72,827.06,4.9
+2025-01-24,East,Home & Kitchen,Bedsheet Set,7,1616.81,11317.67,2701.64,4.1
+2025-01-24,West,Fashion,Saree,4,1403.98,5615.92,3483.88,3.6
+2025-01-24,South,Home & Kitchen,Mixer Grinder,8,1550.58,12404.64,2796.28,3.5
+2025-01-24,East,Electronics,Power Bank,5,2219.58,11097.9,319.81,3.2
+2025-01-24,East,Home & Kitchen,Water Purifier,9,1503.65,13532.85,5934.59,3.8
+2025-01-24,West,Fashion,Sneakers,10,1027.99,10279.9,8721.54,4.1
+2025-01-24,North,Electronics,Power Bank,5,2614.39,13071.95,3561.95,2.7
+2025-01-24,South,Books,Comics,6,352.12,2112.72,2944.79,3.8
+2025-01-25,North,Beauty,Hair Oil,6,515.22,3091.32,2674.04,3.5
+2025-01-25,North,Beauty,Face Serum,4,492.41,1969.64,906.77,5.0
+2025-01-25,North,Beauty,Sunscreen,8,685.31,5482.48,2446.01,4.3
+2025-01-25,South,Home & Kitchen,Water Purifier,2,1929.63,3859.26,1660.99,4.7
+2025-01-26,West,Electronics,Power Bank,3,2238.47,6715.41,3593.5,3.6
+2025-01-26,South,Beauty,Lipstick,4,607.98,2431.92,377.71,4.1
+2025-01-26,West,Home & Kitchen,Bedsheet Set,2,1612.98,3225.96,2437.9,4.1
+2025-01-26,West,Electronics,Smartwatch,3,2025.2,6075.6,744.94,2.8
+2025-01-26,South,Fashion,Denim Jacket,12,1437.25,17247.0,5048.53,4.3
+2025-01-26,North,Electronics,Smartwatch,6,2448.22,14689.32,4312.41,3.5
+2025-01-26,East,Beauty,Sunscreen,5,541.77,2708.85,2030.89,4.2
+2025-01-27,South,Beauty,Hair Oil,5,615.33,3076.65,1879.19,3.8
+2025-01-27,West,Fashion,Kurta,2,1278.2,2556.4,1082.78,3.8
+2025-01-27,South,Beauty,Sunscreen,6,689.41,4136.46,3853.67,4.5
+2025-01-27,West,Books,Comics,8,378.74,3029.92,5776.47,4.5
+2025-01-27,East,Electronics,Earbuds,6,2537.17,15223.02,9267.89,3.8
+2025-01-27,East,Beauty,Face Serum,3,573.16,1719.48,1021.39,3.8
+2025-01-27,East,Home & Kitchen,Water Purifier,8,1506.81,12054.48,2679.99,3.8
+2025-01-28,West,Electronics,Power Bank,5,2093.58,10467.9,3797.92,3.4
+2025-01-28,East,Books,Exam Guide,4,381.99,1527.96,1954.71,3.8
+2025-01-28,North,Beauty,Face Serum,10,572.32,5723.2,5504.87,4.1
+2025-01-28,West,Fashion,Kurta,3,1153.57,3460.71,3873.06,4.7
+2025-01-28,South,Fashion,Sneakers,3,1140.83,3422.49,22.8,4.8
+2025-01-28,South,Electronics,Power Bank,3,2069.14,6207.42,3270.91,4.0
+2025-01-28,South,Beauty,Sunscreen,3,493.51,1480.53,5502.49,3.8
+2025-01-28,East,Fashion,Sneakers,5,1189.27,5946.35,3285.64,4.2
+2025-01-28,East,Electronics,Power Bank,5,2250.85,11254.25,3278.62,2.2
+2025-01-28,North,Electronics,Bluetooth Speaker,4,2047.25,8189.0,6563.56,3.4
+2025-01-29,West,Beauty,Hair Oil,3,525.48,1576.44,2149.7,5.0
+2025-01-29,South,Home & Kitchen,Bedsheet Set,9,1826.96,16442.64,3907.26,5.0
+2025-01-29,East,Fashion,Kurta,3,1327.35,3982.05,5354.59,5.0
+2025-01-30,West,Books,Exam Guide,4,355.52,1422.08,499.5,3.8
+2025-01-30,West,Beauty,Hair Oil,9,545.56,4910.04,1738.17,4.0
+2025-01-30,West,Beauty,Hair Oil,6,687.39,4124.34,1129.61,3.3
+2025-01-30,East,Fashion,Saree,5,1010.76,5053.8,6862.65,4.7
+2025-01-30,North,Beauty,Lipstick,4,701.59,2806.36,2058.99,4.2
+2025-01-30,South,Books,Self-Help,3,413.07,1239.21,1051.02,4.6
+2025-01-30,East,Fashion,Denim Jacket,5,1071.71,5358.55,3701.13,3.5
+2025-01-30,North,Fashion,Kurta,3,1260.56,3781.68,832.15,4.0
+2025-01-30,South,Electronics,Bluetooth Speaker,4,2958.09,11832.36,3810.44,3.0
+2025-01-31,West,Fashion,Saree,6,1220.79,7324.74,4527.82,5.0
+2025-01-31,North,Books,Comics,1,344.92,344.92,1581.77,4.4
+2025-01-31,West,Beauty,Hair Oil,4,637.2,2548.8,4736.57,4.6
+2025-02-01,South,Books,Comics,2,342.34,684.68,2108.42,4.7
+2025-02-01,West,Fashion,Kurta,6,1155.29,6931.74,5447.99,4.5
+2025-02-01,East,Beauty,Sunscreen,2,627.41,1254.82,1929.23,3.3
+2025-02-01,South,Books,Self-Help,5,400.52,2002.6,454.4,4.9
+2025-02-01,West,Beauty,Sunscreen,7,599.18,4194.26,6054.79,4.3
+2025-02-02,West,Books,Self-Help,13,359.17,4669.21,2335.36,4.7
+2025-02-02,West,Fashion,Sneakers,5,1184.29,5921.45,2333.74,4.6
+2025-02-02,West,Home & Kitchen,Pressure Cooker,8,1859.53,14876.24,1814.78,4.1
+2025-02-02,West,Books,Novel,8,335.06,2680.48,1228.41,4.5
+2025-02-02,North,Beauty,Hair Oil,8,539.92,4319.36,3821.92,4.3
+2025-02-02,North,Beauty,Lipstick,2,673.79,1347.58,2460.12,3.7
+2025-02-03,North,Home & Kitchen,Water Purifier,4,1821.33,7285.32,2461.66,5.0
+2025-02-03,North,Home & Kitchen,Water Purifier,6,1602.21,9613.26,3486.24,3.2
+2025-02-03,North,Home & Kitchen,Water Purifier,7,1667.35,11671.45,986.72,4.6
+2025-02-03,East,Beauty,Hair Oil,4,660.98,2643.92,2174.05,3.6
+2025-02-03,South,Books,Self-Help,2,369.29,738.58,2633.12,4.8
+2025-02-04,South,Books,Exam Guide,8,314.27,2514.16,7558.94,4.7
+2025-02-04,West,Home & Kitchen,Bedsheet Set,3,1460.37,4381.11,5122.04,3.4
+2025-02-04,East,Fashion,Denim Jacket,2,1418.81,2837.62,824.08,3.4
+2025-02-04,East,Beauty,Hair Oil,9,569.21,5122.89,4647.31,4.5
+2025-02-04,North,Books,Novel,3,387.45,1162.35,1008.94,4.2
+2025-02-04,South,Books,Novel,7,353.54,2474.78,1541.27,4.5
+2025-02-04,East,Electronics,Smartwatch,5,2249.55,11247.75,4887.53,3.1
+2025-02-05,South,Electronics,Earbuds,3,2941.37,8824.11,602.75,2.9
+2025-02-05,East,Electronics,Earbuds,7,2931.24,20518.68,8033.09,3.5
+2025-02-05,North,Home & Kitchen,Water Purifier,5,1824.04,9120.2,2648.87,4.6
+2025-02-05,North,Home & Kitchen,Pressure Cooker,3,1555.95,4667.85,6420.81,4.0
+2025-02-06,North,Home & Kitchen,Mixer Grinder,5,2150.37,10751.85,6784.82,3.5
+2025-02-06,North,Beauty,Lipstick,7,604.29,4230.03,3348.89,3.8
+2025-02-06,North,Books,Exam Guide,7,319.69,2237.83,2322.32,3.5
+2025-02-06,West,Electronics,Smartwatch,9,2606.25,23456.25,1788.83,4.3
+2025-02-06,South,Books,Exam Guide,8,309.41,2475.28,4715.05,4.6
+2025-02-06,West,Electronics,Power Bank,4,2079.51,8318.04,1304.17,3.4
+2025-02-07,West,Home & Kitchen,Pressure Cooker,4,2058.97,8235.88,1971.86,3.6
+2025-02-07,East,Fashion,Sneakers,4,1048.47,4193.88,1328.09,4.2
+2025-02-07,West,Beauty,Sunscreen,8,635.63,5085.04,1531.0,4.3
+2025-02-07,East,Books,Comics,6,342.44,2054.64,6389.53,3.8
+2025-02-07,South,Books,Exam Guide,9,311.07,2799.63,10275.91,5.0
+2025-02-07,North,Books,Novel,9,291.7,2625.3,2736.9,4.1
+2025-02-07,West,Books,Novel,7,411.28,2878.96,1586.59,4.3
+2025-02-08,West,Fashion,Saree,4,1290.67,5162.68,3655.32,3.6
+2025-02-08,North,Electronics,Smartwatch,4,2776.91,11107.64,1689.09,3.4
+2025-02-08,North,Fashion,Saree,6,1247.29,7483.74,9063.32,3.6
+2025-02-08,North,Beauty,Face Serum,1,699.85,699.85,1701.19,4.6
+2025-02-08,West,Beauty,Face Serum,4,624.99,2499.96,2810.4,4.9
+2025-02-08,West,Books,Self-Help,2,351.01,702.02,1003.5,4.6
+2025-02-08,West,Fashion,Denim Jacket,3,1098.39,3295.17,1233.02,3.9
+2025-02-09,South,Home & Kitchen,Mixer Grinder,6,1485.05,8910.3,2999.93,3.9
+2025-02-09,West,Electronics,Power Bank,4,2280.59,9122.36,5183.62,3.2
+2025-02-09,South,Beauty,Sunscreen,7,506.91,3548.37,4492.4,4.1
+2025-02-09,South,Electronics,Power Bank,6,2114.83,12688.98,2401.46,3.9
+2025-02-09,North,Fashion,Sneakers,5,1345.92,6729.6,4908.33,3.5
+2025-02-10,North,Books,Novel,4,414.36,1657.44,1869.95,3.5
+2025-02-10,North,Electronics,Power Bank,6,2275.64,13653.84,5055.81,3.9
+2025-02-10,North,Electronics,Bluetooth Speaker,5,2486.98,12434.9,2382.76,4.1
+2025-02-11,East,Home & Kitchen,Pressure Cooker,2,2112.04,4224.08,3891.59,4.0
+2025-02-11,East,Home & Kitchen,Water Purifier,3,1448.98,4346.94,4227.76,4.4
+2025-02-11,East,Books,Self-Help,6,283.67,1702.02,1196.12,3.9
+2025-02-11,South,Fashion,Kurta,4,1009.68,4038.72,1901.85,4.2
+2025-02-11,South,Home & Kitchen,Bedsheet Set,2,1523.59,3047.18,1226.36,3.6
+2025-02-12,North,Fashion,Sneakers,4,1388.5,5554.0,683.84,3.9
+2025-02-12,East,Beauty,Lipstick,1,699.7,699.7,3457.86,5.0
+2025-02-12,South,Beauty,Face Serum,8,657.71,5261.68,3560.85,4.8
+2025-02-12,South,Beauty,Face Serum,3,697.73,2093.19,501.19,4.2
+2025-02-12,West,Beauty,Sunscreen,3,493.05,1479.15,2536.96,4.4
+2025-02-12,East,Books,Exam Guide,3,372.26,1116.78,486.88,4.3
+2025-02-12,South,Electronics,Smartwatch,6,2561.94,15371.64,1111.44,2.9
+2025-02-13,East,Home & Kitchen,Bedsheet Set,3,1928.93,5786.79,2940.98,4.3
+2025-02-14,North,Electronics,Earbuds,3,2789.56,8368.68,1997.34,3.4
+2025-02-14,West,Fashion,Sneakers,7,1225.28,8576.96,2454.92,4.1
+2025-02-14,West,Beauty,Sunscreen,10,480.59,4805.9,3354.95,3.1
+2025-02-14,West,Home & Kitchen,Bedsheet Set,6,1904.31,11425.86,2759.07,4.7
+2025-02-15,North,Home & Kitchen,Water Purifier,4,1550.54,6202.16,1989.21,4.0
+2025-02-15,West,Beauty,Sunscreen,5,517.07,2585.35,1595.76,3.7
+2025-02-15,South,Beauty,Hair Oil,7,562.57,3937.99,2702.4,4.0
+2025-02-15,East,Fashion,Sneakers,12,1325.74,15908.88,3724.58,4.1
+2025-02-15,North,Fashion,Denim Jacket,6,1306.79,7840.74,1992.68,4.5
+2025-02-15,South,Beauty,Lipstick,5,490.66,2453.3,2826.02,4.7
+2025-02-15,East,Beauty,Hair Oil,3,704.53,2113.59,3256.45,4.2
+2025-02-15,West,Home & Kitchen,Mixer Grinder,5,1940.06,9700.3,515.01,4.9
+2025-02-15,South,Electronics,Bluetooth Speaker,7,2189.77,15328.39,702.91,4.2
+2025-02-15,South,Books,Comics,3,392.64,1177.92,1297.09,4.1
+2025-02-15,East,Fashion,Saree,4,1372.41,5489.64,3802.83,4.6
+2025-02-15,North,Beauty,Face Serum,3,691.07,2073.21,3575.49,3.9
+2025-02-16,West,Fashion,Kurta,7,1314.17,9199.19,8862.04,4.0
+2025-02-16,East,Beauty,Sunscreen,1,708.55,708.55,397.42,4.9
+2025-02-16,South,Fashion,Saree,4,971.89,3887.56,474.15,3.3
+2025-02-16,North,Home & Kitchen,Bedsheet Set,14,1899.57,26593.98,5590.27,4.1
+2025-02-16,East,Beauty,Face Serum,10,653.94,6539.4,6083.55,4.3
+2025-02-16,South,Books,Novel,6,308.04,1848.24,4167.07,4.4
+2025-02-16,East,Home & Kitchen,Water Purifier,4,2151.49,8605.96,2518.54,3.5
+2025-02-17,South,Home & Kitchen,Water Purifier,9,1985.78,17872.02,2657.48,3.2
+2025-02-17,East,Electronics,Smartwatch,5,2221.56,11107.8,1261.3,3.7
+2025-02-18,West,Electronics,Power Bank,2,2206.63,4413.26,1998.95,3.0
+2025-02-18,East,Electronics,Smartwatch,6,2430.88,14585.28,3489.39,3.5
+2025-02-19,North,Home & Kitchen,Bedsheet Set,7,1756.69,12296.83,1410.13,4.8
+2025-02-19,West,Electronics,Bluetooth Speaker,8,2424.02,19392.16,2170.98,3.6
+2025-02-19,West,Beauty,Sunscreen,4,592.79,2371.16,2376.14,4.4
+2025-02-19,West,Books,Exam Guide,5,295.61,1478.05,1089.85,5.0
+2025-02-19,South,Home & Kitchen,Water Purifier,3,2098.51,6295.53,1914.85,4.6
+2025-02-19,West,Home & Kitchen,Pressure Cooker,9,1728.05,15552.45,3903.29,4.2
+2025-02-19,West,Home & Kitchen,Mixer Grinder,11,1725.06,18975.66,3054.7,4.0
+2025-02-20,South,Home & Kitchen,Mixer Grinder,5,1629.76,8148.8,3795.04,3.0
+2025-02-20,East,Fashion,Saree,4,1383.23,5532.92,12442.22,3.3
+2025-02-20,East,Electronics,Bluetooth Speaker,7,2395.97,16771.79,1789.95,3.7
+2025-02-20,West,Home & Kitchen,Mixer Grinder,3,1751.11,5253.33,992.6,4.4
+2025-02-20,East,Beauty,Hair Oil,2,513.46,1026.92,1668.05,3.7
+2025-02-20,North,Beauty,Hair Oil,3,532.83,1598.49,2026.01,3.4
+2025-02-20,North,Beauty,Sunscreen,2,483.39,966.78,1458.9,3.4
+2025-02-20,West,Beauty,Sunscreen,5,598.87,2994.35,508.78,4.1
+2025-02-21,South,Home & Kitchen,Pressure Cooker,3,1666.71,5000.13,2524.31,4.6
+2025-02-21,East,Books,Comics,7,334.98,2344.86,5289.81,4.6
+2025-02-21,West,Beauty,Hair Oil,6,568.01,3408.06,5984.37,3.2
+2025-02-21,South,Home & Kitchen,Water Purifier,10,1525.52,15255.2,4928.32,4.3
+2025-02-21,East,Fashion,Saree,4,1155.17,4620.68,1416.26,4.0
+2025-02-22,East,Home & Kitchen,Bedsheet Set,2,1512.68,3025.36,984.56,4.1
+2025-02-22,East,Beauty,Sunscreen,9,650.88,5857.92,3023.08,5.0
+2025-02-22,North,Home & Kitchen,Water Purifier,8,2124.75,16998.0,2287.43,4.5
+2025-02-22,East,Beauty,Sunscreen,7,602.23,4215.61,799.63,4.1
+2025-02-22,South,Electronics,Power Bank,3,2383.0,7149.0,617.13,3.8
+2025-02-22,South,Fashion,Kurta,5,963.04,4815.2,1591.02,4.3
+2025-02-23,North,Home & Kitchen,Water Purifier,1,1730.99,1730.99,2358.0,4.1
+2025-02-23,East,Home & Kitchen,Water Purifier,8,1943.59,15548.72,1219.0,3.3
+2025-02-23,West,Home & Kitchen,Water Purifier,3,1961.05,5883.15,4264.6,4.5
+2025-02-23,East,Beauty,Lipstick,3,673.5,2020.5,2098.3,3.0
+2025-02-24,South,Books,Exam Guide,3,375.06,1125.18,1238.28,4.6
+2025-02-24,North,Beauty,Sunscreen,5,613.6,3068.0,4243.08,4.2
+2025-02-24,East,Books,Comics,2,333.8,667.6,1496.26,5.0
+2025-02-24,East,Books,Self-Help,4,307.41,1229.64,6381.34,4.4
+2025-02-24,West,Fashion,Sneakers,3,1183.28,3549.84,1393.97,3.5
+2025-02-25,North,Beauty,Hair Oil,4,565.29,2261.16,1635.45,5.0
+2025-02-25,West,Books,Exam Guide,5,290.49,1452.45,3320.56,4.8
+2025-02-25,East,Beauty,Sunscreen,6,510.15,3060.9,479.53,4.6
+2025-02-25,South,Electronics,Smartwatch,4,2619.68,10478.72,1892.01,4.0
+2025-02-25,West,Books,Exam Guide,3,357.14,1071.42,1823.84,4.4
+2025-02-25,West,Electronics,Power Bank,2,2474.06,4948.12,1416.21,4.0
+2025-02-25,East,Electronics,Smartwatch,4,2730.21,10920.84,2963.92,3.0
+2025-02-25,North,Beauty,Lipstick,4,694.2,2776.8,2448.16,3.3
+2025-02-25,West,Beauty,Hair Oil,5,594.08,2970.4,419.12,3.9
+2025-02-25,South,Home & Kitchen,Mixer Grinder,2,1865.19,3730.38,1249.58,4.4
+2025-02-25,South,Books,Self-Help,6,301.59,1809.54,1823.13,5.0
+2025-02-25,North,Electronics,Power Bank,4,2756.52,11026.08,1400.76,3.6
+2025-02-26,West,Home & Kitchen,Water Purifier,3,1974.59,5923.77,1516.11,4.4
+2025-02-26,East,Books,Novel,1,351.49,351.49,2585.09,4.5
+2025-02-26,East,Electronics,Power Bank,4,2308.13,9232.52,14116.9,3.6
+2025-02-26,East,Beauty,Lipstick,3,552.43,1657.29,399.54,4.3
+2025-02-27,South,Home & Kitchen,Bedsheet Set,4,1860.53,7442.12,1137.93,3.7
+2025-02-27,North,Books,Comics,4,372.19,1488.76,4516.26,3.1
+2025-02-27,West,Fashion,Kurta,4,1357.68,5430.72,2168.85,3.1
+2025-02-27,West,Home & Kitchen,Pressure Cooker,4,1647.64,6590.56,2252.37,4.0
+2025-02-27,West,Home & Kitchen,Water Purifier,3,2056.46,6169.38,486.25,4.3
+2025-02-27,West,Home & Kitchen,Mixer Grinder,4,1984.54,7938.16,1704.2,4.8
+2025-02-28,East,Home & Kitchen,Water Purifier,5,1961.42,9807.1,2194.17,3.9
+2025-02-28,South,Beauty,Face Serum,7,567.87,3975.09,4190.09,4.6
+2025-02-28,North,Electronics,Smartwatch,4,2070.49,8281.96,652.67,3.6
+2025-02-28,West,Fashion,Kurta,7,1350.49,9453.43,6310.48,4.3
+2025-02-28,East,Books,Comics,6,394.99,2369.94,5248.88,5.0
+2025-03-01,West,Beauty,Face Serum,6,629.54,3777.24,7423.49,4.0
+2025-03-01,East,Beauty,Sunscreen,5,642.04,3210.2,1651.06,3.7
+2025-03-01,East,Beauty,Sunscreen,7,629.48,4406.36,2025.55,4.6
+2025-03-01,West,Fashion,Sneakers,4,1123.37,4493.48,2242.39,4.7
+2025-03-01,North,Electronics,Earbuds,1,2473.77,2473.77,7832.71,2.9
+2025-03-01,South,Fashion,Saree,5,1160.03,5800.15,4089.86,4.8
+2025-03-01,West,Home & Kitchen,Water Purifier,4,1857.06,7428.24,1225.66,4.4
+2025-03-01,East,Beauty,Lipstick,3,506.73,1520.19,3966.35,4.3
+2025-03-01,South,Books,Exam Guide,8,381.78,3054.24,3466.78,4.6
+2025-03-01,South,Fashion,Sneakers,6,1102.53,6615.18,2799.21,5.0
+2025-03-01,East,Home & Kitchen,Pressure Cooker,6,1865.07,11190.42,1974.94,4.2
+2025-03-02,West,Fashion,Saree,7,983.78,6886.46,2693.79,4.2
+2025-03-02,West,Fashion,Saree,3,1172.73,3518.19,4522.55,3.3
+2025-03-02,South,Beauty,Lipstick,6,703.71,4222.26,842.51,4.2
+2025-03-02,North,Beauty,Hair Oil,4,650.26,2601.04,1206.14,4.0
+2025-03-02,South,Fashion,Saree,2,1092.32,2184.64,1168.17,4.5
+2025-03-03,North,Beauty,Face Serum,5,584.84,2924.2,3072.29,3.9
+2025-03-03,South,Electronics,Smartwatch,6,2940.61,17643.66,747.51,3.8
+2025-03-03,South,Electronics,Earbuds,8,2413.99,19311.92,5226.05,3.6
+2025-03-03,West,Beauty,Face Serum,4,509.51,2038.04,1150.45,3.7
+2025-03-03,East,Electronics,Bluetooth Speaker,3,2655.92,7967.76,1871.06,3.3
+2025-03-03,East,Books,Exam Guide,3,319.02,957.06,2492.86,4.1
+2025-03-03,North,Electronics,Bluetooth Speaker,3,2442.53,7327.59,2153.33,3.5
+2025-03-03,South,Home & Kitchen,Bedsheet Set,6,1869.72,11218.32,7794.28,4.8
+2025-03-03,North,Fashion,Sneakers,4,1094.65,4378.6,1032.03,4.5
+2025-03-03,East,Fashion,Saree,5,1381.62,6908.1,1188.78,3.4
+2025-03-04,East,Fashion,Sneakers,7,1092.37,7646.59,2318.27,4.2
+2025-03-04,East,Home & Kitchen,Mixer Grinder,5,1894.34,9471.7,709.02,4.3
+2025-03-04,South,Books,Novel,9,376.76,3390.84,8197.49,3.3
+2025-03-04,South,Books,Self-Help,4,302.22,1208.88,930.04,4.3
+2025-03-04,North,Electronics,Smartwatch,1,2370.45,2370.45,549.19,3.9
+2025-03-05,North,Fashion,Saree,5,1109.16,5545.8,404.82,4.5
+2025-03-05,West,Fashion,Sneakers,3,1370.37,4111.11,1164.93,4.3
+2025-03-05,South,Fashion,Saree,5,1039.99,5199.95,977.28,4.1
+2025-03-06,East,Beauty,Hair Oil,8,626.21,5009.68,1208.26,4.8
+2025-03-06,South,Fashion,Saree,4,1389.95,5559.8,1632.36,3.3
+2025-03-06,East,Home & Kitchen,Water Purifier,3,2159.2,6477.6,3085.05,4.8
+2025-03-06,West,Beauty,Lipstick,7,493.32,3453.24,6658.99,3.7
+2025-03-06,North,Books,Exam Guide,6,328.11,1968.66,1619.82,3.8
+2025-03-06,West,Home & Kitchen,Bedsheet Set,5,1477.14,7385.7,5366.52,4.0
+2025-03-06,West,Electronics,Smartwatch,8,2643.46,21147.68,2751.68,3.7
+2025-03-07,East,Beauty,Face Serum,6,702.33,4213.98,3403.52,4.7
+2025-03-07,South,Beauty,Lipstick,5,585.48,2927.4,4336.99,3.4
+2025-03-07,West,Beauty,Hair Oil,4,489.57,1958.28,3131.7,3.7
+2025-03-07,West,Fashion,Denim Jacket,7,1276.05,8932.35,830.58,3.3
+2025-03-08,South,Fashion,Saree,8,1119.27,8954.16,4150.63,3.7
+2025-03-08,East,Beauty,Hair Oil,2,481.03,962.06,5039.57,4.2
+2025-03-08,West,Home & Kitchen,Pressure Cooker,3,1821.94,5465.82,2643.78,4.4
+2025-03-09,East,Fashion,Saree,3,985.0,2955.0,2637.94,4.6
+2025-03-09,North,Electronics,Power Bank,5,2292.85,11464.25,1331.04,3.9
+2025-03-09,North,Home & Kitchen,Mixer Grinder,3,1443.2,4329.6,1077.93,3.8
+2025-03-09,North,Fashion,Denim Jacket,4,1170.05,4680.2,2029.43,4.6
+2025-03-09,West,Fashion,Kurta,4,1009.41,4037.64,1364.59,4.4
+2025-03-09,North,Home & Kitchen,Bedsheet Set,8,2077.68,16621.44,2660.94,2.8
+2025-03-09,North,Fashion,Kurta,13,1433.36,18633.68,5225.62,4.2
+2025-03-09,West,Electronics,Bluetooth Speaker,9,2262.29,20360.61,2858.21,4.5
+2025-03-09,North,Books,Self-Help,1,368.51,368.51,417.14,5.0
+2025-03-10,South,Books,Self-Help,6,300.34,1802.04,2711.93,4.3
+2025-03-10,South,Beauty,Hair Oil,4,565.87,2263.48,1090.5,4.4
+2025-03-10,South,Books,Self-Help,3,321.74,965.22,1745.6,4.7
+2025-03-10,East,Books,Self-Help,11,290.82,3199.02,6144.91,4.4
+2025-03-11,East,Home & Kitchen,Mixer Grinder,4,2004.06,8016.24,1158.48,3.6
+2025-03-11,East,Fashion,Kurta,7,1157.59,8103.13,2992.32,4.6
+2025-03-11,South,Fashion,Sneakers,5,1038.44,5192.2,3826.22,3.7
+2025-03-11,East,Home & Kitchen,Water Purifier,4,2131.16,8524.64,3123.58,4.4
+2025-03-11,North,Fashion,Denim Jacket,7,1172.6,8208.2,6533.76,4.3
+2025-03-11,South,Fashion,Sneakers,9,1356.79,12211.11,6134.88,3.4
+2025-03-11,East,Home & Kitchen,Bedsheet Set,5,1578.18,7890.9,2542.25,5.0
+2025-03-11,South,Books,Self-Help,4,352.57,1410.28,957.71,3.2
+2025-03-11,South,Books,Self-Help,3,360.23,1080.69,834.41,3.8
+2025-03-13,North,Beauty,Hair Oil,5,521.09,2605.45,8693.88,4.2
+2025-03-13,East,Electronics,Smartwatch,4,2327.11,9308.44,1935.62,4.0
+2025-03-13,East,Fashion,Denim Jacket,3,1166.12,3498.36,2022.69,3.8
+2025-03-13,North,Fashion,Denim Jacket,10,960.5,9605.0,3446.4,3.7
+2025-03-13,West,Books,Self-Help,7,329.03,2303.21,4327.31,3.6
+2025-03-13,North,Books,Novel,5,410.58,2052.9,4157.4,4.7
+2025-03-13,West,Books,Self-Help,2,350.17,700.34,1407.91,3.5
+2025-03-13,West,Fashion,Kurta,11,1164.83,12813.13,5491.98,4.6
+2025-03-14,North,Books,Comics,7,363.71,2545.97,3564.55,3.8
+2025-03-14,South,Books,Self-Help,6,342.01,2052.06,1035.84,3.8
+2025-03-14,North,Home & Kitchen,Bedsheet Set,3,1658.63,4975.89,150.66,4.6
+2025-03-15,South,Books,Self-Help,6,361.26,2167.56,1079.79,3.9
+2025-03-15,South,Beauty,Sunscreen,4,698.85,2795.4,1797.52,4.6
+2025-03-15,North,Electronics,Bluetooth Speaker,4,2891.89,11567.56,3489.16,3.6
+2025-03-16,East,Beauty,Lipstick,2,496.76,993.52,4940.76,3.9
+2025-03-16,West,Books,Exam Guide,7,395.31,2767.17,3007.88,4.9
+2025-03-16,West,Beauty,Face Serum,6,715.92,4295.52,2266.88,3.8
+2025-03-16,East,Electronics,Smartwatch,3,2068.56,6205.68,3574.9,3.3
+2025-03-16,North,Beauty,Lipstick,7,708.55,4959.85,2629.54,4.9
+2025-03-16,West,Books,Exam Guide,5,413.56,2067.8,2333.51,4.9
+2025-03-16,West,Electronics,Bluetooth Speaker,4,2493.21,9972.84,1817.06,2.6
+2025-03-16,North,Electronics,Power Bank,9,2527.02,22743.18,3362.81,4.0
+2025-03-16,North,Fashion,Kurta,10,1182.25,11822.5,3812.13,4.5
+2025-03-16,North,Books,Novel,6,386.44,2318.64,306.1,4.4
+2025-03-17,North,Books,Self-Help,3,337.41,1012.23,475.41,3.8
+2025-03-17,South,Beauty,Sunscreen,7,636.81,4457.67,6797.32,4.0
+2025-03-17,East,Fashion,Kurta,2,1119.76,2239.52,357.86,4.3
+2025-03-17,East,Home & Kitchen,Mixer Grinder,5,1620.91,8104.55,2836.98,4.0
+2025-03-17,South,Books,Comics,3,370.44,1111.32,3531.04,3.3
+2025-03-17,West,Books,Self-Help,2,320.52,641.04,703.13,3.3
+2025-03-17,South,Home & Kitchen,Mixer Grinder,5,2005.35,10026.75,4011.64,3.3
+2025-03-18,East,Beauty,Lipstick,4,681.79,2727.16,5448.76,4.5
+2025-03-18,North,Beauty,Face Serum,7,710.68,4974.76,8397.82,5.0
+2025-03-18,East,Home & Kitchen,Bedsheet Set,5,1977.74,9888.7,2845.19,4.5
+2025-03-19,South,Beauty,Sunscreen,8,543.41,4347.28,9988.61,3.9
+2025-03-19,East,Books,Self-Help,3,369.75,1109.25,3516.54,4.4
+2025-03-19,South,Electronics,Earbuds,1,2497.56,2497.56,1829.78,3.7
+2025-03-19,West,Books,Exam Guide,4,419.36,1677.44,1816.39,4.7
+2025-03-19,North,Books,Exam Guide,6,331.27,1987.62,2433.49,4.5
+2025-03-19,South,Fashion,Saree,11,1035.09,11385.99,5206.71,3.9
+2025-03-19,West,Electronics,Smartwatch,4,2626.1,10504.4,1983.61,2.8
+2025-03-20,East,Beauty,Face Serum,5,484.95,2424.75,6876.6,4.8
+2025-03-20,West,Fashion,Denim Jacket,3,1334.04,4002.12,2103.42,4.1
+2025-03-20,West,Fashion,Saree,4,978.35,3913.4,2063.93,4.1
+2025-03-20,North,Books,Self-Help,6,311.67,1870.02,3158.61,3.7
+2025-03-20,East,Electronics,Smartwatch,5,2856.16,14280.8,3828.64,3.8
+2025-03-20,West,Electronics,Earbuds,5,2066.35,10331.75,3879.83,3.9
+2025-03-20,North,Books,Exam Guide,4,307.69,1230.76,4102.84,3.5
+2025-03-21,East,Home & Kitchen,Pressure Cooker,5,1480.28,7401.4,2741.79,3.9
+2025-03-21,North,Books,Exam Guide,1,354.87,354.87,1310.25,3.0
+2025-03-21,South,Electronics,Smartwatch,4,2183.18,8732.72,2200.38,2.9
+2025-03-21,East,Electronics,Bluetooth Speaker,10,2097.03,20970.3,7106.75,3.8
+2025-03-21,North,Home & Kitchen,Mixer Grinder,8,1942.95,15543.6,2592.08,3.5
+2025-03-21,South,Home & Kitchen,Bedsheet Set,5,1820.03,9100.15,1449.1,4.0
+2025-03-21,South,Books,Self-Help,5,307.28,1536.4,1239.96,3.9
+2025-03-22,West,Home & Kitchen,Water Purifier,4,1648.73,6594.92,2317.96,3.9
+2025-03-22,West,Electronics,Bluetooth Speaker,5,2195.49,10977.45,2813.3,2.9
+2025-03-22,South,Home & Kitchen,Water Purifier,5,2093.71,10468.55,4378.44,3.1
+2025-03-23,North,Beauty,Hair Oil,4,501.88,2007.52,7906.76,4.7
+2025-03-23,East,Beauty,Sunscreen,6,595.73,3574.38,2415.6,3.8
+2025-03-23,East,Electronics,Bluetooth Speaker,5,2028.07,10140.35,2107.64,4.4
+2025-03-23,North,Fashion,Saree,4,1329.48,5317.92,2022.21,4.1
+2025-03-24,East,Home & Kitchen,Bedsheet Set,8,1815.47,14523.76,7347.41,3.9
+2025-03-24,South,Books,Comics,5,376.86,1884.3,2124.77,4.2
+2025-03-24,North,Electronics,Power Bank,6,2846.54,17079.24,7109.88,4.3
+2025-03-24,South,Home & Kitchen,Mixer Grinder,6,1953.94,11723.64,3218.54,3.5
+2025-03-24,North,Beauty,Lipstick,10,599.97,5999.7,2629.95,3.7
+2025-03-24,South,Beauty,Face Serum,6,612.82,3676.92,6639.41,3.9
+2025-03-24,East,Fashion,Denim Jacket,7,1321.49,9250.43,4960.8,4.6
+2025-03-25,East,Books,Comics,5,309.08,1545.4,2311.59,4.2
+2025-03-25,South,Electronics,Power Bank,4,2758.55,11034.2,5706.77,3.8
+2025-03-25,South,Beauty,Hair Oil,7,485.4,3397.8,2949.48,3.6
+2025-03-25,East,Fashion,Sneakers,6,1110.81,6664.86,5393.26,5.0
+2025-03-25,North,Home & Kitchen,Bedsheet Set,7,1644.95,11514.65,3757.42,4.9
+2025-03-26,South,Books,Novel,8,286.36,2290.88,938.01,4.3
+2025-03-26,South,Home & Kitchen,Pressure Cooker,9,1918.65,17267.85,8489.61,4.7
+2025-03-26,North,Home & Kitchen,Mixer Grinder,9,2118.81,19069.29,6451.42,3.8
+2025-03-26,East,Home & Kitchen,Water Purifier,4,1908.89,7635.56,3251.52,5.0
+2025-03-26,East,Fashion,Sneakers,2,1439.75,2879.5,4411.26,4.4
+2025-03-26,South,Electronics,Earbuds,4,2122.94,8491.76,1617.18,3.2
+2025-03-26,East,Electronics,Power Bank,5,2559.51,12797.55,1426.44,2.8
+2025-03-26,West,Fashion,Sneakers,4,1380.21,5520.84,6621.16,5.0
+2025-03-26,West,Electronics,Smartwatch,13,2757.61,35848.93,5512.51,2.9
+2025-03-27,North,Beauty,Lipstick,7,574.57,4021.99,2918.23,4.1
+2025-03-27,West,Beauty,Face Serum,4,482.43,1929.72,3219.32,4.8
+2025-03-27,South,Fashion,Sneakers,5,1165.4,5827.0,2484.2,4.3
+2025-03-27,East,Fashion,Denim Jacket,3,1382.81,4148.43,1841.23,3.6
+2025-03-27,North,Books,Novel,5,367.95,1839.75,11636.36,3.1
+2025-03-27,South,Electronics,Earbuds,9,2424.23,21818.07,2050.5,2.9
+2025-03-27,East,Beauty,Sunscreen,4,568.2,2272.8,295.29,4.6
+2025-03-28,North,Electronics,Smartwatch,9,2892.38,26031.42,3389.21,3.9
+2025-03-28,South,Home & Kitchen,Mixer Grinder,8,1822.74,14581.92,5857.6,3.4
+2025-03-28,South,Home & Kitchen,Mixer Grinder,10,1533.1,15331.0,4059.95,4.5
+2025-03-28,North,Fashion,Sneakers,7,1246.48,8725.36,2192.54,3.8
+2025-03-28,North,Fashion,Sneakers,1,1005.53,1005.53,6628.46,3.3
+2025-03-28,South,Books,Exam Guide,1,317.94,317.94,306.47,4.1
+2025-03-29,East,Beauty,Face Serum,8,591.52,4732.16,5666.65,3.5
+2025-03-29,North,Home & Kitchen,Bedsheet Set,5,1911.86,9559.3,3912.58,4.2
+2025-03-29,South,Electronics,Smartwatch,8,2555.71,20445.68,1522.53,3.6
+2025-03-29,South,Home & Kitchen,Pressure Cooker,7,1683.42,11783.94,702.63,3.9
+2025-03-29,East,Books,Self-Help,3,411.1,1233.3,1265.57,3.7
+2025-03-29,South,Electronics,Bluetooth Speaker,8,2055.92,16447.36,1797.87,3.3
+2025-03-30,East,Electronics,Smartwatch,5,2233.37,11166.85,3718.65,2.9
+2025-03-30,East,Fashion,Kurta,3,1208.45,3625.35,2049.42,4.0
+2025-03-30,North,Home & Kitchen,Bedsheet Set,5,1676.33,8381.65,4826.85,4.6
+2025-03-30,West,Electronics,Bluetooth Speaker,8,2063.75,16510.0,1795.1,2.7
+2025-03-30,North,Fashion,Kurta,10,1318.6,13186.0,2108.78,4.9
+2025-03-30,East,Books,Novel,7,316.47,2215.29,3660.88,4.4
+2025-03-30,East,Electronics,Smartwatch,7,2270.83,15895.81,813.46,4.3
+2025-03-30,West,Home & Kitchen,Bedsheet Set,12,1702.62,20431.44,9037.62,3.9
+2025-03-31,East,Beauty,Hair Oil,6,676.97,4061.82,2628.33,4.5
+2025-03-31,West,Books,Exam Guide,5,280.73,1403.65,1299.45,3.9
+2025-03-31,East,Beauty,Face Serum,12,674.78,8097.36,2768.58,4.4
+2025-03-31,South,Electronics,Power Bank,1,2718.15,2718.15,1622.5,3.0
+2025-04-01,East,Electronics,Power Bank,6,2228.93,13373.58,5862.22,4.2
+2025-04-01,South,Electronics,Power Bank,6,2961.96,17771.76,2479.02,3.9
+2025-04-01,North,Electronics,Smartwatch,5,2382.82,11914.1,5482.38,2.5
+2025-04-02,North,Fashion,Kurta,7,1342.4,9396.8,2430.27,3.7
+2025-04-02,North,Beauty,Face Serum,8,523.47,4187.76,950.96,4.5
+2025-04-02,South,Home & Kitchen,Bedsheet Set,4,1447.38,5789.52,1197.7,4.7
+2025-04-02,East,Beauty,Sunscreen,1,633.94,633.94,1042.59,3.5
+2025-04-03,West,Fashion,Sneakers,9,1022.62,9203.58,3263.54,4.0
+2025-04-03,East,Electronics,Smartwatch,3,2712.88,8138.64,1348.42,3.6
+2025-04-03,South,Electronics,Bluetooth Speaker,14,2570.72,35990.08,10609.15,2.8
+2025-04-03,West,Electronics,Bluetooth Speaker,2,2503.75,5007.5,1423.39,3.7
+2025-04-03,North,Books,Exam Guide,4,341.1,1364.4,974.07,4.6
+2025-04-03,East,Fashion,Sneakers,2,1276.24,2552.48,519.0,4.0
+2025-04-03,South,Fashion,Saree,7,1431.46,10020.22,6592.71,4.8
+2025-04-03,East,Beauty,Sunscreen,7,645.81,4520.67,2025.71,3.6
+2025-04-03,West,Fashion,Kurta,3,972.91,2918.73,219.25,4.7
+2025-04-04,North,Books,Self-Help,10,390.15,3901.5,1544.57,4.7
+2025-04-04,East,Home & Kitchen,Bedsheet Set,5,2076.47,10382.35,5556.01,4.6
+2025-04-04,East,Beauty,Hair Oil,2,699.1,1398.2,2334.59,3.4
+2025-04-04,South,Beauty,Hair Oil,8,511.85,4094.8,3195.92,4.4
+2025-04-04,West,Electronics,Bluetooth Speaker,5,2646.18,13230.9,3805.79,2.8
+2025-04-05,West,Home & Kitchen,Mixer Grinder,5,1564.21,7821.05,1595.94,5.0
+2025-04-05,North,Electronics,Bluetooth Speaker,1,2392.88,2392.88,666.76,3.2
+2025-04-05,West,Books,Self-Help,7,369.93,2589.51,4897.18,3.6
+2025-04-05,South,Electronics,Earbuds,4,2339.81,9359.24,2953.25,4.3
+2025-04-05,East,Fashion,Sneakers,5,1092.54,5462.7,1893.64,4.4
+2025-04-05,North,Home & Kitchen,Pressure Cooker,3,2004.14,6012.42,3021.02,3.9
+2025-04-05,West,Beauty,Sunscreen,3,709.73,2129.19,1053.81,4.6
+2025-04-05,South,Home & Kitchen,Pressure Cooker,4,1532.55,6130.2,3692.07,4.0
+2025-04-06,North,Fashion,Kurta,5,1114.23,5571.15,529.88,4.1
+2025-04-06,East,Fashion,Saree,5,1245.6,6228.0,2727.56,4.4
+2025-04-07,East,Electronics,Earbuds,6,2009.66,12057.96,3516.98,3.2
+2025-04-07,South,Beauty,Face Serum,5,636.93,3184.65,1349.63,3.9
+2025-04-07,South,Fashion,Saree,7,1273.5,8914.5,3892.54,3.8
+2025-04-07,South,Electronics,Power Bank,1,2212.79,2212.79,1077.25,3.7
+2025-04-07,West,Books,Novel,5,339.44,1697.2,1500.27,4.1
+2025-04-08,East,Home & Kitchen,Mixer Grinder,7,1457.32,10201.24,3181.24,4.2
+2025-04-08,East,Books,Self-Help,7,377.76,2644.32,1089.08,4.8
+2025-04-08,North,Books,Self-Help,2,329.25,658.5,11107.31,3.7
+2025-04-08,West,Electronics,Smartwatch,3,2087.13,6261.39,794.54,3.2
+2025-04-08,North,Books,Exam Guide,8,322.75,2582.0,3904.94,4.0
+2025-04-08,South,Electronics,Smartwatch,6,2854.24,17125.44,2421.6,3.3
+2025-04-08,North,Beauty,Lipstick,3,632.13,1896.39,953.24,4.0
+2025-04-09,West,Beauty,Hair Oil,4,613.07,2452.28,1316.87,4.2
+2025-04-09,West,Electronics,Earbuds,14,2897.32,40562.48,6852.16,2.8
+2025-04-09,East,Books,Exam Guide,9,324.78,2923.02,3721.44,3.1
+2025-04-09,North,Home & Kitchen,Mixer Grinder,3,2043.58,6130.74,2721.96,4.1
+2025-04-09,East,Books,Comics,1,349.57,349.57,5777.2,3.6
+2025-04-10,West,Books,Self-Help,2,378.04,756.08,1449.46,4.3
+2025-04-10,South,Home & Kitchen,Water Purifier,8,1764.63,14117.04,4504.13,3.9
+2025-04-10,North,Home & Kitchen,Pressure Cooker,6,2133.83,12802.98,2265.4,4.1
+2025-04-10,East,Beauty,Sunscreen,1,680.26,680.26,932.37,3.3
+2025-04-11,West,Home & Kitchen,Pressure Cooker,4,1555.23,6220.92,1340.58,4.3
+2025-04-11,West,Home & Kitchen,Water Purifier,7,1637.06,11459.42,4366.27,4.4
+2025-04-11,East,Electronics,Power Bank,4,2856.62,11426.48,7523.85,3.6
+2025-04-11,West,Electronics,Smartwatch,5,2738.48,13692.4,1047.58,3.6
+2025-04-12,South,Beauty,Hair Oil,7,563.49,3944.43,3390.24,4.5
+2025-04-12,West,Fashion,Saree,1,1309.23,1309.23,2472.73,4.2
+2025-04-12,West,Fashion,Denim Jacket,5,1379.35,6896.75,4797.56,3.7
+2025-04-12,East,Books,Exam Guide,6,379.8,2278.8,1771.5,4.2
+2025-04-12,West,Beauty,Face Serum,7,596.02,4172.14,4242.61,4.9
+2025-04-12,East,Books,Self-Help,2,378.2,756.4,6213.66,4.2
+2025-04-12,West,Beauty,Hair Oil,6,717.09,4302.54,449.54,4.5
+2025-04-12,West,Books,Novel,6,380.63,2283.78,1875.12,2.7
+2025-04-13,North,Electronics,Smartwatch,7,2196.87,15378.09,2565.65,4.5
+2025-04-13,East,Beauty,Face Serum,4,524.22,2096.88,5090.95,4.0
+2025-04-13,East,Books,Self-Help,2,297.32,594.64,1984.23,4.3
+2025-04-13,North,Books,Exam Guide,1,379.19,379.19,1264.19,4.6
+2025-04-13,West,Books,Novel,5,333.68,1668.4,1497.29,4.0
+2025-04-14,East,Beauty,Sunscreen,9,703.14,6328.26,5978.72,3.7
+2025-04-14,North,Home & Kitchen,Bedsheet Set,5,1938.85,9694.25,2258.97,3.9
+2025-04-14,North,Home & Kitchen,Water Purifier,3,1888.45,5665.35,3451.82,3.9
+2025-04-14,North,Books,Novel,9,397.28,3575.52,5966.67,4.4
+2025-04-14,South,Fashion,Sneakers,4,1350.78,5403.12,3733.76,4.2
+2025-04-14,South,Home & Kitchen,Water Purifier,5,2044.0,10220.0,11411.55,5.0
+2025-04-14,South,Beauty,Sunscreen,10,687.35,6873.5,1906.33,4.5
+2025-04-15,South,Beauty,Sunscreen,9,537.83,4840.47,3303.74,4.3
+2025-04-15,North,Books,Novel,5,382.13,1910.65,2484.13,4.8
+2025-04-15,South,Beauty,Hair Oil,2,687.86,1375.72,722.81,4.1
+2025-04-15,North,Home & Kitchen,Water Purifier,12,2113.87,25366.44,4964.31,3.7
+2025-04-15,North,Electronics,Power Bank,7,2412.94,16890.58,1865.13,3.4
+2025-04-15,South,Beauty,Face Serum,3,538.21,1614.63,3644.27,3.6
+2025-04-16,South,Home & Kitchen,Water Purifier,3,1630.47,4891.41,1823.03,5.0
+2025-04-16,South,Electronics,Earbuds,7,2259.96,15819.72,5235.78,2.6
+2025-04-16,West,Electronics,Power Bank,6,2397.14,14382.84,1683.96,2.6
+2025-04-16,South,Fashion,Denim Jacket,5,1271.88,6359.4,303.97,4.4
+2025-04-16,East,Electronics,Bluetooth Speaker,4,2282.6,9130.4,4302.98,3.4
+2025-04-17,North,Beauty,Lipstick,7,573.96,4017.72,2239.27,4.5
+2025-04-17,North,Electronics,Earbuds,9,2893.37,26040.33,7024.59,3.4
+2025-04-17,North,Home & Kitchen,Bedsheet Set,5,1737.53,8687.65,2794.12,3.5
+2025-04-17,East,Home & Kitchen,Water Purifier,5,1762.52,8812.6,1642.96,4.0
+2025-04-17,South,Electronics,Earbuds,6,2973.33,17839.98,2696.84,3.7
+2025-04-18,West,Books,Comics,3,377.73,1133.19,1096.56,4.4
+2025-04-18,North,Beauty,Sunscreen,8,709.91,5679.28,4512.95,2.8
+2025-04-18,East,Fashion,Sneakers,2,985.11,1970.22,5295.16,4.0
+2025-04-18,North,Electronics,Bluetooth Speaker,6,2827.51,16965.06,5831.72,3.1
+2025-04-18,East,Beauty,Hair Oil,3,517.67,1553.01,932.27,5.0
+2025-04-19,South,Fashion,Kurta,7,1290.31,9032.17,5090.67,3.9
+2025-04-19,East,Beauty,Hair Oil,4,660.56,2642.24,1601.07,3.3
+2025-04-19,South,Books,Novel,2,356.62,713.24,2292.15,4.5
+2025-04-19,East,Electronics,Bluetooth Speaker,1,2544.16,2544.16,689.19,3.1
+2025-04-19,West,Beauty,Sunscreen,5,620.3,3101.5,558.5,4.5
+2025-04-19,West,Fashion,Saree,5,1359.35,6796.75,968.55,4.1
+2025-04-19,South,Books,Self-Help,9,304.05,2736.45,3461.86,3.9
+2025-04-19,North,Home & Kitchen,Pressure Cooker,4,1743.79,6975.16,862.96,3.9
+2025-04-20,North,Home & Kitchen,Pressure Cooker,9,1828.86,16459.74,3400.39,3.9
+2025-04-20,North,Books,Comics,6,379.76,2278.56,738.94,4.2
+2025-04-20,East,Books,Comics,5,293.09,1465.45,2501.03,4.5
+2025-04-20,East,Electronics,Bluetooth Speaker,5,2007.9,10039.5,1482.5,3.6
+2025-04-20,South,Beauty,Sunscreen,6,579.06,3474.36,2654.79,4.9
+2025-04-20,East,Books,Exam Guide,3,301.41,904.23,1784.54,3.9
+2025-04-20,East,Electronics,Power Bank,10,2360.83,23608.3,5997.39,2.8
+2025-04-20,North,Fashion,Denim Jacket,6,1043.64,6261.84,4025.84,4.4
+2025-04-21,West,Home & Kitchen,Mixer Grinder,3,1453.16,4359.48,6923.18,3.9
+2025-04-21,West,Books,Exam Guide,9,358.71,3228.39,5330.87,3.8
+2025-04-21,North,Electronics,Bluetooth Speaker,8,2642.05,21136.4,3548.54,3.5
+2025-04-21,East,Beauty,Face Serum,3,541.7,1625.1,4575.26,4.8
+2025-04-21,East,Electronics,Smartwatch,10,2677.67,26776.7,6686.91,2.8
+2025-04-21,South,Home & Kitchen,Pressure Cooker,3,2086.6,6259.8,141.02,4.6
+2025-04-21,West,Books,Exam Guide,4,316.4,1265.6,2475.38,4.9
+2025-04-21,West,Electronics,Earbuds,1,2848.42,2848.42,4737.7,2.4
+2025-04-22,South,Beauty,Sunscreen,6,717.09,4302.54,6053.45,4.6
+2025-04-22,South,Books,Novel,5,296.11,1480.55,5483.35,4.2
+2025-04-22,West,Home & Kitchen,Pressure Cooker,5,1657.68,8288.4,1281.61,4.0
+2025-04-22,East,Fashion,Sneakers,1,1265.81,1265.81,5594.44,5.0
+2025-04-22,North,Home & Kitchen,Bedsheet Set,1,2152.52,2152.52,2938.71,4.6
+2025-04-23,South,Fashion,Sneakers,3,1195.67,3587.01,4300.1,3.7
+2025-04-23,West,Home & Kitchen,Pressure Cooker,7,1691.71,11841.97,3195.03,3.8
+2025-04-23,South,Home & Kitchen,Mixer Grinder,8,1531.75,12254.0,2530.65,4.1
+2025-04-23,West,Fashion,Kurta,2,1340.46,2680.92,5421.07,3.3
+2025-04-23,North,Fashion,Kurta,5,1161.61,5808.05,8959.92,4.2
+2025-04-23,East,Electronics,Power Bank,3,2026.75,6080.25,613.54,2.8
+2025-04-24,North,Home & Kitchen,Water Purifier,5,1701.53,8507.65,329.05,5.0
+2025-04-24,North,Home & Kitchen,Bedsheet Set,5,1915.24,9576.2,11010.23,4.4
+2025-04-25,South,Beauty,Face Serum,4,639.72,2558.88,2922.35,4.1
+2025-04-25,East,Home & Kitchen,Mixer Grinder,3,1981.78,5945.34,5303.45,3.7
+2025-04-25,West,Electronics,Earbuds,5,2726.64,13633.2,952.72,4.2
+2025-04-25,North,Books,Exam Guide,8,337.24,2697.92,1032.27,4.1
+2025-04-25,East,Beauty,Sunscreen,2,669.25,1338.5,2543.64,3.9
+2025-04-25,West,Beauty,Lipstick,9,657.07,5913.63,914.84,4.2
+2025-04-25,West,Home & Kitchen,Water Purifier,4,1848.96,7395.84,5098.7,4.1
+2025-04-25,South,Electronics,Power Bank,5,2596.89,12984.45,6661.89,3.8
+2025-04-25,East,Fashion,Saree,2,1246.79,2493.58,1531.32,4.0
+2025-04-25,East,Electronics,Smartwatch,5,2472.98,12364.9,6562.88,3.2
+2025-04-25,West,Beauty,Sunscreen,4,553.03,2212.12,2882.28,4.2
+2025-04-26,North,Home & Kitchen,Water Purifier,5,1723.39,8616.95,1919.54,3.5
+2025-04-26,North,Home & Kitchen,Mixer Grinder,6,1732.91,10397.46,1845.42,4.8
+2025-04-26,West,Home & Kitchen,Bedsheet Set,4,1598.01,6392.04,809.18,3.9
+2025-04-26,North,Beauty,Hair Oil,1,562.68,562.68,1548.26,4.8
+2025-04-26,East,Home & Kitchen,Pressure Cooker,7,1452.82,10169.74,6322.13,3.6
+2025-04-26,East,Fashion,Denim Jacket,5,1035.79,5178.95,2455.83,4.4
+2025-04-27,East,Books,Novel,4,407.81,1631.24,2495.47,3.9
+2025-04-27,North,Home & Kitchen,Water Purifier,2,1462.79,2925.58,2589.26,4.3
+2025-04-27,East,Books,Novel,6,334.12,2004.72,1737.14,4.2
+2025-04-27,East,Beauty,Face Serum,8,487.13,3897.04,2819.25,4.3
+2025-04-27,West,Books,Comics,7,334.87,2344.09,5479.91,4.4
+2025-04-27,North,Beauty,Lipstick,6,498.99,2993.94,1618.74,4.6
+2025-04-27,East,Beauty,Sunscreen,4,506.62,2026.48,2310.53,4.1
+2025-04-28,South,Electronics,Smartwatch,6,2994.92,17969.52,571.68,3.6
+2025-04-28,South,Beauty,Lipstick,7,557.21,3900.47,3507.93,4.0
+2025-04-28,West,Electronics,Power Bank,6,2207.35,13244.1,8930.05,3.3
+2025-04-28,North,Electronics,Power Bank,4,2222.52,8890.08,691.44,3.6
+2025-04-29,South,Home & Kitchen,Pressure Cooker,9,1878.62,16907.58,5956.91,4.6
+2025-04-29,West,Beauty,Lipstick,4,656.21,2624.84,3633.36,4.5
+2025-04-29,South,Electronics,Power Bank,6,2675.84,16055.04,3154.31,3.2
+2025-04-29,West,Books,Novel,2,353.09,706.18,478.6,4.8
+2025-04-29,North,Books,Novel,2,325.55,651.1,1164.4,4.8
+2025-04-29,North,Books,Comics,4,374.79,1499.16,4570.13,4.1
+2025-04-29,East,Fashion,Kurta,3,1164.97,3494.91,2342.97,3.6
+2025-04-29,East,Home & Kitchen,Bedsheet Set,7,1790.41,12532.87,2365.88,4.3
+2025-04-29,West,Fashion,Saree,5,1364.76,6823.8,5901.06,4.2
+2025-04-29,West,Home & Kitchen,Pressure Cooker,2,1444.58,2889.16,504.02,3.6
+2025-04-30,North,Beauty,Lipstick,6,553.23,3319.38,6609.19,4.8
+2025-04-30,North,Books,Exam Guide,2,332.36,664.72,1345.04,4.9
+2025-04-30,West,Home & Kitchen,Pressure Cooker,9,1749.52,15745.68,4291.31,5.0
+2025-04-30,South,Electronics,Power Bank,5,2756.86,13784.3,736.01,3.7
+2025-04-30,East,Electronics,Power Bank,7,2487.94,17415.58,5879.85,3.6
+2025-04-30,East,Beauty,Face Serum,4,574.15,2296.6,1756.05,5.0
+2025-04-30,East,Books,Comics,4,345.16,1380.64,3227.42,3.3
+2025-04-30,East,Beauty,Hair Oil,3,705.9,2117.7,2022.36,4.3
+2025-05-01,South,Fashion,Saree,2,1248.56,2497.12,4480.19,2.6
+2025-05-01,West,Fashion,Kurta,4,962.03,3848.12,3352.06,4.5
+2025-05-01,East,Fashion,Kurta,3,1332.81,3998.43,2683.42,4.1
+2025-05-01,East,Fashion,Saree,4,1174.55,4698.2,3650.08,4.2
+2025-05-01,East,Home & Kitchen,Bedsheet Set,8,1596.47,12771.76,2690.16,4.8
+2025-05-02,West,Home & Kitchen,Pressure Cooker,3,1893.24,5679.72,959.87,4.8
+2025-05-02,West,Fashion,Saree,12,1296.93,15563.16,5002.33,4.1
+2025-05-02,East,Fashion,Saree,4,976.46,3905.84,937.55,3.7
+2025-05-02,South,Home & Kitchen,Mixer Grinder,8,1983.16,15865.28,2412.19,4.3
+2025-05-03,East,Home & Kitchen,Pressure Cooker,3,1568.86,4706.58,2512.45,3.3
+2025-05-03,North,Fashion,Denim Jacket,4,1258.02,5032.08,2455.39,4.5
+2025-05-03,East,Fashion,Saree,1,1428.01,1428.01,767.03,4.5
+2025-05-03,East,Beauty,Lipstick,11,692.36,7615.96,6367.77,3.7
+2025-05-03,East,Electronics,Earbuds,5,2579.35,12896.75,759.65,3.4
+2025-05-03,North,Home & Kitchen,Bedsheet Set,4,1566.64,6266.56,2907.27,4.5
+2025-05-03,West,Beauty,Sunscreen,4,617.7,2470.8,3322.84,4.2
+2025-05-04,South,Home & Kitchen,Water Purifier,4,1870.4,7481.6,343.73,4.3
+2025-05-04,South,Books,Comics,4,282.88,1131.52,2811.92,3.6
+2025-05-04,East,Fashion,Saree,2,1260.17,2520.34,2110.94,4.1
+2025-05-04,West,Home & Kitchen,Pressure Cooker,5,1839.66,9198.3,3393.4,4.0
+2025-05-04,North,Electronics,Power Bank,9,2724.39,24519.51,13723.37,3.6
+2025-05-04,North,Beauty,Sunscreen,7,523.86,3667.02,8634.08,4.4
+2025-05-04,East,Home & Kitchen,Bedsheet Set,5,1755.2,8776.0,1949.32,4.2
+2025-05-04,North,Home & Kitchen,Water Purifier,10,1671.61,16716.1,1601.18,4.1
+2025-05-05,East,Beauty,Hair Oil,4,528.05,2112.2,1920.63,3.6
+2025-05-05,North,Beauty,Lipstick,5,566.63,2833.15,1780.54,4.3
+2025-05-05,West,Home & Kitchen,Pressure Cooker,10,1865.26,18652.6,625.09,4.9
+2025-05-05,South,Home & Kitchen,Mixer Grinder,3,2056.96,6170.88,3845.49,3.5
+2025-05-06,South,Home & Kitchen,Bedsheet Set,4,1486.66,5946.64,3991.45,5.0
+2025-05-06,North,Beauty,Face Serum,8,597.07,4776.56,1492.7,4.3
+2025-05-06,South,Books,Exam Guide,8,411.58,3292.64,4097.41,4.1
+2025-05-07,South,Electronics,Smartwatch,11,2020.18,22221.98,3940.73,2.6
+2025-05-07,East,Books,Novel,2,383.13,766.26,274.37,4.4
+2025-05-07,West,Home & Kitchen,Mixer Grinder,6,1517.5,9105.0,2501.27,5.0
+2025-05-07,East,Fashion,Saree,3,1208.13,3624.39,1778.27,4.1
+2025-05-07,South,Fashion,Saree,2,981.58,1963.16,772.38,4.7
+2025-05-08,South,Electronics,Smartwatch,6,2767.76,16606.56,3961.36,3.9
+2025-05-08,South,Fashion,Saree,2,1151.79,2303.58,3621.55,4.2
+2025-05-08,East,Books,Comics,2,407.33,814.66,1736.49,4.3
+2025-05-09,East,Electronics,Smartwatch,4,2553.09,10212.36,4336.63,3.1
+2025-05-09,South,Home & Kitchen,Pressure Cooker,4,1508.44,6033.76,2607.06,4.6
+2025-05-09,North,Books,Novel,3,339.29,1017.87,2505.55,4.2
+2025-05-09,East,Fashion,Denim Jacket,3,1357.63,4072.89,1555.36,3.5
+2025-05-09,East,Electronics,Smartwatch,6,2915.13,17490.78,7129.29,4.0
+2025-05-10,South,Home & Kitchen,Bedsheet Set,5,1950.15,9750.75,1280.04,3.9
+2025-05-10,West,Books,Self-Help,4,359.0,1436.0,676.11,4.4
+2025-05-10,South,Fashion,Kurta,3,1426.41,4279.23,1961.07,4.4
+2025-05-10,East,Electronics,Earbuds,5,2272.77,11363.85,2382.65,3.3
+2025-05-11,West,Books,Comics,1,419.21,419.21,397.58,3.8
+2025-05-11,West,Home & Kitchen,Pressure Cooker,4,1543.03,6172.12,1597.5,3.6
+2025-05-11,East,Books,Exam Guide,4,417.82,1671.28,2249.84,3.6
+2025-05-11,East,Books,Comics,2,281.67,563.34,4684.23,5.0
+2025-05-11,North,Fashion,Saree,7,1130.85,7915.95,3967.87,4.7
+2025-05-11,North,Fashion,Saree,3,1105.82,3317.46,102.76,4.1
+2025-05-12,North,Electronics,Earbuds,5,2311.82,11559.1,1441.37,2.5
+2025-05-12,East,Fashion,Kurta,8,1258.7,10069.6,2136.41,4.0
+2025-05-12,North,Fashion,Saree,8,971.17,7769.36,2966.68,3.7
+2025-05-12,West,Home & Kitchen,Water Purifier,6,1852.04,11112.24,1194.52,4.0
+2025-05-12,West,Electronics,Smartwatch,5,2745.57,13727.85,1755.85,3.7
+2025-05-12,East,Electronics,Earbuds,7,2496.95,17478.65,6013.96,3.6
+2025-05-13,East,Beauty,Lipstick,9,569.58,5126.22,2734.23,3.8
+2025-05-13,West,Fashion,Sneakers,5,1003.42,5017.1,2982.35,4.2
+2025-05-13,West,Fashion,Kurta,4,1192.13,4768.52,1474.49,3.5
+2025-05-13,South,Home & Kitchen,Pressure Cooker,2,2034.28,4068.56,3266.37,3.6
+2025-05-13,North,Beauty,Face Serum,1,580.09,580.09,1822.21,3.7
+2025-05-14,North,Fashion,Sneakers,5,1417.66,7088.3,3772.61,4.1
+2025-05-14,South,Home & Kitchen,Water Purifier,5,1504.01,7520.05,2983.49,3.7
+2025-05-14,South,Fashion,Saree,1,981.41,981.41,226.82,4.7
+2025-05-14,East,Books,Self-Help,4,280.06,1120.24,5046.5,4.1
+2025-05-15,North,Home & Kitchen,Pressure Cooker,1,1441.99,1441.99,2223.84,3.7
+2025-05-15,North,Electronics,Power Bank,1,2059.44,2059.44,5693.88,3.9
+2025-05-15,South,Beauty,Sunscreen,4,566.67,2266.68,4180.45,4.2
+2025-05-15,East,Beauty,Lipstick,5,551.88,2759.4,5371.81,4.2
+2025-05-15,North,Fashion,Denim Jacket,1,978.01,978.01,447.67,4.6
+2025-05-15,South,Electronics,Bluetooth Speaker,5,2914.07,14570.35,1365.81,4.0
+2025-05-15,North,Beauty,Face Serum,4,647.16,2588.64,511.04,3.4
+2025-05-15,North,Beauty,Hair Oil,3,716.12,2148.36,1369.95,4.0
+2025-05-15,North,Beauty,Lipstick,4,553.25,2213.0,362.33,4.2
+2025-05-16,South,Beauty,Lipstick,6,486.38,2918.28,3404.75,3.3
+2025-05-16,East,Home & Kitchen,Bedsheet Set,7,1597.0,11179.0,7568.88,4.2
+2025-05-16,West,Books,Exam Guide,4,306.42,1225.68,1103.32,4.0
+2025-05-16,East,Books,Self-Help,2,413.31,826.62,1126.99,4.3
+2025-05-16,West,Beauty,Lipstick,6,643.27,3859.62,1831.94,5.0
+2025-05-16,South,Books,Exam Guide,4,349.73,1398.92,1854.99,4.9
+2025-05-17,East,Electronics,Earbuds,3,2681.8,8045.4,359.1,3.8
+2025-05-17,West,Electronics,Bluetooth Speaker,6,2567.81,15406.86,2714.54,3.5
+2025-05-18,West,Books,Self-Help,4,350.95,1403.8,416.81,4.0
+2025-05-18,North,Electronics,Power Bank,2,2725.26,5450.52,1730.4,3.6
+2025-05-18,East,Books,Exam Guide,4,365.52,1462.08,1651.69,4.2
+2025-05-18,West,Books,Self-Help,10,398.7,3987.0,12196.87,5.0
+2025-05-18,South,Fashion,Kurta,6,1150.11,6900.66,2052.61,4.2
+2025-05-18,West,Beauty,Hair Oil,5,536.6,2683.0,2825.77,3.4
+2025-05-19,East,Beauty,Lipstick,5,718.44,3592.2,5641.68,4.2
+2025-05-19,West,Fashion,Saree,7,1042.1,7294.7,4039.55,3.5
+2025-05-19,South,Beauty,Lipstick,1,667.71,667.71,2393.36,4.4
+2025-05-19,South,Books,Exam Guide,2,363.24,726.48,1654.45,5.0
+2025-05-19,North,Fashion,Denim Jacket,5,1125.43,5627.15,1894.53,4.0
+2025-05-19,North,Electronics,Bluetooth Speaker,9,2556.38,23007.42,4969.7,3.8
+2025-05-20,South,Home & Kitchen,Mixer Grinder,5,1565.58,7827.9,1015.28,4.8
+2025-05-20,West,Fashion,Sneakers,7,1332.79,9329.53,5973.97,4.4
+2025-05-20,West,Home & Kitchen,Bedsheet Set,5,2021.7,10108.5,670.36,5.0
+2025-05-20,West,Home & Kitchen,Pressure Cooker,3,1987.43,5962.29,367.68,4.7
+2025-05-20,West,Books,Exam Guide,3,361.78,1085.34,1183.82,4.2
+2025-05-20,North,Fashion,Kurta,6,990.59,5943.54,674.4,5.0
+2025-05-21,East,Books,Comics,7,394.28,2759.96,2136.85,4.1
+2025-05-21,North,Fashion,Saree,4,1178.88,4715.52,1842.44,4.8
+2025-05-21,East,Books,Exam Guide,2,305.18,610.36,1919.68,4.7
+2025-05-21,West,Electronics,Power Bank,5,2498.82,12494.1,1290.75,3.1
+2025-05-21,West,Home & Kitchen,Water Purifier,7,1601.63,11211.41,1465.0,4.1
+2025-05-21,East,Electronics,Smartwatch,5,2561.31,12806.55,4847.03,3.9
+2025-05-22,South,Electronics,Power Bank,3,2169.46,6508.38,2031.59,2.7
+2025-05-22,East,Beauty,Face Serum,5,591.23,2956.15,4880.38,4.9
+2025-05-22,East,Beauty,Sunscreen,5,599.24,2996.2,3413.06,3.3
+2025-05-22,West,Home & Kitchen,Pressure Cooker,8,1934.04,15472.32,1453.28,3.4
+2025-05-22,North,Beauty,Lipstick,4,552.55,2210.2,2637.73,4.4
+2025-05-22,West,Home & Kitchen,Bedsheet Set,5,1619.86,8099.3,618.16,4.8
+2025-05-22,North,Home & Kitchen,Water Purifier,1,2115.17,2115.17,1141.89,3.6
+2025-05-22,West,Home & Kitchen,Water Purifier,4,1619.67,6478.68,2106.18,3.5
+2025-05-23,West,Home & Kitchen,Mixer Grinder,4,1975.88,7903.52,1574.11,3.9
+2025-05-23,North,Fashion,Saree,3,1291.49,3874.47,850.72,4.0
+2025-05-23,South,Beauty,Hair Oil,3,498.85,1496.55,3654.84,4.9
+2025-05-23,North,Books,Comics,6,391.9,2351.4,999.08,4.1
+2025-05-24,North,Home & Kitchen,Water Purifier,2,1477.13,2954.26,2041.58,3.6
+2025-05-24,West,Beauty,Hair Oil,7,685.68,4799.76,3105.66,4.3
+2025-05-24,South,Books,Comics,4,313.87,1255.48,3540.74,4.6
+2025-05-24,North,Home & Kitchen,Mixer Grinder,3,1664.94,4994.82,5799.54,4.2
+2025-05-24,East,Fashion,Sneakers,1,1348.55,1348.55,160.88,4.9
+2025-05-24,South,Books,Novel,5,353.78,1768.9,3605.27,4.0
+2025-05-24,East,Electronics,Power Bank,6,2724.98,16349.88,5305.28,3.4
+2025-05-24,West,Fashion,Denim Jacket,11,1144.05,12584.55,1832.88,4.7
+2025-05-24,North,Books,Novel,9,298.49,2686.41,2732.33,4.3
+2025-05-24,East,Beauty,Lipstick,6,607.55,3645.3,3225.22,3.7
+2025-05-25,East,Fashion,Saree,6,1366.58,8199.48,888.39,3.5
+2025-05-25,East,Fashion,Kurta,5,1347.54,6737.7,2163.05,4.0
+2025-05-25,West,Books,Novel,7,376.07,2632.49,2379.81,3.5
+2025-05-26,West,Beauty,Sunscreen,12,626.63,7519.56,6658.22,4.0
+2025-05-26,South,Books,Comics,5,383.48,1917.4,4287.37,4.8
+2025-05-26,North,Fashion,Saree,3,1125.69,3377.07,1625.3,4.3
+2025-05-26,West,Beauty,Sunscreen,6,604.81,3628.86,1569.56,5.0
+2025-05-26,East,Books,Exam Guide,8,374.94,2999.52,3649.27,3.9
+2025-05-27,East,Books,Comics,5,330.65,1653.25,1221.78,4.2
+2025-05-27,East,Home & Kitchen,Bedsheet Set,4,2088.55,8354.2,4106.07,3.9
+2025-05-27,North,Fashion,Saree,4,1047.26,4189.04,4170.75,3.3
+2025-05-27,South,Books,Exam Guide,5,299.89,1499.45,6981.62,3.9
+2025-05-28,West,Home & Kitchen,Bedsheet Set,3,2092.22,6276.66,2305.33,4.2
+2025-05-28,East,Electronics,Smartwatch,4,2883.67,11534.68,4644.16,2.4
+2025-05-29,South,Electronics,Earbuds,5,2353.66,11768.3,1915.96,3.6
+2025-05-29,East,Electronics,Bluetooth Speaker,1,2174.46,2174.46,599.65,3.6
+2025-05-29,East,Fashion,Kurta,2,1038.01,2076.02,308.6,4.2
+2025-05-29,West,Books,Comics,3,292.82,878.46,2645.65,4.2
+2025-05-29,West,Beauty,Sunscreen,4,539.59,2158.36,2696.62,4.1
+2025-05-29,West,Books,Exam Guide,8,390.97,3127.76,8464.33,4.1
+2025-05-29,East,Fashion,Saree,2,1213.79,2427.58,1059.19,3.7
+2025-05-29,North,Books,Novel,1,329.52,329.52,554.04,5.0
+2025-05-29,North,Electronics,Smartwatch,3,2561.22,7683.66,4043.3,3.2
+2025-05-29,North,Electronics,Smartwatch,4,2126.58,8506.32,3157.65,3.3
+2025-05-30,North,Books,Comics,7,399.0,2793.0,4551.89,4.9
+2025-05-30,East,Beauty,Lipstick,7,534.59,3742.13,2274.77,4.3
+2025-05-30,East,Electronics,Power Bank,1,2348.71,2348.71,1561.52,3.5
+2025-05-30,North,Books,Comics,5,396.2,1981.0,3428.28,5.0
+2025-05-31,North,Electronics,Earbuds,6,2736.1,16416.6,10729.2,3.1
+2025-05-31,East,Home & Kitchen,Pressure Cooker,1,1773.02,1773.02,1714.97,3.9
+2025-05-31,West,Beauty,Hair Oil,7,672.17,4705.19,2957.69,4.1
+2025-05-31,East,Beauty,Face Serum,2,695.56,1391.12,4621.11,4.5
+2025-05-31,North,Electronics,Power Bank,4,2140.21,8560.84,1645.51,3.0
+2025-06-01,West,Beauty,Hair Oil,7,642.21,4495.47,7308.78,3.5
+2025-06-01,East,Fashion,Saree,2,1414.63,2829.26,646.35,3.4
+2025-06-01,East,Home & Kitchen,Water Purifier,2,1495.6,2991.2,1763.0,4.8
+2025-06-01,West,Fashion,Denim Jacket,2,1306.11,2612.22,2056.77,3.9
+2025-06-01,South,Home & Kitchen,Bedsheet Set,4,1476.43,5905.72,587.31,4.4
+2025-06-02,East,Fashion,Denim Jacket,2,1067.02,2134.04,3432.69,4.0
+2025-06-02,North,Beauty,Hair Oil,8,561.93,4495.44,1515.22,4.6
+2025-06-02,North,Electronics,Earbuds,8,2519.25,20154.0,4902.33,4.0
+2025-06-02,West,Beauty,Sunscreen,2,646.79,1293.58,9484.65,3.8
+2025-06-03,North,Books,Self-Help,3,400.37,1201.11,1024.86,4.5
+2025-06-03,West,Fashion,Sneakers,6,986.38,5918.28,4068.96,3.3
+2025-06-03,West,Books,Exam Guide,5,288.33,1441.65,2089.27,3.3
+2025-06-03,North,Electronics,Smartwatch,7,2347.21,16430.47,4351.83,3.3
+2025-06-04,North,Books,Exam Guide,4,301.47,1205.88,486.07,3.8
+2025-06-04,East,Home & Kitchen,Bedsheet Set,6,1597.71,9586.26,4387.39,4.4
+2025-06-04,East,Home & Kitchen,Bedsheet Set,5,1521.11,7605.55,1462.81,3.6
+2025-06-04,West,Home & Kitchen,Mixer Grinder,5,2051.16,10255.8,2912.3,4.2
+2025-06-04,North,Beauty,Sunscreen,3,480.9,1442.7,477.22,3.5
+2025-06-04,South,Home & Kitchen,Mixer Grinder,3,1612.23,4836.69,3173.68,3.7
+2025-06-05,North,Fashion,Saree,3,1331.22,3993.66,939.97,3.6
+2025-06-05,North,Beauty,Sunscreen,4,563.92,2255.68,721.18,3.8
+2025-06-05,West,Home & Kitchen,Water Purifier,6,2155.76,12934.56,5092.69,3.9
+2025-06-05,North,Home & Kitchen,Mixer Grinder,9,1595.31,14357.79,2684.85,3.7
+2025-06-05,South,Electronics,Bluetooth Speaker,8,2656.14,21249.12,2665.99,3.0
+2025-06-05,North,Books,Exam Guide,9,339.75,3057.75,3049.83,4.1
+2025-06-05,North,Home & Kitchen,Mixer Grinder,3,2046.73,6140.19,4374.5,4.6
+2025-06-06,South,Electronics,Bluetooth Speaker,10,2713.34,27133.4,6357.66,2.9
+2025-06-06,North,Fashion,Sneakers,7,1258.42,8808.94,7420.07,4.4
+2025-06-06,South,Books,Comics,4,300.75,1203.0,670.62,3.9
+2025-06-06,East,Home & Kitchen,Mixer Grinder,1,1711.49,1711.49,5056.18,4.2
+2025-06-06,South,Fashion,Denim Jacket,1,1125.85,1125.85,1224.14,4.6
+2025-06-06,East,Electronics,Bluetooth Speaker,3,2631.86,7895.58,4194.26,3.0
+2025-06-06,North,Books,Exam Guide,7,386.94,2708.58,5906.08,4.4
+2025-06-07,North,Fashion,Saree,8,1078.36,8626.88,3697.94,4.0
+2025-06-07,North,Electronics,Bluetooth Speaker,5,2913.48,14567.4,5877.04,3.8
+2025-06-07,North,Beauty,Hair Oil,4,510.28,2041.12,3476.63,4.2
+2025-06-07,North,Fashion,Saree,8,1238.3,9906.4,473.23,4.5
+2025-06-07,West,Books,Comics,3,351.51,1054.53,4964.75,4.2
+2025-06-07,West,Books,Exam Guide,7,391.43,2740.01,1480.74,4.3
+2025-06-07,North,Fashion,Sneakers,3,1082.78,3248.34,3116.93,4.2
+2025-06-07,West,Beauty,Hair Oil,10,716.5,7165.0,5185.97,4.6
+2025-06-07,North,Home & Kitchen,Water Purifier,7,1978.56,13849.92,3415.08,4.5
+2025-06-07,North,Beauty,Sunscreen,9,539.02,4851.18,1300.33,4.0
+2025-06-07,West,Fashion,Saree,6,1276.82,7660.92,1957.4,4.2
+2025-06-07,North,Electronics,Earbuds,3,2109.22,6327.66,1191.94,3.1
+2025-06-07,West,Beauty,Sunscreen,5,497.75,2488.75,3097.96,4.5
+2025-06-08,South,Electronics,Power Bank,6,2804.71,16828.26,519.48,3.1
+2025-06-08,South,Beauty,Sunscreen,5,536.62,2683.1,8334.19,4.0
+2025-06-08,North,Books,Exam Guide,3,419.86,1259.58,6724.36,4.6
+2025-06-08,South,Home & Kitchen,Bedsheet Set,6,1688.19,10129.14,7514.52,4.3
+2025-06-08,East,Electronics,Smartwatch,6,2803.96,16823.76,2777.77,3.0
+2025-06-09,East,Books,Self-Help,1,341.44,341.44,1267.08,3.9
+2025-06-09,West,Home & Kitchen,Mixer Grinder,7,2134.44,14941.08,3671.16,4.9
+2025-06-09,South,Beauty,Hair Oil,2,718.79,1437.58,1170.96,4.6
+2025-06-09,South,Beauty,Face Serum,7,627.51,4392.57,1953.6,4.2
+2025-06-10,North,Books,Exam Guide,7,322.69,2258.83,6780.88,4.4
+2025-06-10,West,Home & Kitchen,Mixer Grinder,4,1686.8,6747.2,202.72,4.1
+2025-06-10,South,Home & Kitchen,Bedsheet Set,7,1675.74,11730.18,4380.45,3.9
+2025-06-10,North,Beauty,Face Serum,6,493.59,2961.54,1392.91,4.5
+2025-06-10,East,Books,Comics,5,398.33,1991.65,5079.49,5.0
+2025-06-11,West,Electronics,Bluetooth Speaker,10,2888.81,28888.1,5458.85,3.1
+2025-06-11,East,Home & Kitchen,Pressure Cooker,4,1565.24,6260.96,5304.2,4.0
+2025-06-11,South,Electronics,Smartwatch,3,2256.21,6768.63,2035.81,3.2
+2025-06-12,East,Books,Comics,3,328.05,984.15,1768.0,3.3
+2025-06-12,West,Books,Novel,3,351.37,1054.11,2901.18,4.2
+2025-06-12,East,Books,Self-Help,1,408.42,408.42,2504.87,4.4
+2025-06-12,South,Books,Self-Help,6,377.68,2266.08,583.95,4.4
+2025-06-12,North,Books,Novel,2,406.65,813.3,3939.56,4.7
+2025-06-12,West,Electronics,Bluetooth Speaker,4,2507.25,10029.0,2230.86,3.2
+2025-06-12,South,Fashion,Kurta,4,1412.94,5651.76,3139.56,4.0
+2025-06-12,South,Home & Kitchen,Water Purifier,9,1599.23,14393.07,4497.73,4.2
+2025-06-12,East,Electronics,Power Bank,1,2145.08,2145.08,2112.39,3.6
+2025-06-12,East,Home & Kitchen,Water Purifier,4,2098.2,8392.8,895.66,5.0
+2025-06-13,West,Books,Novel,4,369.55,1478.2,3030.48,4.4
+2025-06-13,North,Fashion,Kurta,5,1382.4,6912.0,362.72,4.7
+2025-06-13,North,Home & Kitchen,Pressure Cooker,6,1748.43,10490.58,1710.69,3.9
+2025-06-13,North,Fashion,Denim Jacket,6,1220.31,7321.86,218.22,3.9
+2025-06-13,West,Fashion,Denim Jacket,1,1047.33,1047.33,774.56,4.0
+2025-06-13,North,Electronics,Power Bank,6,2585.63,15513.78,2928.19,3.4
+2025-06-13,West,Home & Kitchen,Water Purifier,2,1710.88,3421.76,723.41,4.9
+2025-06-13,East,Fashion,Denim Jacket,8,1288.0,10304.0,5888.6,4.4
+2025-06-13,North,Books,Comics,2,369.27,738.54,2004.91,4.1
+2025-06-14,West,Fashion,Denim Jacket,8,968.73,7749.84,3810.51,4.0
+2025-06-14,North,Beauty,Sunscreen,3,640.08,1920.24,1326.24,3.6
+2025-06-14,East,Beauty,Lipstick,6,511.91,3071.46,2768.55,4.6
+2025-06-15,South,Fashion,Sneakers,3,975.49,2926.47,806.45,5.0
+2025-06-15,South,Books,Novel,5,371.49,1857.45,997.36,4.5
+2025-06-15,East,Books,Novel,1,316.05,316.05,2668.95,5.0
+2025-06-15,West,Beauty,Lipstick,4,538.25,2153.0,5916.03,4.3
+2025-06-16,East,Beauty,Face Serum,4,528.63,2114.52,2757.12,4.0
+2025-06-16,West,Home & Kitchen,Bedsheet Set,2,1912.26,3824.52,1099.0,4.5
+2025-06-16,West,Beauty,Face Serum,9,610.96,5498.64,6180.43,3.8
+2025-06-16,South,Books,Novel,7,322.27,2255.89,3238.51,4.7
+2025-06-16,West,Home & Kitchen,Pressure Cooker,7,1929.08,13503.56,2083.79,4.4
+2025-06-16,West,Books,Exam Guide,4,305.0,1220.0,234.54,4.8
+2025-06-17,North,Books,Comics,11,308.57,3394.27,2766.83,4.2
+2025-06-17,East,Books,Novel,2,378.38,756.76,1065.19,4.5
+2025-06-17,West,Beauty,Lipstick,10,656.85,6568.5,3280.64,3.8
+2025-06-17,East,Books,Comics,1,390.18,390.18,634.86,4.0
+2025-06-17,West,Electronics,Smartwatch,4,2324.76,9299.04,835.03,3.6
+2025-06-18,North,Home & Kitchen,Mixer Grinder,5,1760.23,8801.15,1937.01,4.7
+2025-06-18,North,Home & Kitchen,Bedsheet Set,5,1507.63,7538.15,4529.98,4.4
+2025-06-18,West,Fashion,Saree,1,1017.27,1017.27,362.66,3.8
+2025-06-18,East,Books,Self-Help,5,392.95,1964.75,1749.76,4.6
+2025-06-18,South,Books,Comics,6,328.32,1969.92,1385.27,4.2
+2025-06-19,West,Electronics,Power Bank,2,2025.15,4050.3,958.39,3.8
+2025-06-19,North,Electronics,Bluetooth Speaker,10,2715.09,27150.9,7897.0,3.5
+2025-06-19,North,Beauty,Face Serum,4,561.57,2246.28,757.47,4.5
+2025-06-19,North,Electronics,Power Bank,5,2564.53,12822.65,1861.2,3.7
+2025-06-19,East,Beauty,Hair Oil,3,612.03,1836.09,5662.57,4.1
+2025-06-20,West,Fashion,Sneakers,4,1121.23,4484.92,819.9,4.4
+2025-06-20,North,Beauty,Lipstick,3,526.46,1579.38,1523.35,4.2
+2025-06-20,East,Beauty,Face Serum,3,632.58,1897.74,3800.6,5.0
+2025-06-21,North,Beauty,Face Serum,3,634.23,1902.69,905.25,4.4
+2025-06-21,West,Beauty,Sunscreen,3,517.62,1552.86,3199.19,4.5
+2025-06-21,West,Books,Exam Guide,7,339.82,2378.74,3387.75,3.9
+2025-06-21,East,Electronics,Power Bank,4,2077.34,8309.36,4449.48,3.2
+2025-06-21,East,Electronics,Power Bank,4,2681.29,10725.16,5261.49,3.5
+2025-06-21,South,Electronics,Power Bank,4,2650.33,10601.32,820.44,4.0
+2025-06-21,West,Home & Kitchen,Mixer Grinder,10,1889.88,18898.8,6239.02,4.7
+2025-06-22,North,Beauty,Sunscreen,1,548.58,548.58,693.9,3.8
+2025-06-22,West,Beauty,Lipstick,6,529.1,3174.6,1882.24,3.4
+2025-06-22,South,Electronics,Bluetooth Speaker,8,2763.27,22106.16,3729.61,2.4
+2025-06-22,East,Fashion,Saree,5,1364.91,6824.55,2024.63,4.3
+2025-06-22,South,Electronics,Power Bank,5,2613.75,13068.75,1981.9,3.5
+2025-06-22,North,Electronics,Bluetooth Speaker,4,2395.01,9580.04,6840.83,3.0
+2025-06-22,East,Beauty,Lipstick,3,498.76,1496.28,3511.09,3.6
+2025-06-22,North,Beauty,Sunscreen,4,573.6,2294.4,6135.08,4.7
+2025-06-23,West,Home & Kitchen,Pressure Cooker,5,1936.4,9682.0,2335.43,3.8
+2025-06-23,East,Books,Novel,3,289.43,868.29,10181.99,3.3
+2025-06-23,North,Home & Kitchen,Mixer Grinder,3,1941.39,5824.17,4085.16,4.1
+2025-06-23,North,Beauty,Hair Oil,7,515.89,3611.23,5242.57,3.7
+2025-06-23,North,Electronics,Earbuds,2,2551.59,5103.18,1879.42,2.9
+2025-06-23,South,Beauty,Lipstick,1,667.5,667.5,6341.35,3.8
+2025-06-23,North,Electronics,Earbuds,2,2866.91,5733.82,1621.21,4.0
+2025-06-23,East,Books,Comics,4,298.32,1193.28,1643.65,5.0
+2025-06-23,South,Beauty,Hair Oil,3,521.98,1565.94,639.29,4.4
+2025-06-23,South,Fashion,Sneakers,7,1159.34,8115.38,3440.54,3.5
+2025-06-24,South,Beauty,Hair Oil,8,615.01,4920.08,4249.35,3.5
+2025-06-24,East,Home & Kitchen,Bedsheet Set,3,1590.03,4770.09,4348.04,3.8
+2025-06-25,East,Books,Comics,2,383.25,766.5,2091.62,4.1
+2025-06-25,South,Home & Kitchen,Pressure Cooker,5,1588.17,7940.85,4292.08,4.6
+2025-06-25,North,Electronics,Earbuds,4,2849.94,11399.76,2404.88,3.6
+2025-06-26,South,Beauty,Lipstick,3,524.39,1573.17,870.11,5.0
+2025-06-26,East,Electronics,Power Bank,3,2870.64,8611.92,3507.97,4.4
+2025-06-26,West,Home & Kitchen,Mixer Grinder,1,1824.22,1824.22,2015.74,4.2
+2025-06-26,West,Home & Kitchen,Pressure Cooker,7,2114.22,14799.54,2150.54,3.7
+2025-06-27,South,Beauty,Hair Oil,6,640.6,3843.6,1431.55,3.6
+2025-06-27,South,Electronics,Power Bank,6,2406.62,14439.72,2204.19,1.9
+2025-06-27,North,Beauty,Hair Oil,4,534.11,2136.44,3195.02,3.7
+2025-06-27,East,Electronics,Earbuds,5,2619.9,13099.5,2225.13,3.7
+2025-06-27,East,Books,Self-Help,2,419.62,839.24,500.72,3.4
+2025-06-27,South,Beauty,Hair Oil,6,541.63,3249.78,1875.53,3.5
+2025-06-27,East,Fashion,Kurta,7,1032.69,7228.83,2858.64,4.1
+2025-06-27,West,Home & Kitchen,Pressure Cooker,4,1469.48,5877.92,2750.07,3.8
+2025-06-28,East,Beauty,Face Serum,4,507.13,2028.52,2663.3,5.0
+2025-06-28,North,Books,Exam Guide,2,398.7,797.4,5445.79,4.7
+2025-06-28,North,Fashion,Denim Jacket,9,1041.27,9371.43,10601.69,4.1
+2025-06-28,North,Fashion,Sneakers,4,1205.44,4821.76,2603.34,4.4
+2025-06-28,West,Books,Self-Help,7,372.26,2605.82,4065.79,3.9
+2025-06-28,East,Fashion,Denim Jacket,2,1399.24,2798.48,1974.6,4.1
+2025-06-29,West,Electronics,Power Bank,4,2235.17,8940.68,4429.03,3.7
+2025-06-29,West,Fashion,Saree,6,1176.84,7061.04,1551.57,3.3
+2025-06-29,North,Electronics,Bluetooth Speaker,8,2326.6,18612.8,1166.43,2.1
+2025-06-29,North,Books,Exam Guide,5,337.89,1689.45,2797.64,4.2
+2025-06-29,North,Electronics,Smartwatch,5,2499.77,12498.85,1841.98,3.9
+2025-06-30,East,Electronics,Bluetooth Speaker,1,2446.12,2446.12,2159.51,3.7
+2025-06-30,North,Electronics,Smartwatch,4,2394.25,9577.0,1669.84,3.0
+2025-06-30,North,Fashion,Denim Jacket,6,1164.54,6987.24,2306.31,4.0
+2025-06-30,North,Beauty,Hair Oil,3,512.19,1536.57,1267.28,4.5
+2025-07-01,North,Beauty,Sunscreen,5,504.2,2521.0,1294.71,4.8
+2025-07-01,South,Home & Kitchen,Mixer Grinder,2,2094.88,4189.76,488.92,5.0
+2025-07-01,North,Home & Kitchen,Mixer Grinder,4,1509.55,6038.2,1784.23,3.9
+2025-07-01,East,Electronics,Bluetooth Speaker,3,2967.77,8903.31,5002.15,3.7
+2025-07-01,West,Electronics,Smartwatch,1,2068.38,2068.38,571.0,3.0
+2025-07-01,East,Home & Kitchen,Pressure Cooker,2,2067.15,4134.3,1609.5,4.7
+2025-07-02,North,Fashion,Sneakers,6,1275.6,7653.6,1584.07,4.3
+2025-07-02,South,Beauty,Face Serum,5,581.48,2907.4,2026.23,3.5
+2025-07-02,North,Electronics,Bluetooth Speaker,7,2081.65,14571.55,2330.95,4.3
+2025-07-02,East,Home & Kitchen,Mixer Grinder,3,1882.46,5647.38,1492.85,4.6
+2025-07-02,East,Fashion,Kurta,5,1085.09,5425.45,4311.04,3.3
+2025-07-02,West,Home & Kitchen,Mixer Grinder,5,1510.4,7552.0,2317.19,4.5
+2025-07-02,East,Books,Novel,3,365.13,1095.39,965.06,3.6
+2025-07-02,South,Beauty,Hair Oil,10,612.11,6121.1,3934.26,3.6
+2025-07-03,North,Electronics,Earbuds,5,2688.33,13441.65,9743.59,2.3
+2025-07-03,North,Home & Kitchen,Mixer Grinder,3,2066.81,6200.43,6582.44,3.9
+2025-07-03,East,Electronics,Power Bank,1,2464.64,2464.64,204.13,3.7
+2025-07-03,East,Home & Kitchen,Mixer Grinder,5,1881.57,9407.85,6684.12,3.1
+2025-07-04,North,Beauty,Lipstick,10,612.76,6127.6,1432.88,4.2
+2025-07-04,East,Fashion,Denim Jacket,5,1375.58,6877.9,5763.58,4.4
+2025-07-04,South,Home & Kitchen,Water Purifier,7,1693.11,11851.77,3376.69,4.7
+2025-07-04,North,Beauty,Sunscreen,8,482.53,3860.24,3434.62,3.7
+2025-07-04,East,Books,Comics,6,286.77,1720.62,7000.86,4.1
+2025-07-04,East,Books,Exam Guide,4,285.04,1140.16,5862.6,4.4
+2025-07-04,North,Books,Novel,12,374.88,4498.56,4811.05,4.7
+2025-07-04,West,Books,Self-Help,2,397.61,795.22,2830.47,4.6
+2025-07-05,East,Books,Novel,4,330.64,1322.56,2195.28,4.5
+2025-07-05,North,Electronics,Power Bank,7,2611.5,18280.5,3192.53,3.9
+2025-07-05,East,Electronics,Bluetooth Speaker,4,2271.58,9086.32,481.74,3.2
+2025-07-05,West,Electronics,Smartwatch,11,2170.71,23877.81,4714.21,3.4
+2025-07-05,South,Fashion,Sneakers,4,1409.54,5638.16,2849.51,3.9
+2025-07-05,South,Home & Kitchen,Pressure Cooker,3,2159.79,6479.37,3883.94,4.2
+2025-07-05,West,Electronics,Smartwatch,7,2705.42,18937.94,1274.91,4.2
+2025-07-05,East,Home & Kitchen,Water Purifier,8,1948.56,15588.48,5294.96,4.0
+2025-07-06,West,Beauty,Lipstick,7,703.16,4922.12,1497.44,4.8
+2025-07-06,South,Books,Comics,6,283.38,1700.28,1107.56,4.0
+2025-07-06,West,Electronics,Bluetooth Speaker,8,2998.39,23987.12,2167.66,3.3
+2025-07-07,West,Electronics,Power Bank,8,2039.19,16313.52,8084.24,4.5
+2025-07-08,South,Beauty,Lipstick,7,594.58,4162.06,2388.21,3.5
+2025-07-08,East,Books,Self-Help,7,419.01,2933.07,1039.04,3.8
+2025-07-08,West,Home & Kitchen,Mixer Grinder,6,1516.21,9097.26,3902.19,4.3
+2025-07-08,North,Beauty,Face Serum,11,544.98,5994.78,2558.34,5.0
+2025-07-08,East,Home & Kitchen,Pressure Cooker,2,1500.72,3001.44,3313.75,4.8
+2025-07-08,East,Fashion,Kurta,5,1076.0,5380.0,3452.95,4.5
+2025-07-08,East,Beauty,Hair Oil,6,576.77,3460.62,5046.31,3.9
+2025-07-08,West,Home & Kitchen,Water Purifier,7,1861.1,13027.7,3022.21,4.4
+2025-07-08,South,Fashion,Sneakers,8,1268.9,10151.2,3726.45,3.9
+2025-07-08,West,Home & Kitchen,Bedsheet Set,6,1730.87,10385.22,2132.06,4.4
+2025-07-08,East,Books,Self-Help,6,388.86,2333.16,6627.76,5.0
+2025-07-08,West,Electronics,Smartwatch,8,2318.87,18550.96,9217.69,3.8
+2025-07-09,North,Books,Novel,10,386.06,3860.6,2005.07,3.6
+2025-07-09,East,Electronics,Earbuds,1,2267.96,2267.96,482.91,3.0
+2025-07-09,South,Fashion,Saree,1,1112.55,1112.55,1485.02,4.9
+2025-07-09,West,Fashion,Denim Jacket,1,1331.97,1331.97,1958.51,2.5
+2025-07-09,West,Beauty,Hair Oil,5,493.59,2467.95,1960.88,4.4
+2025-07-10,North,Electronics,Smartwatch,4,2841.88,11367.52,8302.42,2.9
+2025-07-10,South,Books,Novel,12,369.12,4429.44,1587.37,5.0
+2025-07-10,North,Beauty,Sunscreen,5,569.37,2846.85,6268.15,4.1
+2025-07-10,South,Home & Kitchen,Pressure Cooker,6,2110.4,12662.4,2800.53,4.0
+2025-07-10,East,Books,Novel,1,304.96,304.96,4402.78,4.0
+2025-07-10,North,Home & Kitchen,Water Purifier,8,1666.24,13329.92,1374.91,4.0
+2025-07-11,West,Books,Exam Guide,5,340.56,1702.8,981.15,4.3
+2025-07-11,South,Fashion,Denim Jacket,3,1235.09,3705.27,2694.93,3.9
+2025-07-11,South,Electronics,Bluetooth Speaker,4,2967.81,11871.24,3455.35,3.8
+2025-07-11,South,Fashion,Saree,6,1168.24,7009.44,2503.38,4.3
+2025-07-12,West,Fashion,Saree,3,1173.73,3521.19,1380.19,4.1
+2025-07-12,East,Books,Comics,2,319.23,638.46,3281.15,4.2
+2025-07-12,North,Fashion,Saree,5,1005.09,5025.45,4128.21,4.4
+2025-07-12,West,Electronics,Bluetooth Speaker,4,2942.06,11768.24,177.14,2.7
+2025-07-12,East,Beauty,Sunscreen,3,673.25,2019.75,506.91,4.2
+2025-07-12,South,Electronics,Bluetooth Speaker,4,2169.75,8679.0,1776.89,2.5
+2025-07-12,West,Beauty,Sunscreen,8,544.07,4352.56,5980.47,3.9
+2025-07-13,East,Fashion,Saree,1,1027.98,1027.98,714.88,4.4
+2025-07-13,South,Electronics,Smartwatch,4,2852.83,11411.32,1413.88,3.6
+2025-07-13,North,Home & Kitchen,Pressure Cooker,7,2159.37,15115.59,4221.47,2.8
+2025-07-13,East,Home & Kitchen,Pressure Cooker,6,1891.99,11351.94,3087.37,4.1
+2025-07-13,South,Beauty,Face Serum,4,628.66,2514.64,3101.61,4.9
+2025-07-13,West,Fashion,Sneakers,6,1006.18,6037.08,1054.37,4.3
+2025-07-13,North,Fashion,Denim Jacket,10,1001.74,10017.4,7021.12,4.4
+2025-07-14,West,Books,Exam Guide,8,317.69,2541.52,699.88,5.0
+2025-07-14,North,Beauty,Hair Oil,3,504.88,1514.64,108.45,4.0
+2025-07-14,South,Beauty,Lipstick,6,702.39,4214.34,1204.02,5.0
+2025-07-14,East,Books,Exam Guide,3,381.01,1143.03,2175.97,4.9
+2025-07-14,West,Fashion,Saree,5,1117.01,5585.05,895.5,4.0
+2025-07-15,East,Electronics,Earbuds,6,2212.39,13274.34,2005.98,3.7
+2025-07-15,East,Beauty,Lipstick,5,652.85,3264.25,797.36,4.4
+2025-07-15,South,Books,Exam Guide,6,291.46,1748.76,1252.36,3.7
+2025-07-15,North,Beauty,Lipstick,5,595.84,2979.2,4652.56,4.1
+2025-07-15,West,Beauty,Lipstick,7,632.75,4429.25,12154.36,4.9
+2025-07-16,North,Books,Self-Help,8,307.89,2463.12,1668.58,4.0
+2025-07-16,West,Fashion,Sneakers,5,1214.95,6074.75,3355.69,3.5
+2025-07-16,South,Beauty,Face Serum,6,707.85,4247.1,3710.95,2.8
+2025-07-16,South,Books,Comics,7,388.23,2717.61,2121.9,3.9
+2025-07-16,North,Books,Comics,9,404.19,3637.71,3646.2,4.4
+2025-07-16,North,Home & Kitchen,Water Purifier,4,1670.09,6680.36,2384.32,4.3
+2025-07-16,South,Beauty,Hair Oil,5,613.6,3068.0,2058.1,3.1
+2025-07-16,East,Home & Kitchen,Bedsheet Set,8,1907.82,15262.56,1138.83,3.4
+2025-07-17,West,Books,Novel,2,360.76,721.52,1210.11,4.3
+2025-07-17,West,Beauty,Sunscreen,6,620.09,3720.54,7899.65,4.2
+2025-07-17,South,Fashion,Denim Jacket,9,1244.66,11201.94,7522.43,4.9
+2025-07-17,West,Home & Kitchen,Mixer Grinder,2,1560.72,3121.44,1126.08,5.0
+2025-07-18,North,Home & Kitchen,Water Purifier,3,1935.42,5806.26,526.26,4.7
+2025-07-18,West,Electronics,Power Bank,1,2542.37,2542.37,2535.62,3.1
+2025-07-18,North,Books,Self-Help,5,387.25,1936.25,1341.36,4.2
+2025-07-18,South,Books,Self-Help,11,295.55,3251.05,5470.23,4.5
+2025-07-18,North,Fashion,Saree,5,1161.68,5808.4,3629.68,4.4
+2025-07-18,East,Fashion,Sneakers,2,1079.28,2158.56,9742.69,3.8
+2025-07-19,South,Electronics,Power Bank,3,2830.44,8491.32,1138.55,4.3
+2025-07-19,East,Beauty,Hair Oil,5,671.2,3356.0,2199.24,3.9
+2025-07-19,North,Fashion,Kurta,8,1380.88,11047.04,7834.71,4.5
+2025-07-19,North,Fashion,Sneakers,10,1319.85,13198.5,4282.8,3.7
+2025-07-19,North,Books,Self-Help,7,346.38,2424.66,2133.35,5.0
+2025-07-20,West,Fashion,Saree,7,1033.47,7234.29,6411.78,4.5
+2025-07-20,West,Home & Kitchen,Water Purifier,4,2055.65,8222.6,2177.83,4.4
+2025-07-20,West,Books,Novel,6,310.04,1860.24,1078.08,5.0
+2025-07-20,East,Electronics,Earbuds,4,2511.54,10046.16,454.64,3.6
+2025-07-20,North,Beauty,Sunscreen,11,714.27,7856.97,1698.23,4.5
+2025-07-20,North,Beauty,Face Serum,4,693.16,2772.64,2461.17,3.9
+2025-07-20,West,Books,Exam Guide,5,386.45,1932.25,2505.19,4.6
+2025-07-21,East,Beauty,Face Serum,6,658.51,3951.06,3294.46,4.4
+2025-07-21,East,Home & Kitchen,Mixer Grinder,3,2153.04,6459.12,857.81,4.3
+2025-07-21,East,Home & Kitchen,Mixer Grinder,4,1544.4,6177.6,1729.0,4.8
+2025-07-21,East,Home & Kitchen,Bedsheet Set,3,2012.52,6037.56,4145.09,4.2
+2025-07-21,East,Books,Self-Help,5,342.96,1714.8,1569.25,3.9
+2025-07-21,North,Electronics,Earbuds,4,2599.55,10398.2,1412.42,3.3
+2025-07-22,West,Beauty,Face Serum,4,640.28,2561.12,1471.32,4.4
+2025-07-22,East,Books,Self-Help,2,358.74,717.48,830.9,3.4
+2025-07-22,South,Fashion,Sneakers,5,1044.59,5222.95,4084.92,4.9
+2025-07-22,South,Fashion,Denim Jacket,4,1007.11,4028.44,1485.54,5.0
+2025-07-23,South,Beauty,Hair Oil,3,600.25,1800.75,2030.37,4.6
+2025-07-23,South,Books,Self-Help,5,403.83,2019.15,2481.05,4.2
+2025-07-23,East,Home & Kitchen,Bedsheet Set,6,2130.35,12782.1,1566.45,4.4
+2025-07-23,North,Beauty,Face Serum,4,518.5,2074.0,1673.78,4.6
+2025-07-23,West,Home & Kitchen,Bedsheet Set,5,1453.61,7268.05,5119.1,3.5
+2025-07-23,South,Electronics,Bluetooth Speaker,5,2794.27,13971.35,969.25,4.3
+2025-07-23,North,Home & Kitchen,Water Purifier,5,1999.51,9997.55,1333.66,4.3
+2025-07-23,West,Books,Comics,4,417.22,1668.88,7449.3,4.5
+2025-07-23,North,Home & Kitchen,Water Purifier,11,1483.58,16319.38,7785.27,3.7
+2025-07-24,West,Beauty,Lipstick,4,615.76,2463.04,1869.49,3.6
+2025-07-24,South,Beauty,Face Serum,9,590.67,5316.03,7581.27,4.0
+2025-07-24,North,Electronics,Power Bank,2,2307.94,4615.88,3221.39,3.2
+2025-07-24,East,Books,Novel,9,411.8,3706.2,6211.13,3.9
+2025-07-25,North,Fashion,Kurta,4,1185.49,4741.96,3538.14,4.2
+2025-07-25,West,Electronics,Bluetooth Speaker,7,2687.02,18809.14,3614.61,3.2
+2025-07-25,West,Beauty,Hair Oil,6,583.06,3498.36,1273.22,3.5
+2025-07-25,North,Electronics,Smartwatch,2,2508.85,5017.7,2555.99,3.3
+2025-07-25,North,Beauty,Sunscreen,9,555.11,4995.99,3081.71,4.8
+2025-07-25,East,Electronics,Power Bank,4,2333.31,9333.24,2011.75,3.5
+2025-07-26,West,Home & Kitchen,Pressure Cooker,4,1532.04,6128.16,4695.02,3.8
+2025-07-26,East,Books,Exam Guide,5,322.15,1610.75,2916.57,5.0
+2025-07-26,South,Fashion,Kurta,6,1389.82,8338.92,2472.16,4.4
+2025-07-26,East,Electronics,Smartwatch,2,2593.44,5186.88,3429.22,2.8
+2025-07-26,South,Home & Kitchen,Mixer Grinder,4,1873.26,7493.04,1720.01,4.9
+2025-07-26,West,Beauty,Sunscreen,4,629.53,2518.12,1484.37,4.0
+2025-07-27,West,Beauty,Lipstick,3,602.07,1806.21,1749.28,3.9
+2025-07-27,West,Fashion,Saree,7,1286.79,9007.53,1019.02,4.1
+2025-07-27,East,Beauty,Sunscreen,5,653.11,3265.55,4822.65,4.1
+2025-07-27,North,Books,Novel,6,361.49,2168.94,2422.14,4.9
+2025-07-27,West,Electronics,Earbuds,3,2137.18,6411.54,325.16,3.3
+2025-07-27,North,Electronics,Power Bank,3,2349.37,7048.11,2433.58,2.6
+2025-07-27,East,Books,Novel,1,357.95,357.95,632.53,4.3
+2025-07-27,South,Beauty,Face Serum,4,626.57,2506.28,2845.13,4.2
+2025-07-27,West,Beauty,Lipstick,6,629.97,3779.82,5830.16,3.9
+2025-07-28,North,Electronics,Smartwatch,2,2847.12,5694.24,2180.96,3.3
+2025-07-28,West,Home & Kitchen,Pressure Cooker,6,2002.24,12013.44,6349.17,4.5
+2025-07-28,West,Home & Kitchen,Water Purifier,7,2031.47,14220.29,1445.49,4.0
+2025-07-28,West,Books,Novel,3,370.96,1112.88,1616.3,4.5
+2025-07-28,East,Home & Kitchen,Mixer Grinder,5,1555.7,7778.5,3723.01,3.8
+2025-07-28,North,Books,Self-Help,2,407.45,814.9,2370.61,4.5
+2025-07-28,West,Beauty,Sunscreen,4,714.43,2857.72,5740.51,4.3
+2025-07-28,East,Home & Kitchen,Bedsheet Set,5,2058.76,10293.8,8360.61,4.2
+2025-07-29,East,Home & Kitchen,Bedsheet Set,2,1795.66,3591.32,1297.03,4.7
+2025-07-29,West,Home & Kitchen,Bedsheet Set,5,2005.83,10029.15,5518.46,4.6
+2025-07-29,West,Books,Novel,6,320.63,1923.78,1693.4,4.2
+2025-07-29,South,Beauty,Lipstick,1,642.01,642.01,3677.92,4.7
+2025-07-29,South,Home & Kitchen,Pressure Cooker,5,1595.03,7975.15,4726.43,3.7
+2025-07-29,East,Electronics,Smartwatch,7,2716.94,19018.58,5188.51,3.4
+2025-07-29,West,Fashion,Denim Jacket,6,1055.22,6331.32,6537.12,4.3
+2025-07-29,North,Books,Self-Help,6,352.37,2114.22,6668.77,4.6
+2025-07-30,South,Books,Comics,6,340.04,2040.24,744.58,3.5
+2025-07-30,East,Beauty,Face Serum,9,648.51,5836.59,5963.87,3.6
+2025-07-30,South,Electronics,Smartwatch,4,2395.08,9580.32,2648.14,3.8
+2025-07-30,South,Fashion,Sneakers,8,1355.61,10844.88,6608.37,4.7
+2025-07-30,West,Fashion,Saree,7,1046.08,7322.56,3422.85,4.8
+2025-07-30,North,Electronics,Smartwatch,3,2568.02,7704.06,2247.37,3.1
+2025-07-30,South,Fashion,Sneakers,6,1033.49,6200.94,5023.31,4.4
+2025-08-01,North,Books,Self-Help,6,378.21,2269.26,1470.74,3.7
+2025-08-01,South,Fashion,Kurta,5,1164.24,5821.2,2223.31,4.1
+2025-08-01,South,Books,Exam Guide,8,366.24,2929.92,1793.81,4.0
+2025-08-01,East,Fashion,Saree,4,1430.31,5721.24,1078.42,4.1
+2025-08-01,West,Fashion,Kurta,4,1060.08,4240.32,3621.19,3.9
+2025-08-01,East,Fashion,Kurta,4,1277.17,5108.68,599.38,5.0
+2025-08-01,West,Fashion,Denim Jacket,5,1212.65,6063.25,1390.74,4.3
+2025-08-01,North,Books,Exam Guide,13,322.38,4190.94,4162.89,4.2
+2025-08-02,North,Beauty,Hair Oil,15,601.76,9026.4,4709.85,3.8
+2025-08-02,South,Books,Self-Help,4,285.66,1142.64,5843.45,4.1
+2025-08-02,North,Home & Kitchen,Mixer Grinder,2,1485.3,2970.6,1259.28,3.7
+2025-08-02,South,Electronics,Power Bank,3,2647.14,7941.42,1406.12,3.6
+2025-08-03,South,Beauty,Hair Oil,7,647.09,4529.63,2561.93,4.8
+2025-08-03,South,Books,Comics,4,419.55,1678.2,4756.54,4.0
+2025-08-03,North,Beauty,Hair Oil,7,687.35,4811.45,3737.99,4.1
+2025-08-04,South,Fashion,Denim Jacket,4,1055.66,4222.64,1669.93,4.8
+2025-08-04,East,Electronics,Power Bank,7,2245.75,15720.25,5773.61,2.1
+2025-08-04,North,Beauty,Face Serum,5,577.75,2888.75,1303.32,4.7
+2025-08-04,North,Beauty,Lipstick,6,513.15,3078.9,3450.4,4.7
+2025-08-04,East,Books,Comics,1,418.47,418.47,1046.83,4.3
+2025-08-05,South,Fashion,Saree,5,1313.72,6568.6,3403.56,4.2
+2025-08-05,East,Home & Kitchen,Mixer Grinder,5,1813.51,9067.55,2522.97,4.3
+2025-08-05,North,Beauty,Hair Oil,6,716.14,4296.84,4135.75,5.0
+2025-08-05,South,Fashion,Denim Jacket,4,1087.12,4348.48,746.49,4.6
+2025-08-05,South,Home & Kitchen,Water Purifier,3,1567.71,4703.13,2267.24,4.3
+2025-08-06,North,Electronics,Earbuds,8,2125.58,17004.64,5046.43,3.5
+2025-08-06,West,Beauty,Hair Oil,7,600.15,4201.05,5567.03,4.3
+2025-08-06,East,Books,Novel,3,336.86,1010.58,2267.68,4.7
+2025-08-06,South,Books,Comics,13,327.09,4252.17,4091.48,4.4
+2025-08-06,South,Fashion,Saree,4,1005.89,4023.56,625.05,4.2
+2025-08-06,West,Books,Novel,4,354.9,1419.6,3420.05,4.7
+2025-08-07,West,Fashion,Kurta,2,1196.59,2393.18,1353.82,4.0
+2025-08-07,North,Beauty,Hair Oil,7,488.95,3422.65,3301.62,4.1
+2025-08-08,East,Home & Kitchen,Pressure Cooker,3,1770.99,5312.97,1921.37,3.8
+2025-08-08,North,Fashion,Saree,6,1239.7,7438.2,2071.82,4.3
+2025-08-08,South,Fashion,Saree,7,1033.84,7236.88,3374.56,4.2
+2025-08-08,West,Books,Novel,8,297.75,2382.0,3108.1,4.4
+2025-08-08,West,Fashion,Kurta,8,1141.86,9134.88,2481.15,3.9
+2025-08-08,East,Beauty,Face Serum,3,547.56,1642.68,4498.62,4.3
+2025-08-08,North,Home & Kitchen,Bedsheet Set,5,1623.26,8116.3,823.1,4.5
+2025-08-08,West,Electronics,Earbuds,6,2947.75,17686.5,1253.58,3.3
+2025-08-08,North,Beauty,Lipstick,12,491.02,5892.24,6353.15,4.9
+2025-08-09,East,Electronics,Bluetooth Speaker,4,2278.75,9115.0,9906.36,3.3
+2025-08-09,North,Beauty,Sunscreen,8,595.71,4765.68,2140.31,4.1
+2025-08-09,West,Electronics,Bluetooth Speaker,4,2164.47,8657.88,608.91,3.7
+2025-08-09,North,Books,Comics,8,346.95,2775.6,1738.84,5.0
+2025-08-09,South,Books,Novel,1,354.44,354.44,512.71,4.2
+2025-08-09,West,Books,Exam Guide,4,352.0,1408.0,2391.65,4.1
+2025-08-09,East,Electronics,Power Bank,2,2051.74,4103.48,1149.49,3.7
+2025-08-10,East,Electronics,Bluetooth Speaker,6,2224.32,13345.92,404.94,3.4
+2025-08-10,South,Fashion,Saree,4,1260.23,5040.92,5043.63,3.2
+2025-08-10,South,Electronics,Bluetooth Speaker,5,2822.99,14114.95,1735.74,3.4
+2025-08-10,East,Beauty,Sunscreen,3,647.67,1943.01,1714.4,4.1
+2025-08-11,East,Books,Exam Guide,2,417.3,834.6,1869.09,4.7
+2025-08-11,South,Electronics,Earbuds,11,2087.75,22965.25,5320.36,3.3
+2025-08-12,South,Books,Comics,8,331.63,2653.04,5790.35,4.3
+2025-08-12,South,Beauty,Face Serum,6,709.03,4254.18,2662.03,4.3
+2025-08-12,West,Home & Kitchen,Bedsheet Set,5,1580.69,7903.45,978.68,4.0
+2025-08-12,North,Beauty,Lipstick,7,597.91,4185.37,4948.0,3.7
+2025-08-13,South,Electronics,Power Bank,9,2531.68,22785.12,8836.42,3.6
+2025-08-13,North,Home & Kitchen,Pressure Cooker,7,1859.45,13016.15,927.0,3.5
+2025-08-13,South,Fashion,Denim Jacket,6,1212.36,7274.16,3036.13,4.4
+2025-08-13,West,Beauty,Hair Oil,3,644.55,1933.65,2397.49,4.5
+2025-08-14,West,Books,Exam Guide,1,352.52,352.52,6115.95,4.5
+2025-08-14,South,Fashion,Kurta,9,1177.0,10593.0,3988.54,4.6
+2025-08-14,North,Beauty,Face Serum,4,703.14,2812.56,1165.95,3.9
+2025-08-14,West,Beauty,Face Serum,8,612.56,4900.48,5332.53,4.3
+2025-08-14,East,Home & Kitchen,Mixer Grinder,2,2033.31,4066.62,2168.7,3.6
+2025-08-14,East,Home & Kitchen,Water Purifier,4,2026.24,8104.96,3385.34,4.3
+2025-08-14,East,Books,Novel,3,367.51,1102.53,1359.9,4.4
+2025-08-14,West,Fashion,Kurta,4,1378.92,5515.68,2104.74,3.4
+2025-08-14,North,Fashion,Sneakers,6,1281.62,7689.72,853.32,4.4
+2025-08-15,West,Books,Novel,4,326.12,1304.48,1980.98,4.8
+2025-08-15,South,Books,Exam Guide,5,354.41,1772.05,9060.22,3.5
+2025-08-15,West,Fashion,Sneakers,8,1026.78,8214.24,5250.09,4.2
+2025-08-16,North,Beauty,Face Serum,6,684.25,4105.5,3370.57,3.6
+2025-08-16,South,Beauty,Face Serum,4,678.39,2713.56,1049.89,5.0
+2025-08-16,East,Home & Kitchen,Water Purifier,3,2099.17,6297.51,2532.8,4.6
+2025-08-16,East,Fashion,Sneakers,2,1218.19,2436.38,13271.61,4.2
+2025-08-16,West,Home & Kitchen,Water Purifier,4,2123.84,8495.36,2954.97,4.7
+2025-08-16,North,Fashion,Kurta,3,1307.02,3921.06,991.62,3.9
+2025-08-16,North,Beauty,Sunscreen,1,706.97,706.97,1358.72,4.2
+2025-08-16,East,Fashion,Sneakers,3,1342.84,4028.52,4467.51,3.6
+2025-08-17,East,Beauty,Lipstick,2,639.67,1279.34,5310.54,3.1
+2025-08-17,South,Books,Self-Help,1,407.74,407.74,3048.15,4.1
+2025-08-17,North,Electronics,Power Bank,6,2145.22,12871.32,6920.6,2.4
+2025-08-18,South,Books,Novel,1,351.4,351.4,612.6,4.4
+2025-08-18,West,Books,Self-Help,6,393.21,2359.26,1462.88,3.6
+2025-08-18,North,Beauty,Sunscreen,1,718.7,718.7,3223.79,5.0
+2025-08-19,South,Books,Self-Help,7,348.34,2438.38,1034.43,4.4
+2025-08-19,West,Home & Kitchen,Bedsheet Set,8,1908.4,15267.2,4596.79,3.6
+2025-08-20,East,Beauty,Sunscreen,3,677.82,2033.46,5412.02,4.4
+2025-08-20,North,Electronics,Power Bank,8,2936.19,23489.52,4011.75,3.2
+2025-08-20,West,Beauty,Lipstick,6,607.15,3642.9,6626.75,3.8
+2025-08-20,West,Books,Comics,4,331.42,1325.68,5336.06,5.0
+2025-08-21,West,Books,Self-Help,6,332.23,1993.38,4008.17,3.7
+2025-08-21,East,Books,Novel,3,357.16,1071.48,404.6,4.0
+2025-08-21,East,Beauty,Sunscreen,3,553.03,1659.09,3248.93,3.9
+2025-08-21,South,Beauty,Hair Oil,4,530.61,2122.44,253.59,3.5
+2025-08-21,East,Fashion,Denim Jacket,6,1112.91,6677.46,3989.53,3.6
+2025-08-21,West,Electronics,Smartwatch,4,2545.67,10182.68,2093.92,3.0
+2025-08-21,South,Fashion,Denim Jacket,7,1070.9,7496.3,4909.07,3.0
+2025-08-21,South,Electronics,Earbuds,7,2694.82,18863.74,5508.57,3.0
+2025-08-22,East,Electronics,Power Bank,1,2282.32,2282.32,6996.36,3.6
+2025-08-22,South,Books,Exam Guide,6,288.04,1728.24,6401.83,3.8
+2025-08-22,North,Electronics,Bluetooth Speaker,6,2994.26,17965.56,2449.25,2.9
+2025-08-22,East,Electronics,Earbuds,1,2264.57,2264.57,3749.18,3.5
+2025-08-22,West,Electronics,Power Bank,12,2384.76,28617.12,5329.07,4.4
+2025-08-22,West,Electronics,Earbuds,4,2127.18,8508.72,428.55,3.4
+2025-08-23,East,Fashion,Denim Jacket,3,1069.94,3209.82,4339.99,4.3
+2025-08-23,North,Electronics,Bluetooth Speaker,1,2270.44,2270.44,3759.58,3.6
+2025-08-23,South,Fashion,Saree,7,1015.57,7108.99,2688.32,4.4
+2025-08-24,West,Books,Self-Help,13,383.72,4988.36,6831.14,4.5
+2025-08-24,South,Electronics,Power Bank,5,2845.3,14226.5,5933.97,2.9
+2025-08-25,North,Books,Exam Guide,3,314.23,942.69,474.4,4.1
+2025-08-25,North,Electronics,Smartwatch,5,2888.98,14444.9,7256.57,3.6
+2025-08-25,North,Home & Kitchen,Mixer Grinder,4,2042.23,8168.92,7106.1,3.0
+2025-08-25,North,Fashion,Sneakers,5,1126.44,5632.2,3449.78,4.5
+2025-08-25,South,Home & Kitchen,Pressure Cooker,7,2022.23,14155.61,4049.33,4.2
+2025-08-26,South,Beauty,Lipstick,8,518.33,4146.64,1267.84,3.0
+2025-08-26,East,Beauty,Sunscreen,5,602.3,3011.5,2988.94,4.0
+2025-08-26,North,Fashion,Denim Jacket,4,1123.82,4495.28,1760.43,4.3
+2025-08-26,South,Books,Exam Guide,7,332.42,2326.94,4583.99,4.4
+2025-08-26,North,Beauty,Sunscreen,9,515.1,4635.9,5376.55,4.1
+2025-08-26,South,Books,Self-Help,5,307.08,1535.4,1931.86,3.9
+2025-08-26,North,Home & Kitchen,Bedsheet Set,3,1483.08,4449.24,3009.94,4.2
+2025-08-27,North,Books,Self-Help,5,374.11,1870.55,1659.89,4.7
+2025-08-28,North,Home & Kitchen,Bedsheet Set,6,1847.34,11084.04,1633.3,4.4
+2025-08-28,East,Books,Exam Guide,2,412.33,824.66,120.19,4.1
+2025-08-28,South,Books,Novel,2,351.14,702.28,1751.92,4.5
+2025-08-28,East,Electronics,Earbuds,3,2666.45,7999.35,1077.55,3.6
+2025-08-28,East,Home & Kitchen,Mixer Grinder,1,2026.74,2026.74,3190.19,4.5
+2025-08-28,North,Beauty,Face Serum,9,710.26,6392.34,3126.19,4.4
+2025-08-29,East,Electronics,Smartwatch,3,2734.94,8204.82,3140.4,4.1
+2025-08-29,South,Fashion,Kurta,4,1123.43,4493.72,5415.39,3.8
+2025-08-29,South,Fashion,Saree,6,1264.29,7585.74,1568.68,4.3
+2025-08-29,North,Beauty,Sunscreen,5,481.38,2406.9,1854.61,4.1
+2025-08-29,South,Electronics,Bluetooth Speaker,8,2821.45,22571.6,5046.61,3.3
+2025-08-30,West,Fashion,Denim Jacket,9,1333.54,12001.86,6030.72,4.4
+2025-08-30,South,Fashion,Denim Jacket,3,1307.29,3921.87,104.93,4.4
+2025-08-30,East,Beauty,Lipstick,4,707.08,2828.32,2288.01,4.2
+2025-08-30,South,Home & Kitchen,Pressure Cooker,2,1892.7,3785.4,1808.83,4.2
+2025-08-30,South,Beauty,Hair Oil,7,672.32,4706.24,2240.69,4.3
+2025-08-30,South,Fashion,Saree,5,1066.11,5330.55,1406.44,4.1
+2025-08-30,East,Electronics,Smartwatch,1,2139.89,2139.89,5801.25,3.1
+2025-08-30,West,Books,Self-Help,4,383.35,1533.4,1269.25,3.8
+2025-08-30,South,Beauty,Face Serum,10,639.68,6396.8,3772.6,5.0
+2025-08-30,North,Home & Kitchen,Pressure Cooker,6,1813.97,10883.82,5112.85,4.2
+2025-08-30,North,Books,Comics,5,384.98,1924.9,1892.61,3.8
+2025-08-31,West,Electronics,Power Bank,8,2539.71,20317.68,6504.68,3.2
+2025-08-31,West,Home & Kitchen,Bedsheet Set,6,1491.46,8948.76,5656.75,4.1
+2025-08-31,South,Home & Kitchen,Mixer Grinder,2,1713.71,3427.42,9507.43,3.6
+2025-08-31,South,Beauty,Hair Oil,5,707.98,3539.9,5062.71,4.0
+2025-09-01,East,Electronics,Power Bank,6,2501.88,15011.28,3003.66,3.3
+2025-09-01,North,Home & Kitchen,Mixer Grinder,10,2136.06,21360.6,7240.01,5.0
+2025-09-01,South,Books,Novel,4,309.74,1238.96,913.54,3.9
+2025-09-01,South,Beauty,Face Serum,9,626.13,5635.17,3608.74,4.2
+2025-09-01,South,Fashion,Denim Jacket,5,1348.44,6742.2,2072.11,3.7
+2025-09-01,West,Fashion,Sneakers,9,972.97,8756.73,1618.8,4.4
+2025-09-01,West,Books,Self-Help,4,369.3,1477.2,10337.31,5.0
+2025-09-02,East,Electronics,Earbuds,1,2598.6,2598.6,10010.3,3.0
+2025-09-02,West,Fashion,Sneakers,8,1279.59,10236.72,2064.18,4.3
+2025-09-02,East,Beauty,Sunscreen,1,610.39,610.39,2013.09,4.2
+2025-09-02,North,Fashion,Denim Jacket,5,1216.8,6084.0,2132.03,4.7
+2025-09-02,West,Fashion,Kurta,2,1375.38,2750.76,1836.93,4.7
+2025-09-02,West,Electronics,Power Bank,6,2715.03,16290.18,2297.43,3.6
+2025-09-02,North,Fashion,Kurta,5,1421.07,7105.35,323.85,3.9
+2025-09-02,South,Electronics,Bluetooth Speaker,7,2126.33,14884.31,1985.93,2.7
+2025-09-02,North,Home & Kitchen,Mixer Grinder,5,1762.43,8812.15,2893.77,4.9
+2025-09-02,West,Books,Comics,4,299.16,1196.64,6912.34,5.0
+2025-09-03,North,Fashion,Denim Jacket,1,1131.18,1131.18,3339.03,4.8
+2025-09-03,West,Books,Exam Guide,6,319.07,1914.42,3254.21,3.9
+2025-09-03,West,Beauty,Face Serum,1,561.78,561.78,1018.1,5.0
+2025-09-03,West,Books,Novel,7,415.54,2908.78,1538.83,3.7
+2025-09-03,South,Beauty,Face Serum,4,587.19,2348.76,1785.85,4.7
+2025-09-03,West,Electronics,Bluetooth Speaker,5,2538.26,12691.3,1735.74,3.7
+2025-09-03,West,Beauty,Lipstick,2,495.84,991.68,929.91,4.8
+2025-09-04,North,Books,Exam Guide,2,302.23,604.46,916.58,4.1
+2025-09-04,East,Fashion,Saree,3,1282.49,3847.47,2620.5,3.9
+2025-09-04,North,Books,Exam Guide,3,380.59,1141.77,3002.39,4.0
+2025-09-04,North,Fashion,Kurta,6,1185.06,7110.36,7698.91,3.2
+2025-09-05,West,Electronics,Power Bank,5,2760.81,13804.05,922.99,4.1
+2025-09-05,South,Home & Kitchen,Pressure Cooker,5,1715.74,8578.7,5370.37,5.0
+2025-09-05,South,Home & Kitchen,Pressure Cooker,2,1678.65,3357.3,1951.13,3.7
+2025-09-05,East,Fashion,Denim Jacket,3,1128.54,3385.62,7065.89,4.1
+2025-09-05,West,Electronics,Smartwatch,6,2500.51,15003.06,8226.95,4.1
+2025-09-05,West,Books,Exam Guide,4,285.96,1143.84,1865.64,4.7
+2025-09-05,East,Home & Kitchen,Mixer Grinder,1,2076.9,2076.9,1013.24,3.9
+2025-09-06,North,Electronics,Bluetooth Speaker,8,2599.47,20795.76,6844.3,3.2
+2025-09-06,West,Books,Novel,5,324.63,1623.15,3430.4,4.2
+2025-09-06,South,Electronics,Bluetooth Speaker,2,2593.94,5187.88,183.72,3.3
+2025-09-06,North,Fashion,Sneakers,5,970.12,4850.6,7225.3,4.0
+2025-09-06,South,Books,Self-Help,1,323.72,323.72,1111.48,3.7
+2025-09-06,South,Home & Kitchen,Bedsheet Set,4,1594.94,6379.76,2082.83,4.7
+2025-09-06,West,Fashion,Denim Jacket,5,1059.96,5299.8,7296.46,5.0
+2025-09-07,West,Home & Kitchen,Mixer Grinder,4,1935.65,7742.6,2500.12,4.1
+2025-09-07,North,Books,Exam Guide,8,407.95,3263.6,2190.81,4.9
+2025-09-07,North,Books,Exam Guide,3,348.61,1045.83,1279.88,4.6
+2025-09-07,South,Home & Kitchen,Mixer Grinder,9,1656.88,14911.92,2341.17,3.6
+2025-09-07,South,Home & Kitchen,Water Purifier,4,2051.8,8207.2,1320.55,4.3
+2025-09-07,South,Books,Novel,7,402.25,2815.75,3196.18,3.7
+2025-09-07,North,Beauty,Hair Oil,3,646.99,1940.97,1895.49,5.0
+2025-09-08,West,Home & Kitchen,Bedsheet Set,9,2105.08,18945.72,4313.07,4.2
+2025-09-08,West,Fashion,Saree,2,1423.67,2847.34,2129.98,4.6
+2025-09-08,North,Electronics,Power Bank,10,2810.26,28102.6,4123.21,3.7
+2025-09-08,West,Fashion,Saree,7,1157.21,8100.47,3920.49,4.9
+2025-09-08,West,Fashion,Kurta,10,1001.25,10012.5,5522.55,4.5
+2025-09-08,North,Home & Kitchen,Pressure Cooker,5,1508.5,7542.5,7057.99,4.2
+2025-09-08,South,Fashion,Sneakers,1,1047.43,1047.43,1957.75,3.7
+2025-09-08,South,Books,Exam Guide,4,390.29,1561.16,1155.83,4.6
+2025-09-08,North,Beauty,Hair Oil,4,620.75,2483.0,1507.29,4.4
+2025-09-08,West,Fashion,Denim Jacket,3,1167.98,3503.94,4378.65,3.5
+2025-09-09,North,Beauty,Hair Oil,5,625.98,3129.9,2966.61,4.3
+2025-09-09,West,Electronics,Smartwatch,8,2356.89,18855.12,1895.57,3.2
+2025-09-09,North,Home & Kitchen,Bedsheet Set,8,1902.06,15216.48,1596.39,4.9
+2025-09-09,North,Books,Exam Guide,5,406.51,2032.55,2516.99,3.3
+2025-09-09,West,Electronics,Earbuds,6,2672.57,16035.42,2564.22,2.4
+2025-09-10,East,Electronics,Power Bank,3,2536.89,7610.67,5096.55,4.1
+2025-09-10,South,Beauty,Sunscreen,8,597.76,4782.08,4051.59,3.9
+2025-09-10,East,Electronics,Bluetooth Speaker,2,2221.0,4442.0,1548.86,2.7
+2025-09-10,North,Fashion,Sneakers,6,1131.88,6791.28,2653.21,3.5
+2025-09-10,North,Electronics,Bluetooth Speaker,3,2259.91,6779.73,1488.98,2.6
+2025-09-10,North,Home & Kitchen,Bedsheet Set,6,1751.37,10508.22,1029.21,4.9
+2025-09-11,North,Books,Novel,3,417.32,1251.96,4034.65,4.6
+2025-09-11,North,Home & Kitchen,Bedsheet Set,6,1482.83,8896.98,2576.78,4.4
+2025-09-11,West,Beauty,Sunscreen,4,661.68,2646.72,2826.64,4.4
+2025-09-11,North,Electronics,Power Bank,4,2840.41,11361.64,1235.55,3.6
+2025-09-11,East,Beauty,Face Serum,7,653.86,4577.02,4156.31,3.6
+2025-09-12,North,Electronics,Earbuds,8,2556.58,20452.64,3996.71,2.8
+2025-09-12,South,Beauty,Face Serum,5,643.97,3219.85,4618.64,4.6
+2025-09-12,South,Electronics,Bluetooth Speaker,3,2070.7,6212.1,2402.15,3.1
+2025-09-12,South,Books,Novel,8,365.39,2923.12,4856.06,4.3
+2025-09-12,South,Electronics,Earbuds,9,2218.25,19964.25,1979.86,3.3
+2025-09-13,West,Fashion,Sneakers,5,1053.81,5269.05,5028.92,4.5
+2025-09-13,North,Books,Exam Guide,7,419.47,2936.29,1067.45,4.3
+2025-09-13,West,Books,Exam Guide,9,374.74,3372.66,5738.88,3.9
+2025-09-13,North,Home & Kitchen,Mixer Grinder,3,1788.55,5365.65,1134.48,3.9
+2025-09-13,North,Beauty,Lipstick,3,506.19,1518.57,3651.74,4.0
+2025-09-13,North,Electronics,Power Bank,3,2000.02,6000.06,1749.54,3.8
+2025-09-14,North,Beauty,Hair Oil,7,715.78,5010.46,3525.7,4.9
+2025-09-14,West,Fashion,Kurta,3,1282.17,3846.51,1945.66,5.0
+2025-09-14,East,Home & Kitchen,Bedsheet Set,2,1600.33,3200.66,1244.82,4.9
+2025-09-14,North,Home & Kitchen,Pressure Cooker,3,2038.7,6116.1,2252.41,4.4
+2025-09-15,East,Fashion,Sneakers,3,1117.73,3353.19,783.83,3.7
+2025-09-15,West,Home & Kitchen,Water Purifier,1,1826.55,1826.55,4844.18,4.9
+2025-09-15,North,Electronics,Smartwatch,14,2003.57,28049.98,5464.21,3.8
+2025-09-15,South,Books,Comics,7,341.47,2390.29,6375.69,4.9
+2025-09-15,North,Books,Self-Help,4,318.13,1272.52,1526.47,4.1
+2025-09-15,North,Home & Kitchen,Pressure Cooker,4,1526.65,6106.6,1605.64,5.0
+2025-09-15,East,Electronics,Power Bank,1,2677.69,2677.69,53.98,3.2
+2025-09-15,South,Books,Comics,1,297.82,297.82,860.55,3.6
+2025-09-15,South,Fashion,Kurta,9,1295.02,11655.18,2972.29,3.8
+2025-09-16,North,Beauty,Hair Oil,7,505.56,3538.92,2193.23,3.6
+2025-09-16,North,Books,Novel,8,300.32,2402.56,3336.79,4.2
+2025-09-16,South,Fashion,Saree,13,1252.02,16276.26,5091.77,3.3
+2025-09-16,East,Beauty,Sunscreen,4,676.36,2705.44,9410.63,4.4
+2025-09-16,East,Beauty,Hair Oil,4,487.02,1948.08,802.67,4.8
+2025-09-16,West,Electronics,Power Bank,3,2714.84,8144.52,4966.23,3.3
+2025-09-16,West,Home & Kitchen,Water Purifier,6,1999.73,11998.38,737.0,4.8
+2025-09-16,West,Fashion,Kurta,5,1056.7,5283.5,2672.97,4.2
+2025-09-16,East,Fashion,Sneakers,4,1402.25,5609.0,4103.21,3.9
+2025-09-17,East,Books,Exam Guide,1,283.21,283.21,8969.92,4.1
+2025-09-17,North,Home & Kitchen,Mixer Grinder,6,1538.34,9230.04,1546.53,4.3
+2025-09-17,East,Beauty,Lipstick,1,543.14,543.14,204.33,4.1
+2025-09-18,North,Books,Novel,7,314.62,2202.34,6942.16,3.5
+2025-09-18,East,Home & Kitchen,Bedsheet Set,1,2097.26,2097.26,5776.92,4.2
+2025-09-18,North,Fashion,Kurta,12,1168.75,14025.0,6218.93,4.6
+2025-09-18,West,Electronics,Earbuds,3,2996.02,8988.06,4293.38,3.3
+2025-09-18,South,Fashion,Saree,4,1375.81,5503.24,1259.77,4.7
+2025-09-18,North,Home & Kitchen,Water Purifier,10,2053.75,20537.5,2562.55,4.4
+2025-09-18,East,Books,Exam Guide,2,322.48,644.96,2181.23,4.2
+2025-09-18,North,Home & Kitchen,Pressure Cooker,8,1832.42,14659.36,4329.2,4.8
+2025-09-18,West,Beauty,Lipstick,5,594.29,2971.45,2534.45,4.5
+2025-09-19,North,Books,Comics,7,284.08,1988.56,9086.96,4.1
+2025-09-19,West,Fashion,Denim Jacket,5,1309.74,6548.7,2415.17,3.7
+2025-09-19,East,Books,Self-Help,3,394.15,1182.45,2309.51,3.4
+2025-09-19,South,Electronics,Smartwatch,5,2074.75,10373.75,228.19,3.8
+2025-09-19,North,Fashion,Denim Jacket,8,1279.85,10238.8,6456.06,4.1
+2025-09-19,South,Beauty,Lipstick,3,680.57,2041.71,1155.15,4.6
+2025-09-19,South,Home & Kitchen,Water Purifier,9,1742.39,15681.51,3377.26,3.5
+2025-09-19,West,Fashion,Denim Jacket,4,1192.4,4769.6,2767.36,4.8
+2025-09-19,South,Fashion,Denim Jacket,9,985.96,8873.64,1425.91,3.8
+2025-09-19,West,Electronics,Smartwatch,6,2060.78,12364.68,5556.59,3.1
+2025-09-20,East,Beauty,Lipstick,1,667.89,667.89,1284.74,4.1
+2025-09-20,North,Home & Kitchen,Mixer Grinder,9,1649.95,14849.55,3132.54,3.6
+2025-09-20,North,Fashion,Sneakers,4,1175.55,4702.2,4133.25,4.1
+2025-09-21,West,Home & Kitchen,Bedsheet Set,5,1549.62,7748.1,5369.76,4.0
+2025-09-21,West,Electronics,Smartwatch,8,2001.99,16015.92,3873.02,3.3
+2025-09-21,North,Books,Self-Help,11,313.95,3453.45,9422.62,4.1
+2025-09-21,West,Fashion,Kurta,2,1158.17,2316.34,1341.67,4.0
+2025-09-21,East,Home & Kitchen,Mixer Grinder,2,1521.46,3042.92,2390.23,4.5
+2025-09-21,West,Books,Comics,5,297.96,1489.8,8687.15,3.4
+2025-09-21,South,Beauty,Lipstick,4,692.76,2771.04,563.76,3.6
+2025-09-21,North,Fashion,Kurta,4,1405.68,5622.72,1498.9,4.9
+2025-09-22,East,Electronics,Power Bank,1,2392.5,2392.5,870.93,3.7
+2025-09-22,East,Beauty,Sunscreen,1,626.4,626.4,1547.88,4.9
+2025-09-22,South,Electronics,Power Bank,5,2237.27,11186.35,565.93,4.5
+2025-09-22,South,Books,Self-Help,10,332.74,3327.4,4582.17,3.9
+2025-09-23,South,Fashion,Kurta,5,1081.86,5409.3,2557.61,4.7
+2025-09-23,South,Fashion,Saree,7,1042.65,7298.55,3123.86,4.7
+2025-09-23,East,Home & Kitchen,Pressure Cooker,2,1564.45,3128.9,2393.14,4.6
+2025-09-23,East,Home & Kitchen,Bedsheet Set,2,2091.01,4182.02,4630.69,4.7
+2025-09-24,North,Books,Exam Guide,4,378.47,1513.88,950.3,4.1
+2025-09-24,North,Home & Kitchen,Bedsheet Set,7,1998.88,13992.16,10744.44,3.5
+2025-09-24,North,Beauty,Hair Oil,9,673.23,6059.07,3873.79,4.1
+2025-09-24,North,Beauty,Lipstick,13,683.81,8889.53,6272.48,4.6
+2025-09-24,South,Electronics,Power Bank,6,2863.38,17180.28,2503.1,2.8
+2025-09-24,East,Electronics,Bluetooth Speaker,3,2733.12,8199.36,6647.04,3.2
+2025-09-25,South,Electronics,Earbuds,7,2711.07,18977.49,4820.12,2.4
+2025-09-25,South,Electronics,Power Bank,7,2208.91,15462.37,3279.62,4.3
+2025-09-25,South,Fashion,Kurta,3,1406.0,4218.0,1166.15,4.4
+2025-09-25,North,Beauty,Lipstick,2,629.07,1258.14,546.99,3.5
+2025-09-26,South,Books,Comics,4,327.19,1308.76,1065.27,3.9
+2025-09-26,West,Books,Self-Help,8,309.7,2477.6,1205.43,4.5
+2025-09-26,East,Beauty,Hair Oil,4,645.31,2581.24,4716.49,3.6
+2025-09-26,East,Electronics,Bluetooth Speaker,2,2708.93,5417.86,629.16,3.1
+2025-09-26,West,Books,Exam Guide,8,287.14,2297.12,1253.99,3.8
+2025-09-26,South,Electronics,Earbuds,6,2244.92,13469.52,718.39,4.4
+2025-09-27,East,Home & Kitchen,Mixer Grinder,4,2055.22,8220.88,3645.36,3.7
+2025-09-27,North,Fashion,Sneakers,4,1306.58,5226.32,1769.98,3.4
+2025-09-27,South,Home & Kitchen,Water Purifier,4,1876.54,7506.16,2077.47,3.4
+2025-09-27,South,Beauty,Face Serum,5,695.72,3478.6,3319.07,4.4
+2025-09-27,North,Books,Self-Help,1,343.27,343.27,4599.0,4.5
+2025-09-27,West,Home & Kitchen,Bedsheet Set,6,1905.72,11434.32,3485.93,4.4
+2025-09-27,East,Electronics,Smartwatch,4,2405.1,9620.4,2662.71,4.0
+2025-09-28,East,Fashion,Kurta,1,997.1,997.1,1005.12,4.7
+2025-09-28,South,Fashion,Saree,3,1395.74,4187.22,4114.48,3.4
+2025-09-28,West,Home & Kitchen,Pressure Cooker,3,1547.62,4642.86,2972.31,4.8
+2025-09-28,South,Fashion,Sneakers,4,1135.96,4543.84,5198.01,4.3
+2025-09-29,West,Books,Exam Guide,2,394.46,788.92,5439.87,3.9
+2025-09-29,West,Books,Novel,7,386.53,2705.71,1203.54,4.7
+2025-09-29,East,Fashion,Denim Jacket,4,1045.04,4180.16,764.43,4.4
+2025-09-29,South,Fashion,Saree,7,1319.89,9239.23,1692.18,4.1
+2025-09-30,East,Electronics,Smartwatch,4,2537.45,10149.8,3166.39,2.9
+2025-09-30,South,Fashion,Kurta,8,1400.22,11201.76,1794.78,4.2
+2025-09-30,North,Electronics,Smartwatch,4,2869.08,11476.32,1035.01,3.4
+2025-09-30,East,Beauty,Sunscreen,1,679.34,679.34,1646.3,4.0
+2025-09-30,West,Electronics,Power Bank,6,2630.65,15783.9,513.94,4.1
+2025-09-30,East,Electronics,Earbuds,4,2007.51,8030.04,2986.6,4.3
+2025-10-01,North,Fashion,Denim Jacket,5,996.68,4983.4,3464.03,4.8
+2025-10-01,South,Books,Self-Help,6,355.05,2130.3,2543.36,3.8
+2025-10-01,East,Books,Exam Guide,8,315.2,2521.6,2909.36,4.9
+2025-10-01,West,Beauty,Sunscreen,9,543.89,4895.01,3044.98,3.2
+2025-10-01,West,Home & Kitchen,Pressure Cooker,10,1876.27,18762.7,941.76,4.4
+2025-10-01,South,Beauty,Lipstick,5,494.88,2474.4,451.14,4.2
+2025-10-02,North,Fashion,Denim Jacket,5,1003.54,5017.7,8714.59,4.5
+2025-10-02,East,Beauty,Face Serum,5,492.76,2463.8,1084.87,4.6
+2025-10-02,South,Fashion,Sneakers,7,1284.07,8988.49,3686.14,4.4
+2025-10-02,East,Beauty,Face Serum,7,572.28,4005.96,1501.23,4.3
+2025-10-02,West,Home & Kitchen,Bedsheet Set,20,1826.6,36532.0,3421.53,5.0
+2025-10-02,North,Books,Novel,5,294.98,1474.9,326.93,3.8
+2025-10-02,North,Electronics,Bluetooth Speaker,16,2931.28,46900.48,4320.67,4.2
+2025-10-02,West,Home & Kitchen,Pressure Cooker,13,2056.12,26729.56,6123.03,5.0
+2025-10-03,West,Electronics,Power Bank,6,2412.1,14472.6,560.13,3.3
+2025-10-03,North,Fashion,Kurta,13,1133.53,14735.89,9187.12,4.4
+2025-10-03,West,Electronics,Power Bank,13,2714.28,35285.64,3213.88,3.2
+2025-10-03,South,Electronics,Power Bank,19,2735.96,51983.24,4916.21,2.7
+2025-10-03,East,Books,Novel,7,332.92,2330.44,1905.48,4.5
+2025-10-04,North,Beauty,Lipstick,8,518.45,4147.6,1508.94,4.6
+2025-10-04,South,Fashion,Denim Jacket,4,1032.76,4131.04,796.92,3.8
+2025-10-04,East,Beauty,Lipstick,5,573.48,2867.4,1175.65,4.8
+2025-10-04,East,Electronics,Power Bank,5,2027.99,10139.95,1201.0,3.9
+2025-10-04,North,Fashion,Sneakers,11,1315.74,14473.14,2025.16,4.4
+2025-10-04,West,Books,Novel,9,347.11,3123.99,607.45,4.4
+2025-10-04,West,Fashion,Sneakers,4,1012.34,4049.36,1120.35,4.8
+2025-10-05,North,Books,Exam Guide,10,408.69,4086.9,4089.05,5.0
+2025-10-05,East,Books,Self-Help,1,406.13,406.13,2126.34,5.0
+2025-10-05,East,Fashion,Saree,6,1070.9,6425.4,3967.62,5.0
+2025-10-06,West,Electronics,Bluetooth Speaker,9,2321.95,20897.55,4125.02,3.0
+2025-10-06,West,Books,Novel,8,393.32,3146.56,975.4,4.3
+2025-10-06,South,Home & Kitchen,Mixer Grinder,18,1807.27,32530.86,4589.82,5.0
+2025-10-06,North,Beauty,Lipstick,13,558.14,7255.82,4949.62,4.6
+2025-10-06,West,Fashion,Kurta,10,967.61,9676.1,4497.43,5.0
+2025-10-06,West,Beauty,Face Serum,15,623.27,9349.05,3204.96,4.0
+2025-10-06,West,Home & Kitchen,Mixer Grinder,9,1919.67,17277.03,2207.94,4.8
+2025-10-06,East,Books,Novel,10,401.79,4017.9,2074.44,3.9
+2025-10-07,East,Fashion,Denim Jacket,7,1358.49,9509.43,1185.29,3.7
+2025-10-07,South,Books,Novel,9,306.63,2759.67,2814.47,4.7
+2025-10-07,West,Books,Comics,7,405.63,2839.41,608.99,4.2
+2025-10-07,East,Books,Comics,3,392.17,1176.51,5080.79,3.9
+2025-10-07,West,Books,Exam Guide,11,375.12,4126.32,916.73,4.5
+2025-10-07,West,Fashion,Denim Jacket,9,1434.49,12910.41,2346.72,4.2
+2025-10-07,North,Beauty,Sunscreen,12,596.48,7157.76,1040.77,4.3
+2025-10-08,North,Books,Novel,12,320.03,3840.36,1683.04,4.2
+2025-10-08,West,Beauty,Sunscreen,4,556.67,2226.68,2617.64,4.5
+2025-10-08,East,Fashion,Kurta,2,1092.72,2185.44,901.21,3.7
+2025-10-08,East,Fashion,Sneakers,6,1106.6,6639.6,771.47,4.0
+2025-10-08,North,Books,Exam Guide,8,366.62,2932.96,1973.52,4.6
+2025-10-08,West,Books,Comics,9,380.96,3428.64,3127.2,3.3
+2025-10-09,East,Books,Novel,6,296.59,1779.54,832.48,4.4
+2025-10-09,South,Beauty,Sunscreen,12,714.43,8573.16,3216.82,4.7
+2025-10-09,West,Beauty,Sunscreen,19,690.54,13120.26,6187.86,4.5
+2025-10-09,West,Home & Kitchen,Mixer Grinder,9,1813.01,16317.09,1708.8,4.0
+2025-10-09,West,Fashion,Saree,7,1140.37,7982.59,827.34,5.0
+2025-10-10,North,Books,Exam Guide,7,403.46,2824.22,6030.59,4.1
+2025-10-10,East,Electronics,Bluetooth Speaker,6,2790.05,16740.3,134.22,4.1
+2025-10-10,South,Fashion,Kurta,13,1403.76,18248.88,4305.44,3.7
+2025-10-10,South,Beauty,Sunscreen,16,667.1,10673.6,2702.89,4.3
+2025-10-10,East,Electronics,Power Bank,7,2539.48,17776.36,2482.93,3.4
+2025-10-10,East,Beauty,Face Serum,5,652.73,3263.65,3805.03,3.6
+2025-10-10,East,Beauty,Lipstick,3,525.32,1575.96,6446.83,4.3
+2025-10-10,South,Fashion,Denim Jacket,4,1323.98,5295.92,646.38,4.2
+2025-10-10,West,Home & Kitchen,Water Purifier,11,2125.74,23383.14,1417.38,3.6
+2025-10-11,East,Beauty,Hair Oil,3,621.18,1863.54,1738.87,3.9
+2025-10-11,North,Books,Self-Help,9,387.76,3489.84,4606.31,4.1
+2025-10-11,East,Fashion,Sneakers,5,1354.4,6772.0,1984.18,4.6
+2025-10-11,East,Fashion,Sneakers,7,1344.01,9408.07,2614.62,3.9
+2025-10-11,East,Books,Exam Guide,5,304.0,1520.0,9233.37,4.1
+2025-10-12,West,Electronics,Earbuds,13,2432.63,31624.19,4142.8,2.8
+2025-10-12,South,Beauty,Face Serum,6,665.81,3994.86,2396.09,3.8
+2025-10-12,North,Home & Kitchen,Pressure Cooker,12,1441.05,17292.6,2718.38,4.1
+2025-10-12,South,Beauty,Hair Oil,6,487.54,2925.24,1062.64,4.2
+2025-10-12,South,Books,Exam Guide,6,351.88,2111.28,1932.27,4.3
+2025-10-12,North,Books,Exam Guide,9,337.24,3035.16,7260.01,3.1
+2025-10-13,North,Electronics,Smartwatch,8,2221.57,17772.56,3828.09,3.3
+2025-10-13,South,Home & Kitchen,Water Purifier,6,2150.12,12900.72,4050.97,3.9
+2025-10-13,West,Fashion,Kurta,12,1343.13,16117.56,7401.5,4.6
+2025-10-13,East,Fashion,Denim Jacket,6,1215.15,7290.9,3981.65,3.8
+2025-10-13,East,Home & Kitchen,Mixer Grinder,8,1480.76,11846.08,5427.68,4.3
+2025-10-13,South,Fashion,Saree,9,1420.45,12784.05,1838.23,3.8
+2025-10-14,North,Beauty,Lipstick,8,669.91,5359.28,5165.13,4.6
+2025-10-14,West,Beauty,Lipstick,16,702.43,11238.88,2759.86,4.6
+2025-10-14,South,Fashion,Sneakers,14,973.16,13624.24,9955.95,4.1
+2025-10-14,North,Fashion,Saree,12,1045.47,12545.64,1049.28,4.4
+2025-10-14,South,Books,Novel,15,365.93,5488.95,3313.64,4.2
+2025-10-14,West,Beauty,Face Serum,7,524.74,3673.18,1096.31,4.8
+2025-10-14,West,Fashion,Sneakers,4,1205.38,4821.52,400.98,3.8
+2025-10-14,West,Beauty,Sunscreen,15,673.77,10106.55,1125.6,3.5
+2025-10-15,East,Fashion,Sneakers,2,1262.88,2525.76,447.49,4.0
+2025-10-15,West,Electronics,Bluetooth Speaker,7,2781.03,19467.21,5549.62,3.5
+2025-10-15,East,Electronics,Smartwatch,10,2198.79,21987.9,9695.31,3.6
+2025-10-15,North,Home & Kitchen,Water Purifier,7,2159.99,15119.93,690.1,4.9
+2025-10-16,South,Beauty,Lipstick,16,537.26,8596.16,3514.04,3.3
+2025-10-16,North,Beauty,Sunscreen,9,645.87,5812.83,5499.91,4.1
+2025-10-16,East,Fashion,Kurta,18,1364.37,24558.66,10282.28,4.1
+2025-10-16,North,Electronics,Power Bank,14,2457.84,34409.76,8430.77,3.1
+2025-10-16,South,Fashion,Kurta,14,970.18,13582.52,6133.53,3.3
+2025-10-16,South,Electronics,Earbuds,7,2628.66,18400.62,1327.0,3.6
+2025-10-16,North,Electronics,Bluetooth Speaker,5,2738.87,13694.35,3169.34,3.1
+2025-10-16,East,Electronics,Power Bank,7,2739.19,19174.33,2238.07,3.4
+2025-10-17,South,Fashion,Sneakers,6,1276.17,7657.02,979.35,4.1
+2025-10-17,South,Home & Kitchen,Bedsheet Set,10,1828.8,18288.0,2688.61,3.8
+2025-10-17,South,Home & Kitchen,Mixer Grinder,11,1522.71,16749.81,2171.81,4.2
+2025-10-17,South,Home & Kitchen,Water Purifier,7,1755.39,12287.73,486.37,4.9
+2025-10-17,East,Home & Kitchen,Bedsheet Set,7,1770.49,12393.43,5293.67,4.2
+2025-10-18,West,Books,Exam Guide,6,292.29,1753.74,1159.57,5.0
+2025-10-18,East,Fashion,Sneakers,6,1198.51,7191.06,845.47,4.6
+2025-10-18,West,Fashion,Denim Jacket,6,1209.79,7258.74,375.07,4.6
+2025-10-18,South,Fashion,Kurta,11,1421.93,15641.23,1674.95,3.3
+2025-10-18,East,Electronics,Earbuds,5,2868.0,14340.0,952.39,3.9
+2025-10-18,West,Electronics,Power Bank,8,2520.54,20164.32,2995.73,2.8
+2025-10-18,North,Beauty,Sunscreen,12,557.02,6684.24,2383.98,5.0
+2025-10-18,West,Home & Kitchen,Pressure Cooker,3,1766.21,5298.63,479.96,3.8
+2025-10-19,West,Electronics,Bluetooth Speaker,11,2216.75,24384.25,1644.35,3.8
+2025-10-19,East,Electronics,Smartwatch,6,2800.77,16804.62,2141.12,2.9
+2025-10-19,South,Electronics,Bluetooth Speaker,4,2008.0,8032.0,1887.79,4.2
+2025-10-19,North,Home & Kitchen,Pressure Cooker,13,1531.78,19913.14,1847.78,3.3
+2025-10-19,North,Fashion,Sneakers,6,1076.7,6460.2,3969.47,5.0
+2025-10-19,South,Beauty,Hair Oil,14,696.85,9755.9,2940.04,4.5
+2025-10-19,North,Home & Kitchen,Mixer Grinder,14,1972.66,27617.24,5188.43,4.7
+2025-10-19,West,Fashion,Denim Jacket,12,1049.46,12593.52,2924.32,4.2
+2025-10-19,North,Electronics,Bluetooth Speaker,7,2642.53,18497.71,3872.21,3.5
+2025-10-20,South,Home & Kitchen,Pressure Cooker,7,1807.93,12655.51,3006.0,4.7
+2025-10-20,East,Home & Kitchen,Pressure Cooker,3,1548.43,4645.29,2068.35,4.3
+2025-10-20,East,Home & Kitchen,Water Purifier,7,1670.96,11696.72,3224.4,4.7
+2025-10-20,East,Beauty,Face Serum,4,707.54,2830.16,1238.92,5.0
+2025-10-20,East,Electronics,Smartwatch,3,2136.52,6409.56,1631.64,3.0
+2025-10-21,East,Beauty,Face Serum,3,518.14,1554.42,409.73,4.0
+2025-10-21,West,Electronics,Earbuds,4,2336.59,9346.36,589.59,4.9
+2025-10-21,East,Books,Self-Help,2,374.05,748.1,1533.1,4.7
+2025-10-21,East,Books,Comics,6,313.13,1878.78,7629.07,4.4
+2025-10-22,West,Electronics,Bluetooth Speaker,7,2305.47,16138.29,4687.6,3.6
+2025-10-22,East,Home & Kitchen,Pressure Cooker,7,1673.69,11715.83,1011.97,4.0
+2025-10-23,West,Fashion,Sneakers,13,1047.17,13613.21,2484.7,5.0
+2025-10-23,North,Home & Kitchen,Pressure Cooker,12,2039.47,24473.64,2417.28,4.1
+2025-10-24,West,Fashion,Denim Jacket,12,1352.29,16227.48,2948.25,4.3
+2025-10-24,North,Electronics,Bluetooth Speaker,11,2088.3,22971.3,1958.42,3.7
+2025-10-24,West,Home & Kitchen,Mixer Grinder,12,2096.98,25163.76,5161.16,4.0
+2025-10-24,North,Home & Kitchen,Mixer Grinder,23,1984.78,45649.94,6121.22,3.8
+2025-10-25,North,Fashion,Saree,15,1369.51,20542.65,4857.42,4.5
+2025-10-25,East,Fashion,Sneakers,3,1298.12,3894.36,555.34,4.5
+2025-10-25,North,Electronics,Smartwatch,7,2804.39,19630.73,2391.11,3.5
+2025-10-25,West,Electronics,Earbuds,13,2914.17,37884.21,3836.37,4.1
+2025-10-25,East,Fashion,Sneakers,3,995.67,2987.01,290.74,4.2
+2025-10-25,North,Beauty,Face Serum,9,666.7,6000.3,3006.35,3.8
+2025-10-25,East,Books,Comics,5,321.52,1607.6,3248.23,4.3
+2025-10-26,North,Fashion,Sneakers,13,1372.29,17839.77,4259.27,3.7
+2025-10-27,South,Home & Kitchen,Pressure Cooker,10,1678.1,16781.0,7895.31,3.5
+2025-10-27,South,Books,Novel,9,294.74,2652.66,7054.22,4.2
+2025-10-27,East,Beauty,Lipstick,6,533.37,3200.22,2271.26,4.4
+2025-10-27,South,Electronics,Bluetooth Speaker,10,2036.55,20365.5,1955.83,3.8
+2025-10-27,North,Home & Kitchen,Mixer Grinder,12,2070.38,24844.56,7604.11,4.0
+2025-10-28,East,Books,Comics,11,394.31,4337.41,4541.8,4.5
+2025-10-28,South,Fashion,Denim Jacket,13,1170.5,15216.5,1771.92,3.4
+2025-10-28,North,Beauty,Lipstick,12,642.77,7713.24,642.81,4.5
+2025-10-28,North,Books,Self-Help,8,346.44,2771.52,2357.13,4.5
+2025-10-29,West,Home & Kitchen,Pressure Cooker,7,1972.24,13805.68,552.93,4.5
+2025-10-29,East,Home & Kitchen,Bedsheet Set,5,1985.88,9929.4,1429.27,4.3
+2025-10-29,North,Books,Exam Guide,7,294.77,2063.39,408.71,4.6
+2025-10-29,South,Electronics,Smartwatch,14,2414.42,33801.88,1803.13,3.1
+2025-10-29,West,Beauty,Sunscreen,7,594.98,4164.86,1222.92,4.2
+2025-10-29,East,Fashion,Denim Jacket,5,1029.21,5146.05,3988.33,4.5
+2025-10-29,North,Beauty,Lipstick,8,598.17,4785.36,2337.04,4.3
+2025-10-30,North,Home & Kitchen,Bedsheet Set,8,1824.14,14593.12,2162.82,3.8
+2025-10-30,South,Electronics,Power Bank,14,2987.05,41818.7,2314.23,3.2
+2025-10-30,East,Home & Kitchen,Mixer Grinder,3,1993.5,5980.5,2303.81,4.2
+2025-10-30,South,Books,Comics,11,402.35,4425.85,1516.37,3.9
+2025-10-30,North,Fashion,Denim Jacket,15,1109.71,16645.65,7564.09,4.2
+2025-10-30,South,Beauty,Lipstick,5,537.05,2685.25,837.46,3.7
+2025-10-31,South,Fashion,Sneakers,15,1377.73,20665.95,5181.34,4.3
+2025-10-31,East,Beauty,Lipstick,3,599.12,1797.36,1950.09,4.0
+2025-10-31,North,Fashion,Saree,9,1058.68,9528.12,2186.69,4.0
+2025-10-31,East,Home & Kitchen,Bedsheet Set,6,1872.03,11232.18,2106.04,4.6
+2025-10-31,North,Fashion,Kurta,5,1211.31,6056.55,3045.3,4.8
+2025-10-31,South,Fashion,Denim Jacket,13,1346.95,17510.35,2204.84,3.7
+2025-11-01,South,Books,Self-Help,10,401.88,4018.8,3498.74,3.9
+2025-11-01,North,Beauty,Lipstick,9,581.68,5235.12,1618.72,5.0
+2025-11-01,South,Home & Kitchen,Mixer Grinder,11,1575.63,17331.93,2996.46,4.1
+2025-11-01,South,Fashion,Kurta,12,994.06,11928.72,5669.36,4.3
+2025-11-01,South,Electronics,Power Bank,10,2959.06,29590.6,1771.49,3.6
+2025-11-01,East,Fashion,Sneakers,7,963.26,6742.82,9158.21,4.0
+2025-11-01,West,Books,Self-Help,11,402.58,4428.38,2853.68,4.5
+2025-11-02,West,Electronics,Bluetooth Speaker,6,2970.19,17821.14,2086.56,3.2
+2025-11-02,South,Beauty,Sunscreen,8,714.97,5719.76,2993.69,3.8
+2025-11-02,North,Fashion,Saree,11,1402.07,15422.77,613.67,4.1
+2025-11-02,South,Electronics,Earbuds,8,2469.76,19758.08,816.68,3.6
+2025-11-02,North,Books,Comics,5,403.09,2015.45,2672.24,3.8
+2025-11-02,East,Home & Kitchen,Bedsheet Set,8,1717.19,13737.52,4070.22,4.0
+2025-11-02,East,Beauty,Face Serum,3,589.76,1769.28,1250.64,5.0
+2025-11-02,West,Home & Kitchen,Bedsheet Set,13,1496.03,19448.39,2101.96,4.4
+2025-11-02,East,Electronics,Power Bank,4,2337.48,9349.92,1538.15,4.0
+2025-11-02,North,Home & Kitchen,Mixer Grinder,7,1558.67,10910.69,5505.03,4.4
+2025-11-02,North,Home & Kitchen,Pressure Cooker,10,1825.07,18250.7,6111.68,4.6
+2025-11-03,East,Beauty,Face Serum,5,650.56,3252.8,3002.49,4.2
+2025-11-03,West,Home & Kitchen,Bedsheet Set,6,1441.02,8646.12,1943.87,4.0
+2025-11-03,North,Books,Exam Guide,16,336.78,5388.48,1681.4,4.5
+2025-11-03,East,Fashion,Saree,2,1154.33,2308.66,2442.72,4.3
+2025-11-03,East,Home & Kitchen,Mixer Grinder,3,2099.42,6298.26,3614.2,4.3
+2025-11-04,North,Fashion,Denim Jacket,3,1366.59,4099.77,2889.45,3.5
+2025-11-04,East,Electronics,Power Bank,2,2945.64,5891.28,2436.95,3.9
+2025-11-04,North,Fashion,Saree,7,1092.81,7649.67,2833.01,4.1
+2025-11-04,East,Electronics,Smartwatch,8,2162.56,17300.48,4753.04,3.8
+2025-11-04,North,Electronics,Power Bank,11,2986.04,32846.44,2235.35,3.4
+2025-11-04,West,Books,Comics,12,368.17,4418.04,3132.98,4.5
+2025-11-05,West,Home & Kitchen,Bedsheet Set,7,1482.76,10379.32,592.02,4.0
+2025-11-05,South,Home & Kitchen,Mixer Grinder,8,1701.91,13615.28,3367.69,4.3
+2025-11-05,South,Books,Novel,4,326.73,1306.92,3043.63,3.5
+2025-11-05,West,Electronics,Power Bank,7,2726.84,19087.88,1083.12,2.7
+2025-11-05,East,Fashion,Saree,8,1027.71,8221.68,3483.45,4.2
+2025-11-05,South,Home & Kitchen,Bedsheet Set,12,1527.61,18331.32,7457.1,4.2
+2025-11-05,North,Books,Self-Help,8,317.78,2542.24,1157.32,4.1
+2025-11-05,East,Books,Novel,3,384.57,1153.71,2712.27,4.9
+2025-11-06,South,Beauty,Sunscreen,7,577.56,4042.92,104.46,5.0
+2025-11-06,West,Electronics,Smartwatch,7,2218.89,15532.23,12173.62,3.7
+2025-11-06,West,Fashion,Saree,10,1240.36,12403.6,3258.46,4.0
+2025-11-06,South,Electronics,Bluetooth Speaker,9,2526.64,22739.76,3623.79,3.8
+2025-11-06,North,Home & Kitchen,Pressure Cooker,7,1468.16,10277.12,3681.52,3.5
+2025-11-06,West,Books,Novel,7,376.83,2637.81,3684.46,3.9
+2025-11-07,South,Books,Novel,10,401.89,4018.9,2738.98,5.0
+2025-11-07,East,Books,Novel,3,352.43,1057.29,3312.07,3.8
+2025-11-07,West,Home & Kitchen,Bedsheet Set,13,1471.4,19128.2,2689.82,4.1
+2025-11-07,West,Books,Exam Guide,9,414.32,3728.88,983.63,4.2
+2025-11-07,East,Electronics,Power Bank,5,2581.54,12907.7,3095.02,2.9
+2025-11-07,North,Home & Kitchen,Pressure Cooker,4,1861.3,7445.2,1313.17,4.1
+2025-11-07,West,Fashion,Saree,8,1328.9,10631.2,667.48,4.5
+2025-11-07,West,Books,Self-Help,5,313.33,1566.65,1304.28,3.7
+2025-11-08,South,Beauty,Sunscreen,12,597.69,7172.28,2281.49,3.7
+2025-11-08,North,Home & Kitchen,Pressure Cooker,9,1929.61,17366.49,3049.87,3.5
+2025-11-09,South,Fashion,Denim Jacket,7,1308.43,9159.01,1657.88,4.1
+2025-11-09,East,Electronics,Power Bank,5,2540.73,12703.65,3269.97,2.9
+2025-11-09,South,Books,Exam Guide,6,388.59,2331.54,2842.74,3.8
+2025-11-09,North,Home & Kitchen,Water Purifier,6,2146.62,12879.72,2129.53,3.9
+2025-11-09,South,Electronics,Bluetooth Speaker,11,2698.29,29681.19,3356.92,3.2
+2025-11-10,South,Beauty,Hair Oil,14,528.98,7405.72,1557.78,4.7
+2025-11-10,North,Fashion,Saree,8,1390.07,11120.56,865.38,4.5
+2025-11-10,South,Books,Exam Guide,5,358.31,1791.55,752.12,4.2
+2025-11-10,West,Fashion,Saree,8,1132.42,9059.36,2998.81,4.3
+2025-11-11,West,Fashion,Saree,6,1383.82,8302.92,645.68,3.5
+2025-11-11,South,Beauty,Face Serum,12,553.17,6638.04,2926.76,3.7
+2025-11-11,South,Home & Kitchen,Pressure Cooker,4,1781.82,7127.28,2931.61,4.6
+2025-11-11,South,Electronics,Smartwatch,12,2835.91,34030.92,3321.12,3.8
+2025-11-11,West,Home & Kitchen,Mixer Grinder,9,1441.43,12972.87,4687.26,3.8
+2025-11-11,West,Electronics,Earbuds,6,2447.61,14685.66,536.06,2.7
+2025-11-11,East,Fashion,Sneakers,3,1159.8,3479.4,881.76,3.8
+2025-11-11,East,Books,Comics,9,318.76,2868.84,5881.0,4.1
+2025-11-11,West,Home & Kitchen,Pressure Cooker,7,1993.49,13954.43,1905.94,4.4
+2025-11-12,North,Home & Kitchen,Bedsheet Set,7,1954.66,13682.62,2669.38,3.8
+2025-11-12,South,Books,Novel,12,355.42,4265.04,8208.23,4.5
+2025-11-12,North,Books,Self-Help,8,410.6,3284.8,1910.26,4.2
+2025-11-12,East,Books,Novel,7,378.63,2650.41,3296.42,5.0
+2025-11-12,East,Home & Kitchen,Pressure Cooker,4,2003.54,8014.16,3222.76,3.5
+2025-11-12,East,Beauty,Face Serum,5,521.01,2605.05,3989.77,4.3
+2025-11-13,North,Home & Kitchen,Water Purifier,9,2057.19,18514.71,2236.29,5.0
+2025-11-13,North,Fashion,Sneakers,12,1087.57,13050.84,3103.03,4.3
+2025-11-13,South,Home & Kitchen,Water Purifier,8,1728.05,13824.4,4265.55,4.1
+2025-11-13,South,Electronics,Smartwatch,7,2060.44,14423.08,3271.58,3.9
+2025-11-13,East,Electronics,Earbuds,3,2995.89,8987.67,3078.27,3.7
+2025-11-13,North,Home & Kitchen,Bedsheet Set,3,1844.32,5532.96,1891.05,4.2
+2025-11-13,North,Fashion,Saree,7,1300.81,9105.67,5591.04,4.3
+2025-11-14,East,Books,Comics,1,352.13,352.13,2564.74,3.9
+2025-11-14,North,Books,Self-Help,11,327.06,3597.66,3640.45,4.1
+2025-11-14,South,Home & Kitchen,Water Purifier,10,1473.59,14735.9,3398.18,3.9
+2025-11-14,North,Home & Kitchen,Water Purifier,10,2004.65,20046.5,3998.56,3.9
+2025-11-14,North,Books,Exam Guide,7,280.21,1961.47,2716.32,3.2
+2025-11-14,East,Fashion,Sneakers,4,1150.09,4600.36,2336.69,3.6
+2025-11-15,South,Books,Comics,12,397.34,4768.08,9860.04,4.4
+2025-11-15,East,Books,Exam Guide,3,365.59,1096.77,201.3,4.9
+2025-11-15,West,Electronics,Power Bank,9,2197.99,19781.91,1922.85,2.6
+2025-11-15,North,Beauty,Lipstick,11,599.07,6589.77,822.67,4.8
+2025-11-15,West,Books,Comics,16,397.27,6356.32,2526.66,4.1
+2025-11-15,West,Fashion,Kurta,14,1252.82,17539.48,4538.26,3.9
+2025-11-15,East,Fashion,Kurta,6,1197.75,7186.5,2996.01,4.0
+2025-11-16,North,Beauty,Hair Oil,15,702.8,10542.0,2637.6,4.1
+2025-11-16,North,Home & Kitchen,Pressure Cooker,9,1827.77,16449.93,3208.83,3.8
+2025-11-16,South,Electronics,Smartwatch,14,2802.25,39231.5,3705.45,4.1
+2025-11-16,South,Electronics,Smartwatch,8,2349.89,18799.12,439.73,4.6
+2025-11-16,West,Home & Kitchen,Mixer Grinder,12,1696.45,20357.4,7374.77,4.2
+2025-11-16,South,Fashion,Saree,9,1427.41,12846.69,2739.07,3.8
+2025-11-16,North,Fashion,Denim Jacket,5,1182.35,5911.75,2402.66,4.6
+2025-11-16,South,Fashion,Kurta,9,1318.98,11870.82,6081.58,4.8
+2025-11-16,West,Fashion,Saree,12,1325.73,15908.76,8313.3,3.8
+2025-11-16,North,Home & Kitchen,Bedsheet Set,8,1992.92,15943.36,1089.87,3.7
+2025-11-17,East,Books,Exam Guide,5,373.97,1869.85,1651.03,4.3
+2025-11-17,West,Electronics,Smartwatch,7,2084.42,14590.94,2019.88,3.7
+2025-11-17,West,Beauty,Face Serum,6,678.44,4070.64,2207.73,4.4
+2025-11-17,West,Electronics,Earbuds,12,2967.77,35613.24,1598.81,2.9
+2025-11-17,East,Fashion,Saree,3,989.57,2968.71,260.88,4.8
+2025-11-17,North,Electronics,Power Bank,7,2149.68,15047.76,1703.7,3.2
+2025-11-17,North,Books,Novel,8,387.56,3100.48,2247.47,4.8
+2025-11-17,West,Home & Kitchen,Pressure Cooker,8,1458.04,11664.32,2119.32,4.9
+2025-11-18,South,Home & Kitchen,Pressure Cooker,5,1924.84,9624.2,2389.3,5.0
+2025-11-18,North,Electronics,Smartwatch,7,2923.17,20462.19,1428.99,3.8
+2025-11-18,North,Fashion,Saree,6,1265.73,7594.38,4609.66,4.0
+2025-11-18,West,Books,Comics,9,383.81,3454.29,624.24,3.5
+2025-11-18,South,Books,Novel,12,340.26,4083.12,8368.15,3.6
+2025-11-18,South,Beauty,Lipstick,10,527.09,5270.9,999.72,4.0
+2025-11-18,South,Fashion,Sneakers,11,1125.45,12379.95,3001.91,4.4
+2025-11-19,East,Beauty,Lipstick,6,611.34,3668.04,4163.31,3.8
+2025-11-19,South,Electronics,Bluetooth Speaker,9,2577.45,23197.05,1497.27,2.5
+2025-11-19,South,Beauty,Hair Oil,7,628.98,4402.86,4598.52,4.1
+2025-11-19,South,Electronics,Bluetooth Speaker,11,2973.17,32704.87,3230.45,3.5
+2025-11-19,South,Fashion,Denim Jacket,4,1177.06,4708.24,958.75,4.9
+2025-11-19,West,Electronics,Bluetooth Speaker,5,2378.87,11894.35,3710.01,3.4
+2025-11-20,East,Home & Kitchen,Pressure Cooker,6,1523.37,9140.22,2804.23,4.3
+2025-11-20,East,Electronics,Earbuds,2,2750.72,5501.44,6814.93,4.0
+2025-11-20,North,Books,Comics,8,387.63,3101.04,2201.03,4.2
+2025-11-20,East,Books,Self-Help,9,408.83,3679.47,6178.07,4.5
+2025-11-21,East,Fashion,Denim Jacket,3,1039.02,3117.06,1162.76,3.8
+2025-11-21,North,Books,Comics,13,344.47,4478.11,977.24,3.9
+2025-11-21,South,Electronics,Earbuds,16,2699.97,43199.52,3585.75,3.5
+2025-11-21,South,Beauty,Lipstick,14,627.36,8783.04,3034.11,3.7
+2025-11-22,South,Books,Exam Guide,10,388.8,3888.0,4637.87,4.0
+2025-11-22,North,Beauty,Face Serum,16,713.55,11416.8,6271.58,3.9
+2025-11-22,South,Fashion,Denim Jacket,10,1402.55,14025.5,7222.63,4.1
+2025-11-22,East,Home & Kitchen,Pressure Cooker,7,1775.27,12426.89,2916.38,3.7
+2025-11-22,South,Electronics,Power Bank,8,2073.37,16586.96,1897.64,2.9
+2025-11-22,West,Electronics,Bluetooth Speaker,6,2656.91,15941.46,315.85,3.2
+2025-11-23,West,Books,Comics,6,379.13,2274.78,794.83,3.5
+2025-11-23,South,Home & Kitchen,Pressure Cooker,6,1924.18,11545.08,1881.48,4.3
+2025-11-23,West,Home & Kitchen,Bedsheet Set,10,1844.76,18447.6,6286.05,3.2
+2025-11-23,West,Electronics,Power Bank,10,2169.85,21698.5,3777.55,3.4
+2025-11-23,South,Home & Kitchen,Mixer Grinder,10,1901.37,19013.7,3433.63,4.0
+2025-11-24,North,Electronics,Power Bank,8,2865.54,22924.32,3000.43,3.0
+2025-11-24,East,Books,Novel,9,345.66,3110.94,1997.46,3.5
+2025-11-24,South,Books,Exam Guide,7,377.43,2642.01,4360.63,4.7
+2025-11-24,West,Books,Exam Guide,9,289.42,2604.78,487.19,3.8
+2025-11-24,South,Electronics,Bluetooth Speaker,12,2443.65,29323.8,8548.96,3.3
+2025-11-25,West,Home & Kitchen,Mixer Grinder,9,1634.43,14709.87,2072.02,5.0
+2025-11-25,West,Home & Kitchen,Mixer Grinder,10,1785.54,17855.4,1486.88,4.2
+2025-11-25,North,Beauty,Face Serum,9,603.26,5429.34,1375.4,4.3
+2025-11-25,West,Home & Kitchen,Bedsheet Set,5,1619.79,8098.95,1287.98,4.7
+2025-11-25,North,Electronics,Power Bank,5,2947.66,14738.3,633.82,3.3
+2025-11-25,East,Beauty,Lipstick,4,493.13,1972.52,3357.97,4.0
+2025-11-26,South,Beauty,Face Serum,13,563.64,7327.32,6521.27,4.4
+2025-11-26,North,Fashion,Kurta,11,961.51,10576.61,2861.46,4.4
+2025-11-26,West,Electronics,Power Bank,6,2483.27,14899.62,109.69,4.2
+2025-11-26,South,Fashion,Denim Jacket,15,1404.45,21066.75,7700.65,3.9
+2025-11-26,West,Home & Kitchen,Mixer Grinder,16,1542.85,24685.6,3446.22,4.7
+2025-11-26,North,Fashion,Sneakers,12,1361.56,16338.72,2901.13,2.8
+2025-11-27,North,Home & Kitchen,Bedsheet Set,9,1769.14,15922.26,2408.08,3.6
+2025-11-27,East,Beauty,Hair Oil,6,647.83,3886.98,391.82,4.4
+2025-11-27,North,Books,Exam Guide,12,404.84,4858.08,3190.07,4.0
+2025-11-27,South,Books,Self-Help,5,395.36,1976.8,965.91,4.0
+2025-11-27,North,Books,Self-Help,9,280.97,2528.73,2134.77,4.0
+2025-11-27,West,Home & Kitchen,Water Purifier,19,1948.28,37017.32,10052.21,4.4
+2025-11-27,North,Electronics,Power Bank,12,2004.07,24048.84,6461.88,2.8
+2025-11-28,South,Beauty,Hair Oil,9,610.16,5491.44,3400.07,3.7
+2025-11-28,North,Fashion,Kurta,9,1204.6,10841.4,3354.65,4.7
+2025-11-29,North,Fashion,Saree,13,981.08,12754.04,2334.87,3.6
+2025-11-29,West,Fashion,Saree,4,1267.13,5068.52,2743.89,3.7
+2025-11-29,East,Beauty,Sunscreen,5,516.76,2583.8,1503.24,3.5
+2025-11-29,West,Books,Exam Guide,12,300.92,3611.04,1299.57,4.5
+2025-11-29,West,Electronics,Earbuds,13,2860.1,37181.3,4877.48,3.8
+2025-12-01,East,Beauty,Lipstick,4,481.95,1927.8,455.91,4.2
+2025-12-01,West,Beauty,Face Serum,4,653.5,2614.0,5165.15,4.4
+2025-12-01,South,Fashion,Sneakers,3,1217.39,3652.17,3612.76,4.9
+2025-12-01,West,Books,Exam Guide,3,390.28,1170.84,2317.33,4.4
+2025-12-02,South,Books,Novel,7,310.57,2173.99,1600.91,4.4
+2025-12-02,South,Books,Novel,6,329.87,1979.22,4041.44,3.2
+2025-12-02,West,Electronics,Smartwatch,5,2499.16,12495.8,1094.43,3.6
+2025-12-02,South,Books,Comics,12,308.23,3698.76,3758.33,4.3
+2025-12-03,North,Beauty,Hair Oil,1,675.39,675.39,2944.45,4.5
+2025-12-03,East,Books,Novel,3,317.07,951.21,911.38,3.4
+2025-12-03,West,Home & Kitchen,Pressure Cooker,3,1795.87,5387.61,4511.07,3.3
+2025-12-03,North,Electronics,Bluetooth Speaker,3,2128.68,6386.04,710.84,3.3
+2025-12-03,South,Fashion,Kurta,5,1368.64,6843.2,4399.5,4.3
+2025-12-04,South,Beauty,Sunscreen,1,626.98,626.98,1507.6,3.7
+2025-12-04,South,Electronics,Earbuds,7,2908.06,20356.42,3657.89,4.3
+2025-12-04,East,Home & Kitchen,Water Purifier,1,1845.21,1845.21,1014.48,3.6
+2025-12-04,East,Electronics,Bluetooth Speaker,1,2821.93,2821.93,2512.9,3.6
+2025-12-04,East,Beauty,Face Serum,4,487.58,1950.32,3649.87,4.3
+2025-12-04,North,Electronics,Power Bank,10,2782.99,27829.9,3829.56,3.6
+2025-12-04,West,Electronics,Earbuds,5,2431.63,12158.15,1196.89,4.1
+2025-12-05,East,Books,Self-Help,1,295.6,295.6,2766.12,4.9
+2025-12-05,South,Books,Novel,8,281.98,2255.84,1216.02,4.3
+2025-12-05,East,Beauty,Sunscreen,1,668.99,668.99,1905.26,4.4
+2025-12-05,West,Books,Novel,10,407.77,4077.7,9149.39,4.0
+2025-12-05,North,Fashion,Sneakers,1,1192.31,1192.31,1740.97,4.5
+2025-12-05,East,Electronics,Smartwatch,1,2780.55,2780.55,861.11,4.2
+2025-12-06,West,Fashion,Kurta,6,1015.96,6095.76,1224.23,5.0
+2025-12-06,North,Electronics,Earbuds,4,2080.87,8323.48,987.39,3.1
+2025-12-06,South,Home & Kitchen,Pressure Cooker,5,1751.83,8759.15,351.76,4.5
+2025-12-06,South,Fashion,Sneakers,12,1325.95,15911.4,2790.48,3.5
+2025-12-06,East,Beauty,Hair Oil,3,601.23,1803.69,2271.13,4.4
+2025-12-06,East,Electronics,Smartwatch,1,2329.74,2329.74,2842.95,3.2
+2025-12-06,South,Fashion,Kurta,4,1254.39,5017.56,3332.74,4.1
+2025-12-07,South,Home & Kitchen,Bedsheet Set,1,1929.15,1929.15,1363.36,4.6
+2025-12-07,North,Beauty,Face Serum,4,550.74,2202.96,937.02,3.7
+2025-12-07,West,Books,Exam Guide,4,323.67,1294.68,1873.21,4.0
+2025-12-07,North,Books,Exam Guide,2,283.44,566.88,2088.19,3.6
+2025-12-07,South,Books,Novel,4,285.35,1141.4,1316.78,4.5
+2025-12-07,North,Fashion,Denim Jacket,6,1399.56,8397.36,1011.66,4.0
+2025-12-07,South,Home & Kitchen,Water Purifier,3,2152.64,6457.92,718.51,4.3
+2025-12-08,West,Home & Kitchen,Mixer Grinder,3,1475.83,4427.49,1881.95,4.0
+2025-12-08,North,Fashion,Kurta,6,1288.42,7730.52,3287.85,4.1
+2025-12-08,South,Fashion,Denim Jacket,1,1252.63,1252.63,2570.12,3.6
+2025-12-08,West,Fashion,Sneakers,3,1106.73,3320.19,3813.42,3.6
+2025-12-08,East,Electronics,Smartwatch,2,2788.62,5577.24,3170.46,3.4
+2025-12-09,North,Home & Kitchen,Bedsheet Set,1,2070.73,2070.73,914.67,4.4
+2025-12-09,North,Home & Kitchen,Mixer Grinder,3,1916.32,5748.96,1113.05,4.3
+2025-12-09,East,Books,Comics,3,384.37,1153.11,773.91,3.9
+2025-12-09,West,Home & Kitchen,Water Purifier,8,1442.24,11537.92,207.63,4.6
+2025-12-09,South,Fashion,Sneakers,2,1259.49,2518.98,1230.1,4.0
+2025-12-09,North,Books,Comics,4,354.73,1418.92,2220.21,3.9
+2025-12-09,East,Books,Novel,4,387.17,1548.68,3144.26,4.5
+2025-12-09,North,Electronics,Smartwatch,2,2307.73,4615.46,2412.16,3.4
+2025-12-09,West,Electronics,Power Bank,8,2962.37,23698.96,1347.34,3.4
+2025-12-10,West,Fashion,Saree,7,1379.82,9658.74,1575.91,4.3
+2025-12-10,South,Fashion,Sneakers,4,1023.55,4094.2,1217.2,4.9
+2025-12-10,West,Home & Kitchen,Mixer Grinder,6,1677.03,10062.18,2100.1,4.8
+2025-12-10,West,Electronics,Power Bank,6,2849.06,17094.36,3432.59,3.4
+2025-12-10,West,Electronics,Bluetooth Speaker,5,2118.3,10591.5,8465.88,4.0
+2025-12-10,North,Electronics,Power Bank,4,2239.91,8959.64,1901.97,2.8
+2025-12-11,South,Beauty,Lipstick,7,644.39,4510.73,2868.89,3.8
+2025-12-11,West,Fashion,Kurta,5,1001.86,5009.3,1225.52,4.5
+2025-12-11,North,Beauty,Hair Oil,8,716.14,5729.12,3265.35,3.8
+2025-12-11,West,Fashion,Denim Jacket,7,982.02,6874.14,3137.03,5.0
+2025-12-11,West,Fashion,Denim Jacket,8,1024.84,8198.72,4286.25,3.6
+2025-12-12,North,Fashion,Saree,8,1324.75,10598.0,5187.79,3.7
+2025-12-12,East,Books,Self-Help,1,319.4,319.4,3059.43,4.4
+2025-12-12,South,Electronics,Bluetooth Speaker,7,2262.78,15839.46,331.87,3.1
+2025-12-12,East,Fashion,Sneakers,1,1338.28,1338.28,1721.56,4.3
+2025-12-12,East,Home & Kitchen,Mixer Grinder,3,2030.81,6092.43,12004.39,4.0
+2025-12-12,North,Electronics,Smartwatch,5,2552.01,12760.05,1058.68,2.6
+2025-12-12,East,Books,Novel,1,308.0,308.0,595.51,4.0
+2025-12-12,South,Electronics,Bluetooth Speaker,5,2873.47,14367.35,3206.98,3.7
+2025-12-12,North,Home & Kitchen,Water Purifier,2,1916.32,3832.64,1367.7,5.0
+2025-12-12,South,Fashion,Kurta,7,1105.54,7738.78,1183.51,5.0
+2025-12-12,South,Books,Self-Help,6,418.23,2509.38,4511.85,4.4
+2025-12-13,South,Fashion,Denim Jacket,7,1058.73,7411.11,1407.16,4.0
+2025-12-13,West,Electronics,Smartwatch,10,2335.72,23357.2,847.07,3.5
+2025-12-13,East,Home & Kitchen,Bedsheet Set,1,1939.11,1939.11,3758.17,4.7
+2025-12-14,North,Books,Novel,10,307.6,3076.0,4413.87,4.6
+2025-12-14,North,Fashion,Kurta,3,1078.08,3234.24,2730.77,4.0
+2025-12-14,East,Home & Kitchen,Mixer Grinder,1,1670.52,1670.52,4639.75,4.6
+2025-12-14,South,Books,Novel,5,393.13,1965.65,3928.13,3.1
+2025-12-14,South,Home & Kitchen,Bedsheet Set,2,1996.02,3992.04,1243.97,4.5
+2025-12-15,South,Beauty,Sunscreen,4,679.96,2719.84,1488.06,3.8
+2025-12-15,East,Fashion,Kurta,2,1078.72,2157.44,1870.75,4.9
+2025-12-15,South,Fashion,Sneakers,5,1332.15,6660.75,2678.75,4.8
+2025-12-15,West,Beauty,Sunscreen,3,535.63,1606.89,6273.57,4.2
+2025-12-15,South,Electronics,Smartwatch,5,2312.56,11562.8,3396.46,3.7
+2025-12-15,East,Fashion,Sneakers,4,1214.78,4859.12,8536.55,4.5
+2025-12-15,East,Books,Exam Guide,4,325.41,1301.64,1372.95,4.7
+2025-12-16,South,Electronics,Earbuds,4,2229.59,8918.36,1681.35,3.2
+2025-12-16,South,Beauty,Lipstick,3,571.71,1715.13,2352.73,3.5
+2025-12-16,East,Electronics,Power Bank,4,2657.35,10629.4,1356.7,3.9
+2025-12-17,West,Electronics,Power Bank,5,2894.5,14472.5,5589.12,3.9
+2025-12-17,South,Electronics,Earbuds,6,2805.52,16833.12,3150.64,2.3
+2025-12-17,West,Fashion,Sneakers,6,1163.08,6978.48,1737.9,4.8
+2025-12-17,South,Beauty,Face Serum,3,714.62,2143.86,1323.27,4.7
+2025-12-17,West,Home & Kitchen,Mixer Grinder,1,2137.85,2137.85,598.1,4.1
+2025-12-17,East,Home & Kitchen,Bedsheet Set,5,1658.26,8291.3,1794.73,3.9
+2025-12-17,North,Books,Self-Help,5,390.83,1954.15,5896.44,4.1
+2025-12-17,West,Beauty,Sunscreen,7,607.07,4249.49,1958.35,3.3
+2025-12-18,East,Electronics,Bluetooth Speaker,2,2867.29,5734.58,5806.84,2.6
+2025-12-18,East,Home & Kitchen,Mixer Grinder,4,1458.95,5835.8,2402.11,3.4
+2025-12-18,South,Home & Kitchen,Mixer Grinder,6,1510.41,9062.46,2613.48,3.7
+2025-12-18,North,Electronics,Smartwatch,5,2075.63,10378.15,8623.26,3.2
+2025-12-18,South,Electronics,Smartwatch,9,2539.11,22851.99,716.98,3.6
+2025-12-18,East,Beauty,Lipstick,3,528.74,1586.22,1325.63,4.0
+2025-12-18,West,Electronics,Earbuds,6,2360.18,14161.08,886.85,3.0
+2025-12-18,East,Fashion,Sneakers,2,1038.55,2077.1,6385.97,4.1
+2025-12-18,South,Fashion,Kurta,7,1133.85,7936.95,1184.41,4.6
+2025-12-19,North,Home & Kitchen,Mixer Grinder,7,2097.63,14683.41,1686.19,4.3
+2025-12-19,West,Fashion,Kurta,3,1190.6,3571.8,316.06,3.6
+2025-12-19,South,Books,Exam Guide,6,364.61,2187.66,2168.62,4.4
+2025-12-19,South,Home & Kitchen,Mixer Grinder,8,2096.16,16769.28,5971.71,3.9
+2025-12-19,North,Electronics,Power Bank,10,2009.73,20097.3,5505.25,3.6
+2025-12-19,South,Books,Exam Guide,11,281.28,3094.08,7452.81,5.0
+2025-12-19,North,Books,Exam Guide,11,284.55,3130.05,2403.28,4.1
+2025-12-19,South,Electronics,Bluetooth Speaker,7,2862.98,20040.86,1710.22,4.2
+2025-12-19,East,Beauty,Hair Oil,2,545.6,1091.2,766.18,3.6
+2025-12-19,South,Beauty,Hair Oil,5,697.55,3487.75,1580.95,3.9
+2025-12-19,North,Home & Kitchen,Pressure Cooker,4,1952.78,7811.12,1720.34,3.3
+2025-12-19,North,Electronics,Bluetooth Speaker,9,2239.2,20152.8,3591.57,3.6
+2025-12-19,South,Books,Comics,3,285.01,855.03,960.57,4.6
+2025-12-19,North,Books,Novel,6,306.17,1837.02,1232.23,4.7
+2025-12-19,West,Home & Kitchen,Water Purifier,7,2159.94,15119.58,2650.29,4.0
+2025-12-19,North,Home & Kitchen,Bedsheet Set,1,2005.22,2005.22,1776.37,3.5
+2025-12-19,North,Books,Self-Help,4,369.81,1479.24,4225.02,4.8
+2025-12-19,East,Books,Self-Help,4,304.91,1219.64,893.98,4.3
+2025-12-20,South,Fashion,Kurta,4,1371.5,5486.0,787.17,4.8
+2025-12-20,West,Electronics,Earbuds,4,2829.42,11317.68,2363.87,3.2
+2025-12-20,East,Beauty,Face Serum,1,556.68,556.68,1408.72,4.3
+2025-12-20,West,Beauty,Sunscreen,4,694.35,2777.4,1499.53,4.6
+2025-12-20,North,Books,Comics,6,340.36,2042.16,2392.47,4.4
+2025-12-20,South,Books,Comics,7,320.72,2245.04,5273.38,4.8
+2025-12-21,East,Beauty,Lipstick,3,668.97,2006.91,2126.06,3.8
+2025-12-21,South,Fashion,Kurta,5,1139.51,5697.55,4035.8,4.3
+2025-12-21,East,Home & Kitchen,Mixer Grinder,5,2028.57,10142.85,3678.98,5.0
+2025-12-21,West,Books,Exam Guide,1,356.32,356.32,976.77,4.3
+2025-12-22,East,Beauty,Lipstick,2,699.17,1398.34,3318.01,4.1
+2025-12-22,West,Books,Exam Guide,8,321.6,2572.8,2879.14,4.3
+2025-12-22,South,Fashion,Kurta,4,1153.78,4615.12,7017.85,4.8
+2025-12-22,South,Home & Kitchen,Pressure Cooker,6,1630.41,9782.46,3375.1,3.4
+2025-12-23,North,Beauty,Face Serum,3,581.8,1745.4,3437.46,3.6
+2025-12-23,West,Books,Self-Help,1,403.44,403.44,4067.99,4.4
+2025-12-24,South,Books,Self-Help,7,283.94,1987.58,3141.17,3.8
+2025-12-24,South,Books,Exam Guide,8,416.58,3332.64,5580.48,4.0
+2025-12-24,East,Fashion,Saree,1,1075.43,1075.43,1302.3,4.6
+2025-12-24,South,Books,Exam Guide,10,357.21,3572.1,1295.05,4.1
+2025-12-25,North,Electronics,Smartwatch,7,2254.05,15778.35,2140.15,3.1
+2025-12-25,South,Books,Comics,3,349.14,1047.42,2392.2,3.9
+2025-12-25,East,Electronics,Earbuds,6,2954.04,17724.24,10367.57,3.7
+2025-12-25,North,Electronics,Earbuds,7,2001.14,14007.98,3807.36,3.6
+2025-12-25,South,Beauty,Sunscreen,5,654.33,3271.65,5039.81,4.5
+2025-12-25,South,Beauty,Face Serum,5,705.82,3529.1,456.38,4.3
+2025-12-26,East,Fashion,Kurta,2,960.14,1920.28,4793.41,3.8
+2025-12-26,South,Books,Comics,7,317.12,2219.84,2876.5,4.0
+2025-12-26,West,Home & Kitchen,Pressure Cooker,10,1502.58,15025.8,3719.01,3.9
+2025-12-26,West,Home & Kitchen,Bedsheet Set,2,1630.37,3260.74,4948.07,3.2
+2025-12-26,West,Books,Self-Help,15,355.4,5331.0,6604.87,5.0
+2025-12-26,East,Beauty,Lipstick,2,650.32,1300.64,459.06,3.6
+2025-12-26,West,Fashion,Denim Jacket,7,1240.96,8686.72,1207.49,4.6
+2025-12-26,East,Fashion,Kurta,1,975.88,975.88,4114.19,3.9
+2025-12-27,North,Fashion,Saree,8,990.0,7920.0,6527.86,3.7
+2025-12-27,West,Home & Kitchen,Bedsheet Set,2,1877.93,3755.86,1851.41,3.8
+2025-12-27,East,Fashion,Saree,3,1022.03,3066.09,2911.62,4.6
+2025-12-27,South,Home & Kitchen,Water Purifier,8,1664.11,13312.88,3724.87,4.2
+2025-12-27,North,Beauty,Hair Oil,8,681.51,5452.08,7785.68,4.2
+2025-12-27,East,Home & Kitchen,Bedsheet Set,1,1547.37,1547.37,1786.18,4.0
+2025-12-27,North,Home & Kitchen,Water Purifier,10,1784.4,17844.0,3567.25,4.7
+2025-12-27,West,Beauty,Hair Oil,3,642.38,1927.14,4764.66,4.1
+2025-12-27,East,Electronics,Smartwatch,2,2882.77,5765.54,612.62,3.7
+2025-12-27,South,Home & Kitchen,Mixer Grinder,3,1903.51,5710.53,11336.07,4.0
+2025-12-28,West,Books,Comics,10,302.03,3020.3,5584.07,4.3
+2025-12-28,East,Beauty,Lipstick,3,557.1,1671.3,1209.99,3.3
+2025-12-28,North,Books,Novel,5,310.27,1551.35,4480.63,3.7
+2025-12-28,West,Home & Kitchen,Mixer Grinder,5,1834.12,9170.6,819.2,4.6
+2025-12-28,North,Home & Kitchen,Bedsheet Set,3,1492.66,4477.98,490.16,3.7
+2025-12-28,North,Beauty,Hair Oil,8,602.37,4818.96,1136.39,3.3
+2025-12-28,South,Books,Self-Help,3,349.18,1047.54,699.01,4.4
+2025-12-29,South,Home & Kitchen,Bedsheet Set,3,1712.61,5137.83,1247.59,4.3
+2025-12-29,West,Beauty,Lipstick,5,590.4,2952.0,2010.51,4.2
+2025-12-29,North,Fashion,Sneakers,4,1059.29,4237.16,1529.0,4.5
+2025-12-29,South,Home & Kitchen,Bedsheet Set,7,1965.59,13759.13,1465.58,3.8
+2025-12-30,North,Fashion,Denim Jacket,3,1302.05,3906.15,776.36,5.0
+2025-12-30,East,Home & Kitchen,Bedsheet Set,5,1549.66,7748.3,5885.29,3.7
+2025-12-30,West,Books,Self-Help,4,410.4,1641.6,2551.46,2.5
+2025-12-30,North,Home & Kitchen,Mixer Grinder,6,1757.19,10543.14,5739.29,5.0
+2025-12-30,West,Home & Kitchen,Water Purifier,8,2011.19,16089.52,1499.4,4.4
+2025-12-30,East,Electronics,Earbuds,4,2067.1,8268.4,1325.19,3.9
+2025-12-30,West,Fashion,Saree,1,1109.57,1109.57,681.64,4.5
+2025-12-30,West,Fashion,Denim Jacket,6,1185.77,7114.62,4650.5,2.6
+2025-12-31,North,Electronics,Smartwatch,6,2587.42,15524.52,5136.9,2.6
+2025-12-31,South,Electronics,Bluetooth Speaker,2,2699.42,5398.84,1039.58,3.4
+2025-12-31,West,Books,Self-Help,8,381.74,3053.92,3439.96,4.7
+2025-12-31,North,Home & Kitchen,Bedsheet Set,4,1755.49,7021.96,4771.53,5.0
+2025-12-31,North,Fashion,Kurta,4,1101.03,4404.12,3520.69,4.3
