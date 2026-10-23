@@ -237,6 +237,7 @@ if question:
                     make_client(api_key, provider), model, prompt,
                     st.session_state.sandbox, st.session_state.profile,
                     history=history, max_steps=8 if is_report else 6, on_step=on_step,
+                    fallback_models=[m for m in models if "nemotron" in m.lower()],
                 )
             except Exception as exc:
                 status.update(label="Failed", state="error")

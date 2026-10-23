@@ -21,13 +21,13 @@ question → Nemotron (Nebius Token Factory) → writes one Python step
         → … repeat … → FINAL ANSWER → answer reviewer → user
 ```
 
-- **Model:** NVIDIA Nemotron (`nemotron-3-super-120b`) served through **Nebius Token Factory's** OpenAI-compatible API.
+- **Model:** NVIDIA Nemotron (`nemotron-3.5-super-120b` by default) served through **Nebius Token Factory's** OpenAI-compatible API. Hosted catalogs retire models without notice (one of mine disappeared mid-hackathon), so if a model returns "not found" DataPilot automatically moves on to the next available Nemotron model.
 - **Agent loop (`agent.py`):** a reason → code → observe loop with up to 6 steps (8 for reports). Errors go back to the model so it fixes its own code. A reply that contains code is **always executed before any answer is accepted**, so the model can't skip the evidence.
 - **Answer reviewer:** before an answer reaches the user, it is checked against what actually happened. A **number grounding check** traces every number in the answer back to code output or a web source, allowing for rounding and %/K/M scaling. If a number can't be traced, or the model claims a chart it never drew, skips a requested chart, or invents a currency, the answer is sent back for revision. If a number still can't be traced after several revisions, the answer shows it under a ⚠️ **Unverified** label instead of presenting it as fact.
 - **Sandbox (`sandbox.py`):** a persistent namespace, like a notebook kernel, so follow-up questions build on earlier work. It has a 60-second timeout per step and a guard rail that blocks system imports, file reads and access to credentials, so a malicious dataset can't trick the model into leaking API keys.
 - **Tavily (`search.py`):** exposed to the model as a plain Python function, so it can mix web results with computations in the same step.
 - **UI:** Streamlit, with live step-by-step progress, charts, sources, follow-up buttons and HTML export.
-- **Tests:** 28 offline tests that use a scripted fake model to check error recovery, evidence-before-answer, chart-claim review, sandbox blocking and report export.
+- **Tests:** 29 offline tests that use a scripted fake model to check error recovery, evidence-before-answer, chart-claim review, sandbox blocking and report export.
 
 ## Challenges I ran into
 Most of the work was making the agent **honest**, not just capable. Each of these came from real test runs:

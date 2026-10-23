@@ -139,6 +139,22 @@ def test_number_computed_earlier_stays_evidence_when_reused_as_literal_later(df)
     assert result.answer == "The mean is 25.0."
 
 
+def test_falls_back_when_a_model_is_retired(df):
+    import httpx
+    from openai import NotFoundError
+
+    class RetiredFirst(FakeModel):
+        def _create(self, **kwargs):
+            if kwargs["model"] == "retired":
+                response = httpx.Response(404, request=httpx.Request("POST", "https://x"))
+                raise NotFoundError("not found", response=response, body=None)
+            return super()._create(**kwargs)
+
+    model = RetiredFirst(["FINAL ANSWER: ok from backup"])
+    result = run_agent(model, "retired", "Q", Sandbox(df, no_search), "profile", fallback_models=["retired", "backup"])
+    assert result.answer == "ok from backup"
+
+
 def test_revisions_do_not_use_up_the_step_budget(df):
     _, result = run(df, ["no marker"] * 3 + ["```python\nprint(df.revenue.sum())\n```", "FINAL ANSWER: Total is 100."])
     assert result.answer == "Total is 100." and len(result.steps) == 1

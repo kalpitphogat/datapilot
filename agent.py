@@ -4,7 +4,7 @@ import re
 from dataclasses import dataclass, field
 
 import pandas as pd
-from openai import OpenAI
+from openai import NotFoundError, OpenAI
 
 from sandbox import Sandbox
 
@@ -60,7 +60,7 @@ INSIGHT_REPORT_QUESTION = (
     "Then present the 3-5 most important, non-obvious findings with numbers and end with concrete recommendations."
 )
 
-PREFERRED_MODEL = "nemotron-3-super-120b"  # shown first in the model picker when available
+PREFERRED_MODEL = "nemotron-3.5-super"  # shown first in the model picker when available
 FORCE_FINAL = "You have used all your steps. Reply now with FINAL ANSWER: based only on the evidence so far."
 FORMAT_REMINDER = ("Your reply had no answer in the required format. Reply with exactly ONE ```python code block, "
                    "or a line starting with FINAL ANSWER: followed by your answer.")
@@ -252,6 +252,7 @@ def run_agent(
     history: list[dict] | None = None,
     max_steps: int = 6,
     on_step=None,
+    fallback_models: list[str] | None = None,
 ) -> AgentResult:
     # Earlier answers are stored without the marker; restore it so the model keeps following the format.
     past = [{**m, "content": "FINAL ANSWER: " + m["content"]} if m["role"] == "assistant" else m for m in history or []]
@@ -263,11 +264,20 @@ def run_agent(
     steps: list[Step] = []
     sources_start = len(sandbox.sources)
 
+    # Hosted catalogs retire models without notice; on "not found", move on to the next model.
+    candidates = [model, *(m for m in fallback_models or [] if m != model)]
+
     def complete() -> str:
-        response = client.chat.completions.create(
-            model=model, messages=messages, temperature=0.2, max_tokens=8192
-        )
-        return strip_reasoning(response.choices[0].message.content or "")
+        while True:
+            try:
+                response = client.chat.completions.create(
+                    model=candidates[0], messages=messages, temperature=0.2, max_tokens=8192
+                )
+                return strip_reasoning(response.choices[0].message.content or "")
+            except NotFoundError:
+                if len(candidates) == 1:
+                    raise
+                candidates.pop(0)
 
     def gather_evidence() -> str:
         # The profile is deliberately left out: its sample rows contain so many small values
