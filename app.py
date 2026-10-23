@@ -23,6 +23,8 @@ SUGGESTIONS = [
     "Which product category has the lowest customer rating, and how does that compare to industry benchmarks?",
 ]
 HISTORY_TURNS = 4
+# The public demo runs on the owner's API keys, so cap usage per browser session.
+MAX_QUESTIONS_PER_SESSION = 15
 INSIGHT_REPORT_LABEL = "✨ Generate an insight report for this dataset"
 
 st.markdown(
@@ -206,6 +208,12 @@ if question:
     if not model:
         st.warning("Add an API key in the sidebar first.")
         st.stop()
+    asked = st.session_state.get("questions_asked", 0)
+    if asked >= MAX_QUESTIONS_PER_SESSION:
+        st.warning(f"This public demo allows {MAX_QUESTIONS_PER_SESSION} questions per session. "
+                   "Run it locally from the GitHub repo for unlimited use.")
+        st.stop()
+    st.session_state.questions_asked = asked + 1
 
     is_report = question == INSIGHT_REPORT_LABEL
     prompt = INSIGHT_REPORT_QUESTION if is_report else question
