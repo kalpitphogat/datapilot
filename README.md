@@ -4,6 +4,9 @@
 Upload a CSV or Excel file and ask questions in plain English. DataPilot writes and runs real Python
 to find the answer, draws charts, and pulls in web context when your data alone isn't enough.
 
+**▶ Live demo: https://datapilot-11.streamlit.app** — click *Try the sample sales dataset*, then ask a question.
+(Free hosting sleeps when idle; the first visit may take ~30 seconds to wake up.)
+
 > Built for the Nebius x NVIDIA Global AI Hackathon 2026 — track: **Best Apps and Agents**.
 
 ## The problem
